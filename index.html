@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>연프 어디까지 봤니?</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#0A0A0A;--surface:#161616;--surface2:#222;--surface3:#2E2E2E;
+  --text:#F5F5F5;--text2:#AAA;--text3:#666;
+  --radius:14px;--max-w:480px;
+  --solo:#FF6B35;--heart:#FF2D55;--nasol:#C0392B;--hwan:#8E44AD;
+}
+html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.app{max-width:var(--max-w);margin:0 auto;min-height:100vh;}
+
+/* Header */
+.header{position:sticky;top:0;z-index:100;background:rgba(10,10,10,0.92);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);padding:14px 16px 0;}
+.brand{display:flex;align-items:center;gap:6px;margin-bottom:12px;}
+.brand-name{font-size:17px;font-weight:900;letter-spacing:-0.02em;}
+
+/* Show Tabs */
+.show-tabs{display:flex;border-bottom:2px solid var(--surface2);}
+.show-tab{flex:1;padding:10px 0;text-align:center;font-size:12px;font-weight:700;color:var(--text3);cursor:pointer;border:none;background:none;font-family:inherit;position:relative;transition:color 0.2s;display:flex;flex-direction:column;align-items:center;gap:2px;}
+.show-tab .icon{font-size:18px;}
+.show-tab.active{color:var(--text);}
+.show-tab.active::after{content:'';position:absolute;bottom:-2px;left:15%;width:70%;height:2.5px;border-radius:2px;}
+.show-tab[data-show="솔로지옥"].active::after{background:var(--solo);}
+.show-tab[data-show="하트시그널"].active::after{background:var(--heart);}
+.show-tab[data-show="나는솔로"].active::after{background:var(--nasol);}
+.show-tab[data-show="환승연애"].active::after{background:var(--hwan);}
+
+/* Season Filter */
+.season-row{display:flex;gap:6px;overflow-x:auto;padding:12px 16px 6px;-webkit-overflow-scrolling:touch;}
+.season-row::-webkit-scrollbar{display:none;}
+.s-chip{padding:7px 14px;border-radius:20px;font-size:12px;font-weight:600;white-space:nowrap;cursor:pointer;border:1px solid var(--surface2);background:var(--surface);color:var(--text2);transition:all 0.15s;flex-shrink:0;}
+.s-chip.active{color:#fff;border-color:transparent;}
+
+/* Sort */
+.sort-bar{display:flex;align-items:center;justify-content:space-between;padding:4px 16px 10px;}
+.sort-bar .info{font-size:12px;color:var(--text3);}
+.sort-btns{display:flex;gap:4px;}
+.sort-btn{padding:5px 10px;border-radius:8px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid var(--surface2);background:var(--surface);color:var(--text3);font-family:inherit;}
+.sort-btn.active{background:var(--surface3);color:var(--text);border-color:var(--text3);}
+
+/* Search */
+.search-bar{padding:0 16px 8px;}
+.search-input{width:100%;padding:10px 14px;border-radius:12px;border:1.5px solid var(--surface2);background:var(--surface);color:var(--text);font-size:13px;font-family:inherit;outline:none;}
+.search-input:focus{border-color:var(--heart);}
+.search-input::placeholder{color:var(--text3);}
+
+/* Video List */
+.video-list{padding:0 16px 100px;}
+.vcard{display:flex;gap:12px;background:var(--surface);border-radius:12px;padding:12px;margin-bottom:8px;cursor:pointer;transition:transform 0.12s;}
+.vcard:active{transform:scale(0.98);}
+.vcard.watched{opacity:0.45;}
+.vcard-thumb{position:relative;width:140px;height:79px;border-radius:8px;overflow:hidden;flex-shrink:0;background:#111;}
+.vcard-thumb img{width:100%;height:100%;object-fit:cover;}
+.vcard-dur{position:absolute;bottom:4px;right:4px;background:rgba(0,0,0,0.8);color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;}
+.vcard-body{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:space-between;}
+.vcard-title{font-size:13px;font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.vcard-meta{display:flex;flex-wrap:wrap;gap:6px;font-size:10px;color:var(--text3);margin-top:auto;}
+.vcard-season{font-size:9px;font-weight:700;padding:2px 6px;border-radius:6px;color:#fff;display:inline-block;margin-bottom:2px;}
+.vcard-watched-badge{font-size:9px;color:#30D158;font-weight:700;}
+
+/* Player */
+.player{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.96);z-index:500;display:none;flex-direction:column;}
+.player.active{display:flex;}
+.player-top{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;}
+.player-close{background:none;border:none;color:#fff;font-size:22px;cursor:pointer;}
+.player-frame{display:flex;align-items:center;justify-content:center;}
+.player-frame iframe{width:100%;max-width:var(--max-w);aspect-ratio:16/9;border:none;border-radius:10px;}
+.player-info{padding:14px 16px;overflow-y:auto;flex:1;}
+.player-title{font-size:15px;font-weight:700;margin-bottom:4px;}
+.player-meta{font-size:12px;color:var(--text2);margin-bottom:10px;}
+.player-btn{padding:8px 16px;border-radius:10px;font-size:12px;font-weight:700;cursor:pointer;border:1px solid #30D158;background:transparent;color:#30D158;font-family:inherit;margin-bottom:14px;transition:all 0.15s;}
+.player-btn.done{background:#30D158;color:#000;}
+.player-next-label{font-size:12px;font-weight:700;color:var(--text3);margin-bottom:8px;}
+.player-next{display:flex;flex-direction:column;gap:6px;}
+.pn-item{display:flex;gap:8px;padding:8px;background:var(--surface);border-radius:8px;cursor:pointer;}
+.pn-item img{width:100px;height:56px;object-fit:cover;border-radius:5px;flex-shrink:0;}
+.pn-item .pn-t{font-size:11px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.pn-item .pn-m{font-size:10px;color:var(--text3);margin-top:2px;}
+
+.empty{text-align:center;padding:60px 0;color:var(--text3);font-size:13px;}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="header">
+    <div class="brand">
+      <span style="font-size:20px;">📺</span>
+      <span class="brand-name">연프 어디까지 봤니?</span>
+    </div>
+    <div class="show-tabs" id="show-tabs">
+      <button class="show-tab active" data-show="솔로지옥" onclick="setShow(this,'솔로지옥')"><span class="icon">🏝️</span>솔로지옥</button>
+      <button class="show-tab" data-show="하트시그널" onclick="setShow(this,'하트시그널')"><span class="icon">💓</span>하트시그널</button>
+      <button class="show-tab" data-show="나는솔로" onclick="setShow(this,'나는솔로')"><span class="icon">🌹</span>나는솔로</button>
+      <button class="show-tab" data-show="환승연애" onclick="setShow(this,'환승연애')"><span class="icon">🔄</span>환승연애</button>
+    </div>
+  </div>
+
+  <div class="search-bar" style="padding-top:10px;">
+    <input class="search-input" type="search" placeholder="영상 제목, 채널명 검색..." id="searchInput" autocomplete="off">
+  </div>
+  <div class="season-row" id="season-row"></div>
+  <div class="sort-bar">
+    <span class="info" id="count-info"></span>
+    <div class="sort-btns">
+      <button class="sort-btn active" onclick="setSort(this,'views')">조회수순</button>
+      <button class="sort-btn" onclick="setSort(this,'latest')">최신순</button>
+      <button class="sort-btn" onclick="setSort(this,'likes')">좋아요순</button>
+    </div>
+  </div>
+  <div class="video-list" id="video-list"><div class="empty">로딩 중...</div></div>
+
+  <div class="player" id="player">
+    <div class="player-top">
+      <button class="player-close" onclick="closePlayer()">✕</button>
+      <span style="font-size:12px;color:var(--text3);" id="p-ch"></span>
+    </div>
+    <div class="player-frame">
+      <iframe id="p-iframe" src="" allow="autoplay;encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div class="player-info">
+      <div class="player-title" id="p-title"></div>
+      <div class="player-meta" id="p-meta"></div>
+      <button class="player-btn" id="p-watched" onclick="toggleWatched()">👁 시청 완료</button>
+      <div class="player-next-label">다음 영상</div>
+      <div class="player-next" id="p-next"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+let feed={shows:{}}, curShow='솔로지옥', curSeason='전체', sortMode='views', filtered=[], curVideoId=null;
+const COLORS={솔로지옥:'#FF6B35',하트시그널:'#FF2D55',나는솔로:'#C0392B',환승연애:'#8E44AD'};
+
+function fmt(n){if(n>=100000000)return(n/100000000).toFixed(1)+'억';if(n>=10000)return Math.round(n/10000)+'만';if(n>=1000)return Math.round(n/1000)+'천';return n+'';}
+function fmtDur(s){if(!s)return'';const m=Math.floor(s/60),sec=s%60;return m>60?Math.floor(m/60)+'시간 '+(m%60)+'분':m+'분';}
+function getWatched(){try{return JSON.parse(localStorage.getItem('yp_watched')||'{}');}catch{return{};}}
+function isWatched(id){return!!getWatched()[id];}
+function markWatched(id){const w=getWatched();w[id]=Date.now();localStorage.setItem('yp_watched',JSON.stringify(w));}
+function unmarkWatched(id){const w=getWatched();delete w[id];localStorage.setItem('yp_watched',JSON.stringify(w));}
+
+async function load(){
+  try{
+    const r=await fetch('data/feed.json?t='+Date.now());
+    feed=await r.json();
+    renderShow();
+  }catch{document.getElementById('video-list').innerHTML='<div class="empty">데이터를 불러올 수 없습니다.</div>';}
+}
+
+function setShow(el,name){
+  document.querySelectorAll('.show-tab').forEach(t=>t.classList.remove('active'));
+  el.classList.add('active');
+  curShow=name; curSeason='전체';
+  document.getElementById('searchInput').value='';
+  renderShow();
+}
+
+function renderShow(){
+  const show=feed.shows[curShow];
+  if(!show){document.getElementById('video-list').innerHTML='<div class="empty">데이터 없음</div>';return;}
+  // 시즌 필터
+  const el=document.getElementById('season-row');
+  const color=COLORS[curShow];
+  let chips=`<div class="s-chip active" style="background:${color}" onclick="setSeason(this,'전체')">전체 ${show.total}</div>`;
+  (show.seasons||[]).forEach(s=>{
+    chips+=`<div class="s-chip" onclick="setSeason(this,'${s.season}')">${s.season} (${s.cnt})</div>`;
+  });
+  el.innerHTML=chips;
+  apply();
+}
+
+function setSeason(el,season){
+  document.querySelectorAll('.s-chip').forEach(c=>{c.classList.remove('active');c.style.background='';});
+  el.classList.add('active');
+  el.style.background=season==='전체'?COLORS[curShow]:'var(--text)';
+  curSeason=season;
+  apply();
+}
+
+function setSort(el,mode){
+  document.querySelectorAll('.sort-btn').forEach(b=>b.classList.remove('active'));
+  el.classList.add('active');
+  sortMode=mode; apply();
+}
+
+function apply(){
+  const show=feed.shows[curShow];
+  if(!show)return;
+  let items=[...show.videos];
+  if(curSeason!=='전체') items=items.filter(v=>v.season===curSeason);
+  const q=(document.getElementById('searchInput').value||'').trim().toLowerCase();
+  if(q) items=items.filter(v=>v.title.toLowerCase().includes(q)||v.channel_name.toLowerCase().includes(q));
+  if(sortMode==='views') items.sort((a,b)=>b.view_count-a.view_count);
+  else if(sortMode==='latest') items.sort((a,b)=>(b.published_at||'').localeCompare(a.published_at||''));
+  else if(sortMode==='likes') items.sort((a,b)=>b.like_count-a.like_count);
+  filtered=items;
+  document.getElementById('count-info').textContent=`${items.length}개 영상`;
+  render(items);
+}
+
+function render(items){
+  const el=document.getElementById('video-list');
+  if(!items.length){el.innerHTML='<div class="empty">영상이 없습니다</div>';return;}
+  const color=COLORS[curShow];
+  el.innerHTML=items.slice(0,80).map((v,i)=>{
+    const w=isWatched(v.video_id);
+    return `<div class="vcard${w?' watched':''}" onclick="play(${i})">
+      <div class="vcard-thumb">
+        <img src="${v.thumbnail_url||'https://img.youtube.com/vi/'+v.video_id+'/mqdefault.jpg'}" alt="" loading="lazy">
+        <span class="vcard-dur">${fmtDur(v.duration_sec)}</span>
+      </div>
+      <div class="vcard-body">
+        ${v.season?`<span class="vcard-season" style="background:${color}">${v.season}${v.episode?' '+v.episode+'화':''}</span>`:''}
+        <div class="vcard-title">${v.title}</div>
+        <div class="vcard-meta">
+          <span>${v.channel_name}</span>
+          <span>▶ ${fmt(v.view_count)}</span>
+          <span>♥ ${fmt(v.like_count)}</span>
+          ${w?'<span class="vcard-watched-badge">✓ 봤어요</span>':''}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function play(i){
+  const v=filtered[i]; if(!v) return;
+  curVideoId=v.video_id;
+  document.getElementById('p-iframe').src=v.embed_url+'?autoplay=1';
+  document.getElementById('p-title').textContent=v.title;
+  document.getElementById('p-ch').textContent=v.channel_name;
+  document.getElementById('p-meta').textContent=`조회수 ${fmt(v.view_count)} · ♥ ${fmt(v.like_count)} · ${fmtDur(v.duration_sec)}`;
+  const wb=document.getElementById('p-watched');
+  if(isWatched(v.video_id)){wb.textContent='✓ 시청 완료';wb.classList.add('done');}
+  else{wb.textContent='👁 시청 완료';wb.classList.remove('done');}
+  // 다음 추천
+  const next=filtered.filter((_,j)=>j!==i).slice(0,5);
+  document.getElementById('p-next').innerHTML=next.map((n,j)=>{
+    const ni=filtered.indexOf(n);
+    return `<div class="pn-item" onclick="play(${ni})">
+      <img src="${n.thumbnail_url||'https://img.youtube.com/vi/'+n.video_id+'/mqdefault.jpg'}" alt="" loading="lazy">
+      <div><div class="pn-t">${n.title}</div><div class="pn-m">${n.channel_name} · ▶${fmt(n.view_count)}</div></div>
+    </div>`;
+  }).join('');
+  document.getElementById('player').classList.add('active');
+  document.body.style.overflow='hidden';
+}
+
+function toggleWatched(){
+  if(!curVideoId)return;
+  const wb=document.getElementById('p-watched');
+  if(isWatched(curVideoId)){unmarkWatched(curVideoId);wb.textContent='👁 시청 완료';wb.classList.remove('done');}
+  else{markWatched(curVideoId);wb.textContent='✓ 시청 완료';wb.classList.add('done');}
+}
+
+function closePlayer(){
+  document.getElementById('player').classList.remove('active');
+  document.getElementById('p-iframe').src='';
+  document.body.style.overflow='';
+  curVideoId=null;
+  apply();
+}
+
+document.getElementById('searchInput').addEventListener('input',()=>apply());
+load();
+</script>
+</body>
+</html>
