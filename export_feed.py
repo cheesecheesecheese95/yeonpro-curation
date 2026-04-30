@@ -26,7 +26,7 @@ def export():
             SELECT video_id, channel_name, title, published_at,
                    view_count, like_count, comment_count, duration_sec,
                    thumbnail_url, season, episode, content_type
-            FROM videos WHERE show_name = ? AND view_count >= 1000
+            FROM videos WHERE show_name = ? AND view_count >= 1000 AND season IS NOT NULL
             ORDER BY view_count DESC LIMIT 800
         """, (show_name,)).fetchall()]
 
