@@ -21,8 +21,9 @@ def export():
         videos = [dict(r) for r in conn.execute("""
             SELECT video_id, channel_name, title, published_at,
                    view_count, like_count, comment_count, duration_sec,
-                   thumbnail_url, season, episode
-            FROM videos WHERE show_name = ? AND view_count > 0
+                   thumbnail_url, season, episode, content_type
+            FROM videos WHERE show_name = ? AND view_count >= 1000
+                AND (published_at > datetime('now','-1 day') OR view_count >= 1000)
             ORDER BY view_count DESC LIMIT 500
         """, (show_name,)).fetchall()]
 
