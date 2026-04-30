@@ -29,25 +29,42 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 .show-tab[data-s="나는솔로"].active::after{background:var(--nasol);}
 .show-tab[data-s="환승연애"].active::after{background:var(--hwan);}
 
-/* Season chips */
+/* Show intro */
+.show-intro{padding:12px 16px;background:var(--surface);margin:10px 16px 0;border-radius:12px;display:flex;gap:10px;align-items:center;}
+.show-intro .intro-icon{font-size:28px;}
+.show-intro .intro-text{flex:1;}
+.show-intro .intro-name{font-size:14px;font-weight:800;margin-bottom:2px;}
+.show-intro .intro-desc{font-size:11px;color:var(--text2);line-height:1.5;}
+
+/* Search */
+.search-bar{padding:10px 16px 0;}
+.search-input{width:100%;padding:10px 14px;border-radius:12px;border:1.5px solid var(--surface2);background:var(--surface);color:var(--text);font-size:13px;font-family:inherit;outline:none;}
+.search-input:focus{border-color:var(--heart);}
+.search-input::placeholder{color:var(--text3);}
+
+/* Season/Episode chips */
 .row{display:flex;gap:6px;overflow-x:auto;padding:10px 16px 6px;-webkit-overflow-scrolling:touch;}
 .row::-webkit-scrollbar{display:none;}
 .chip{padding:7px 14px;border-radius:20px;font-size:12px;font-weight:600;white-space:nowrap;cursor:pointer;border:1px solid var(--surface2);background:var(--surface);color:var(--text2);transition:all 0.15s;flex-shrink:0;}
 .chip.active{color:#fff;border-color:transparent;}
 
-/* Episode grid */
 .ep-section{padding:6px 16px 0;}
 .ep-label{font-size:12px;font-weight:700;color:var(--text3);margin-bottom:8px;}
 .ep-grid{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;}
 .ep-btn{width:42px;height:36px;border-radius:10px;font-size:13px;font-weight:700;cursor:pointer;border:1px solid var(--surface2);background:var(--surface);color:var(--text2);font-family:inherit;transition:all 0.15s;display:flex;align-items:center;justify-content:center;}
 .ep-btn.active{color:#fff;border-color:transparent;}
-.ep-btn.has-content{border-color:var(--text3);}
 
-/* Content type tabs */
-.type-tabs{display:flex;gap:0;margin:0 16px 8px;border-radius:10px;overflow:hidden;border:1px solid var(--surface2);}
+/* Type tabs */
+.type-tabs{display:flex;gap:0;margin:6px 16px 8px;border-radius:10px;overflow:hidden;border:1px solid var(--surface2);}
 .type-tab{flex:1;padding:9px;text-align:center;font-size:12px;font-weight:700;color:var(--text3);cursor:pointer;border:none;background:var(--surface);font-family:inherit;transition:all 0.15s;}
 .type-tab.active{background:var(--surface3);color:var(--text);}
 .type-tab .cnt{font-size:10px;opacity:0.6;margin-left:3px;}
+
+/* Info bar */
+.info-bar{padding:4px 16px 6px;display:flex;align-items:center;justify-content:space-between;}
+.info-bar .cnt{font-size:12px;color:var(--text3);}
+.filter-btn{font-size:11px;color:var(--text2);background:var(--surface);border:1px solid var(--surface2);border-radius:8px;padding:4px 10px;cursor:pointer;font-family:inherit;}
+.filter-btn.active{color:#30D158;border-color:#30D158;}
 
 /* Video list */
 .vlist{padding:0 16px 100px;}
@@ -58,16 +75,11 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 .vcard-thumb img{width:100%;height:100%;object-fit:cover;}
 .vcard-dur{position:absolute;bottom:3px;right:3px;background:rgba(0,0,0,0.8);color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;}
 .vcard-rank{position:absolute;top:3px;left:3px;background:rgba(0,0,0,0.7);color:#fff;font-size:10px;font-weight:900;padding:1px 6px;border-radius:4px;}
+.vcard-ep{position:absolute;top:3px;right:3px;font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;color:#fff;}
 .vcard-body{flex:1;min-width:0;display:flex;flex-direction:column;}
 .vcard-title{font-size:12px;font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:auto;}
 .vcard-meta{display:flex;flex-wrap:wrap;gap:6px;font-size:10px;color:var(--text3);margin-top:6px;}
 .vcard-watched-badge{color:#30D158;font-weight:700;}
-
-/* Info bar */
-.info-bar{padding:4px 16px 6px;display:flex;align-items:center;justify-content:space-between;}
-.info-bar .cnt{font-size:12px;color:var(--text3);}
-.info-bar .filter-btn{font-size:11px;color:var(--text2);background:var(--surface);border:1px solid var(--surface2);border-radius:8px;padding:4px 10px;cursor:pointer;font-family:inherit;}
-.info-bar .filter-btn.active{color:#30D158;border-color:#30D158;}
 
 /* Player */
 .player{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.96);z-index:500;display:none;flex-direction:column;}
@@ -103,6 +115,12 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
     </div>
   </div>
 
+  <div class="show-intro" id="show-intro"></div>
+
+  <div class="search-bar">
+    <input class="search-input" type="search" placeholder="출연자, 채널명, 키워드 검색..." id="searchInput" autocomplete="off">
+  </div>
+
   <div class="row" id="season-row"></div>
   <div class="ep-section" id="ep-section" style="display:none;">
     <div class="ep-label">회차 선택</div>
@@ -111,10 +129,11 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
   <div class="type-tabs" id="type-tabs">
     <button class="type-tab active" onclick="setType(this,'summary')">📝 요약<span class="cnt" id="cnt-summary"></span></button>
     <button class="type-tab" onclick="setType(this,'review')">💬 리뷰<span class="cnt" id="cnt-review"></span></button>
+    <button class="type-tab" onclick="setType(this,'other')">📌 기타<span class="cnt" id="cnt-other"></span></button>
   </div>
   <div class="info-bar">
     <span class="cnt" id="count-info"></span>
-    <button class="info-bar filter-btn" id="hide-watched" onclick="toggleHideWatched()">🙈 안 본 것만</button>
+    <button class="filter-btn" id="hide-watched" onclick="toggleHideWatched()">🙈 안 본 것만</button>
   </div>
   <div class="vlist" id="vlist"><div class="empty">로딩 중...</div></div>
 
@@ -130,7 +149,7 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
       <div class="player-title" id="p-title"></div>
       <div class="player-meta" id="p-meta"></div>
       <button class="player-btn" id="p-btn" onclick="toggleWatched()">👁 시청 완료</button>
-      <div class="player-next-label">이 회차 다른 영상</div>
+      <div class="player-next-label">다음 영상</div>
       <div class="player-next" id="p-next"></div>
     </div>
   </div>
@@ -139,6 +158,12 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 <script>
 let feed={shows:{}}, curShow='솔로지옥', curSeason=null, curEp=null, curType='summary', hideWatched=false, filtered=[], curVid=null;
 const COLORS={솔로지옥:'#FF6B35',하트시그널:'#FF2D55',나는솔로:'#C0392B',환승연애:'#8E44AD'};
+const INTROS={
+  솔로지옥:{desc:'지옥 같은 무인도에서 천국 같은 파라다이스행 티켓을 얻기 위한 솔로들의 연애 서바이벌 (넷플릭스)',seasons:'시즌1~5'},
+  하트시그널:{desc:'시그널 하우스에 모인 남녀의 연애를 패널들이 추리하는 관찰 예능 (채널A)',seasons:'시즌1~5'},
+  나는솔로:{desc:'결혼을 꿈꾸는 솔로 남녀의 진짜 결혼 리얼리티 (ENA)',seasons:'1기~31기+'},
+  환승연애:{desc:'헤어진 연인과 새로운 사람 사이에서 선택하는 연애 리얼리티 (TVING)',seasons:'시즌1~4'},
+};
 
 function fmt(n){if(n>=100000000)return(n/100000000).toFixed(1)+'억';if(n>=10000)return Math.round(n/10000)+'만';if(n>=1000)return Math.round(n/1000)+'천';return n+'';}
 function fmtDur(s){if(!s)return'';const m=Math.floor(s/60);return m>60?Math.floor(m/60)+'시간 '+(m%60)+'분':m+'분';}
@@ -147,11 +172,7 @@ function isW(id){return!!getW()[id];}
 function markW(id){const w=getW();w[id]=Date.now();localStorage.setItem('yp_w',JSON.stringify(w));}
 function unmarkW(id){const w=getW();delete w[id];localStorage.setItem('yp_w',JSON.stringify(w));}
 
-function seasonSort(a, b) {
-  const na = parseInt(a.replace(/[^0-9]/g,'')) || 0;
-  const nb = parseInt(b.replace(/[^0-9]/g,'')) || 0;
-  return nb - na; // 최신 시즌 먼저
-}
+function seasonSortKey(s){return parseInt(s.replace(/[^0-9]/g,''))||0;}
 
 async function load(){
   try{
@@ -166,6 +187,7 @@ function setShow(name){
   document.querySelector(`.show-tab[data-s="${name}"]`).classList.add('active');
   curShow=name; curSeason=null; curEp=null; curType='summary';
   document.querySelectorAll('.type-tab').forEach((t,i)=>t.classList.toggle('active',i===0));
+  document.getElementById('searchInput').value='';
   renderShow();
 }
 
@@ -173,14 +195,23 @@ function renderShow(){
   const show=feed.shows[curShow];
   if(!show) return;
   const color=COLORS[curShow];
+  const intro=INTROS[curShow];
+
+  // 프로그램 소개
+  document.getElementById('show-intro').innerHTML=`
+    <div class="intro-icon">${show.icon}</div>
+    <div class="intro-text">
+      <div class="intro-name">${curShow} <span style="font-size:11px;color:var(--text3);font-weight:500;">${intro.seasons}</span></div>
+      <div class="intro-desc">${intro.desc}</div>
+    </div>`;
+  document.getElementById('show-intro').style.borderLeft=`3px solid ${color}`;
 
   // 시즌 목록
-  const seasons = (show.seasons||[]).map(s=>s.season);
-  if(!curSeason && seasons.length) curSeason=seasons[0]; // 최신 시즌 기본
-
+  const seasons=(show.seasons||[]).map(s=>s.season);
+  if(!curSeason && seasons.length) curSeason=seasons[0];
   const el=document.getElementById('season-row');
-  el.innerHTML = seasons.map((s,i) => {
-    const act = s===curSeason;
+  el.innerHTML=seasons.map(s=>{
+    const act=s===curSeason;
     return `<div class="chip${act?' active':''}" style="${act?'background:'+color:''}" onclick="setSeason('${s}')">${s}</div>`;
   }).join('');
 
@@ -191,9 +222,9 @@ function setSeason(s){
   curSeason=s; curEp=null;
   const color=COLORS[curShow];
   document.querySelectorAll('#season-row .chip').forEach(c=>{
-    const isMatch = s && c.textContent.startsWith(s);
-    c.classList.toggle('active', isMatch);
-    c.style.background = isMatch ? color : '';
+    const isMatch=c.textContent===s;
+    c.classList.toggle('active',isMatch);
+    c.style.background=isMatch?color:'';
   });
   renderEpisodes();
 }
@@ -202,31 +233,23 @@ function renderEpisodes(){
   const show=feed.shows[curShow];
   if(!show) return;
   const color=COLORS[curShow];
-
-  // 현재 시즌의 회차 목록
-  const seasonVideos = curSeason ? show.videos.filter(v=>v.season===curSeason) : [];
-  const eps = [...new Set(seasonVideos.filter(v=>v.episode).map(v=>v.episode))].sort((a,b)=>parseInt(a)-parseInt(b));
-
+  const seasonVids=curSeason?show.videos.filter(v=>v.season===curSeason):[];
+  const eps=[...new Set(seasonVids.filter(v=>v.episode).map(v=>v.episode))].sort((a,b)=>parseInt(a)-parseInt(b));
   const section=document.getElementById('ep-section');
   const grid=document.getElementById('ep-grid');
-
-  if(eps.length > 0){
+  if(eps.length>0){
     section.style.display='';
-    grid.innerHTML = eps.map(e=>{
-        const act=curEp===e;
-        return `<div class="ep-btn has-content${act?' active':''}" style="${act?'background:'+color:''}" onclick="setEp('${e}')">${e}</div>`;
-      }).join('');
+    grid.innerHTML=eps.map(e=>{
+      const act=curEp===e;
+      return `<div class="ep-btn${act?' active':''}" style="${act?'background:'+color:''}" onclick="setEp('${e}')">${e}</div>`;
+    }).join('');
   } else {
     section.style.display='none';
   }
-
   apply();
 }
 
-function setEp(ep){
-  curEp=ep;
-  renderEpisodes();
-}
+function setEp(ep){curEp=ep;renderEpisodes();}
 
 function setType(el,type){
   document.querySelectorAll('.type-tab').forEach(t=>t.classList.remove('active'));
@@ -245,24 +268,33 @@ function apply(){
   const show=feed.shows[curShow];
   if(!show) return;
 
-  let items = curSeason ? show.videos.filter(v=>v.season===curSeason) : [...show.videos];
+  let items=curSeason?show.videos.filter(v=>v.season===curSeason):[...show.videos];
   if(curEp) items=items.filter(v=>v.episode===curEp);
-  if(curType!=='all') items=items.filter(v=>v.content_type===curType);
-  if(hideWatched) items=items.filter(v=>!isW(v.video_id));
 
-  // 회차별로 그룹핑 후 각 회차 내 조회수순, 회차 없는 건 뒤로
-  items.sort((a,b)=>{
-    const ea = parseInt(a.episode) || 9999;
-    const eb = parseInt(b.episode) || 9999;
-    if(ea !== eb) return ea - eb; // 회차 오름차순
-    return b.view_count - a.view_count; // 같은 회차면 조회수순
-  });
-  filtered=items;
+  // 검색
+  const q=(document.getElementById('searchInput').value||'').trim().toLowerCase();
+  if(q) items=items.filter(v=>v.title.toLowerCase().includes(q)||v.channel_name.toLowerCase().includes(q));
 
   // 타입별 카운트
-  const allForCount = curSeason ? show.videos.filter(v=>v.season===curSeason&&(!curEp||v.episode===curEp)) : show.videos.filter(v=>!curEp||v.episode===curEp);
-  document.getElementById('cnt-summary').textContent=allForCount.filter(v=>v.content_type==='summary').length||'';
-  document.getElementById('cnt-review').textContent=allForCount.filter(v=>v.content_type==='review').length||'';
+  const base=[...items];
+  document.getElementById('cnt-summary').textContent=base.filter(v=>v.content_type==='summary').length||'';
+  document.getElementById('cnt-review').textContent=base.filter(v=>v.content_type==='review').length||'';
+  document.getElementById('cnt-other').textContent=base.filter(v=>v.content_type==='other'||!v.content_type).length||'';
+
+  // 타입 필터
+  if(curType==='other') items=items.filter(v=>v.content_type==='other'||!v.content_type);
+  else items=items.filter(v=>v.content_type===curType);
+
+  if(hideWatched) items=items.filter(v=>!isW(v.video_id));
+
+  // 정렬: 회차순 → 같은 회차 내 조회수순
+  items.sort((a,b)=>{
+    const ea=parseInt(a.episode)||9999;
+    const eb=parseInt(b.episode)||9999;
+    if(ea!==eb) return ea-eb;
+    return b.view_count-a.view_count;
+  });
+  filtered=items;
 
   const label=curEp?`${curSeason} ${curEp}화`:curSeason||'';
   document.getElementById('count-info').textContent=`${label} · ${items.length}개 영상`;
@@ -272,13 +304,15 @@ function apply(){
 function render(items){
   const el=document.getElementById('vlist');
   if(!items.length){el.innerHTML='<div class="empty">영상이 없습니다</div>';return;}
-  el.innerHTML=items.slice(0,60).map((v,i)=>{
+  const color=COLORS[curShow];
+  el.innerHTML=items.slice(0,80).map((v,i)=>{
     const w=isW(v.video_id);
     return `<div class="vcard${w?' watched':''}" onclick="play(${i})">
       <div class="vcard-thumb">
         <img src="${v.thumbnail_url||'https://img.youtube.com/vi/'+v.video_id+'/mqdefault.jpg'}" loading="lazy">
         <span class="vcard-dur">${fmtDur(v.duration_sec)}</span>
         <span class="vcard-rank">${i+1}</span>
+        ${v.episode?`<span class="vcard-ep" style="background:${color}">${v.episode}화</span>`:''}
       </div>
       <div class="vcard-body">
         <div class="vcard-title">${v.title}</div>
@@ -303,10 +337,8 @@ function play(i){
   const wb=document.getElementById('p-btn');
   if(isW(v.video_id)){wb.textContent='✓ 시청 완료';wb.classList.add('done');}
   else{wb.textContent='👁 시청 완료';wb.classList.remove('done');}
-
-  // 같은 회차 다른 영상
   const same=filtered.filter((_,j)=>j!==i).slice(0,5);
-  document.getElementById('p-next').innerHTML=same.map((n,j)=>{
+  document.getElementById('p-next').innerHTML=same.map(n=>{
     const ni=filtered.indexOf(n);
     return `<div class="pn-item" onclick="play(${ni})">
       <img src="${n.thumbnail_url||'https://img.youtube.com/vi/'+n.video_id+'/mqdefault.jpg'}" loading="lazy">
@@ -331,6 +363,7 @@ function closePlayer(){
   curVid=null; apply();
 }
 
+document.getElementById('searchInput').addEventListener('input',()=>apply());
 load();
 </script>
 </body>
