@@ -234,7 +234,7 @@ function renderEpisodes(){
   if(!show) return;
   const color=COLORS[curShow];
   const seasonVids=curSeason?show.videos.filter(v=>v.season===curSeason):[];
-  const eps=[...new Set(seasonVids.filter(v=>v.episode).map(v=>v.episode))].sort((a,b)=>parseInt(a)-parseInt(b));
+  const eps=[...new Set(seasonVids.filter(v=>v.episode&&v.episode!=='null'&&v.episode!=='None').map(v=>v.episode))].sort((a,b)=>parseInt(a)-parseInt(b));
   const section=document.getElementById('ep-section');
   const grid=document.getElementById('ep-grid');
   if(eps.length>0){
