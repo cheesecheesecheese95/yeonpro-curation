@@ -250,8 +250,13 @@ function apply(){
   if(curType!=='all') items=items.filter(v=>v.content_type===curType);
   if(hideWatched) items=items.filter(v=>!isW(v.video_id));
 
-  // 조회수순
-  items.sort((a,b)=>b.view_count-a.view_count);
+  // 회차별로 그룹핑 후 각 회차 내 조회수순, 회차 없는 건 뒤로
+  items.sort((a,b)=>{
+    const ea = parseInt(a.episode) || 9999;
+    const eb = parseInt(b.episode) || 9999;
+    if(ea !== eb) return ea - eb; // 회차 오름차순
+    return b.view_count - a.view_count; // 같은 회차면 조회수순
+  });
   filtered=items;
 
   // 타입별 카운트

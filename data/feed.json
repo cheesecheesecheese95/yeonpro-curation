@@ -4,32 +4,32 @@
       "icon": "🏝️",
       "color": "#FF6B35",
       "en": "Singles Inferno",
-      "total": 558,
+      "total": 634,
       "seasons": [
         {
           "season": "시즌5",
-          "cnt": 332,
-          "views": 147086631
+          "cnt": 359,
+          "views": 165386163
         },
         {
           "season": "시즌4",
-          "cnt": 87,
-          "views": 86815886
+          "cnt": 125,
+          "views": 110444412
         },
         {
           "season": "시즌3",
-          "cnt": 85,
-          "views": 115766968
+          "cnt": 87,
+          "views": 116044052
         },
         {
           "season": "시즌2",
-          "cnt": 33,
-          "views": 64590981
+          "cnt": 40,
+          "views": 85859041
         },
         {
           "season": "시즌1",
-          "cnt": 21,
-          "views": 30144368
+          "cnt": 23,
+          "views": 31636770
         }
       ],
       "videos": [
@@ -47,6 +47,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/sUxE8nmiSh0"
+        },
+        {
+          "video_id": "jjpU0X2mFgk",
+          "channel_name": "숏커밍",
+          "title": "덱쪽이가 여자들에게 인기가 많은 가장 근본적인 이유#솔로지옥2",
+          "published_at": "2024-03-19T05:29:16Z",
+          "view_count": 12353158,
+          "like_count": 153264,
+          "comment_count": 1493,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/jjpU0X2mFgk/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/jjpU0X2mFgk"
         },
         {
           "video_id": "NJ5w1brW6Xo",
@@ -319,6 +334,21 @@
           "embed_url": "https://www.youtube.com/embed/4eQxPPz7DTE"
         },
         {
+          "video_id": "6oSUbfLrmM4",
+          "channel_name": "띠요오옹",
+          "title": "무용과 여신이 개그캐일 때 #솔로지옥4",
+          "published_at": "2025-02-16T20:45:00Z",
+          "view_count": 4425438,
+          "like_count": 83947,
+          "comment_count": 1006,
+          "duration_sec": 58,
+          "thumbnail_url": "https://i.ytimg.com/vi/6oSUbfLrmM4/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/6oSUbfLrmM4"
+        },
+        {
           "video_id": "lOYrcrPgtRg",
           "channel_name": "그거봄",
           "title": "솔로지옥5 김민지 송승일 현커",
@@ -409,6 +439,21 @@
           "embed_url": "https://www.youtube.com/embed/3UF580ktQ9E"
         },
         {
+          "video_id": "S03fp4p3TnM",
+          "channel_name": "심쿵모먼트",
+          "title": "한국인 국룰 질문 [솔로지옥4]",
+          "published_at": "2025-04-20T11:05:41Z",
+          "view_count": 3772996,
+          "like_count": 0,
+          "comment_count": 0,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/S03fp4p3TnM/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/S03fp4p3TnM"
+        },
+        {
           "video_id": "_osCK4mrMio",
           "channel_name": "심쿵모먼트",
           "title": "[솔로지옥] 슬기 여우 모먼트",
@@ -497,6 +542,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/lZoqNNhTyIY"
+        },
+        {
+          "video_id": "udRlLqg2JvM",
+          "channel_name": "serena",
+          "title": "reacting to SINGLES INFERNO S2 ep 8 - Nadine’s choice :0 #singlesinferno",
+          "published_at": "2023-01-10T04:39:51Z",
+          "view_count": 3102438,
+          "like_count": 109048,
+          "comment_count": 122,
+          "duration_sec": 59,
+          "thumbnail_url": "https://i.ytimg.com/vi/udRlLqg2JvM/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": "8",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/udRlLqg2JvM"
         },
         {
           "video_id": "cfNDL-wvieI",
@@ -769,6 +829,51 @@
           "embed_url": "https://www.youtube.com/embed/RLYnRLRl6jQ"
         },
         {
+          "video_id": "6eIt3YaGPfg",
+          "channel_name": "하탄방",
+          "title": "솔로지옥5 희선이가 진짜 GOAT인 이유 ㄷㄷㄷ",
+          "published_at": "2026-02-06T11:50:01Z",
+          "view_count": 2288505,
+          "like_count": 25756,
+          "comment_count": 389,
+          "duration_sec": 48,
+          "thumbnail_url": "https://i.ytimg.com/vi/6eIt3YaGPfg/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/6eIt3YaGPfg"
+        },
+        {
+          "video_id": "oRGoKEQKaRI",
+          "channel_name": "폭스토리",
+          "title": "《지옥2》 유아인 vs 김성철 누가 더 잘했을까?",
+          "published_at": "2024-11-23T08:05:35Z",
+          "view_count": 2273569,
+          "like_count": 38024,
+          "comment_count": 3543,
+          "duration_sec": 52,
+          "thumbnail_url": "https://i.ytimg.com/vi/oRGoKEQKaRI/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/oRGoKEQKaRI"
+        },
+        {
+          "video_id": "1tXU2jFnPLU",
+          "channel_name": "째깍째깍",
+          "title": "결국 모든 여자게임을 싹다 우승해버린 이시안 #솔로지옥4 #솔로지옥",
+          "published_at": "2025-02-22T00:30:02Z",
+          "view_count": 2259108,
+          "like_count": 26265,
+          "comment_count": 45,
+          "duration_sec": 59,
+          "thumbnail_url": "https://i.ytimg.com/vi/1tXU2jFnPLU/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/1tXU2jFnPLU"
+        },
+        {
           "video_id": "P_cKzsWADS8",
           "channel_name": "꿀잼클립",
           "title": "솔로지옥5 마지막화 최종선택 대반전",
@@ -872,6 +977,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/jWlTIT5ctng"
+        },
+        {
+          "video_id": "WJ_H8lUOLBQ",
+          "channel_name": "신기방구",
+          "title": "'민지'가 '수빈'을 선택한 이유 ㄷㄷ ##솔로지옥5",
+          "published_at": "2026-02-03T15:26:16Z",
+          "view_count": 2045156,
+          "like_count": 27463,
+          "comment_count": 587,
+          "duration_sec": 54,
+          "thumbnail_url": "https://i.ytimg.com/vi/WJ_H8lUOLBQ/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/WJ_H8lUOLBQ"
         },
         {
           "video_id": "VWI4LGxI-0U",
@@ -1084,6 +1204,21 @@
           "embed_url": "https://www.youtube.com/embed/1NhROHTHHGw"
         },
         {
+          "video_id": "dwpIukUXOW8",
+          "channel_name": "helloimsharon",
+          "title": "Singles Inferno S2’s Sejeong & Korean Beauty Standards",
+          "published_at": "2023-01-03T02:55:55Z",
+          "view_count": 1742513,
+          "like_count": 90833,
+          "comment_count": 1859,
+          "duration_sec": 57,
+          "thumbnail_url": "https://i.ytimg.com/vi/dwpIukUXOW8/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/dwpIukUXOW8"
+        },
+        {
           "video_id": "_3Q_OOHj8dY",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "윤하정 삼킨 수준, 진석의 턱 스킬 | 솔로지옥 3 | 넷플릭스",
@@ -1187,6 +1322,36 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/ZHtq1O0ubfk"
+        },
+        {
+          "video_id": "ZH_55AcQOEo",
+          "channel_name": "신기방구",
+          "title": "'김민지'&'임수빈' 심상치 않은 이유 ㄷㄷ #솔로지옥5",
+          "published_at": "2026-02-02T12:01:51Z",
+          "view_count": 1667463,
+          "like_count": 13425,
+          "comment_count": 162,
+          "duration_sec": 30,
+          "thumbnail_url": "https://i.ytimg.com/vi/ZH_55AcQOEo/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/ZH_55AcQOEo"
+        },
+        {
+          "video_id": "HdKPQA7SitA",
+          "channel_name": "하탄방",
+          "title": "솔로지옥5에서 영역표시 하는 테토녀 육상 카리나 ㄷㄷㄷ",
+          "published_at": "2026-01-22T01:00:20Z",
+          "view_count": 1581288,
+          "like_count": 18409,
+          "comment_count": 450,
+          "duration_sec": 35,
+          "thumbnail_url": "https://i.ytimg.com/vi/HdKPQA7SitA/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/HdKPQA7SitA"
         },
         {
           "video_id": "NIQwN7zkxwk",
@@ -1399,6 +1564,21 @@
           "embed_url": "https://www.youtube.com/embed/MjG4mtliq-o"
         },
         {
+          "video_id": "pm5a0WCB8rA",
+          "channel_name": "리뷰남자",
+          "title": "역대 최고로 이상하다고 평가 받는 미나수 마음은?! 솔로지옥5 리뷰",
+          "published_at": "2026-01-21T06:50:09Z",
+          "view_count": 1353257,
+          "like_count": 17147,
+          "comment_count": 1301,
+          "duration_sec": 101,
+          "thumbnail_url": "https://i.ytimg.com/vi/pm5a0WCB8rA/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/pm5a0WCB8rA"
+        },
+        {
           "video_id": "N1yXAxNV-o0",
           "channel_name": "쇼츠탱크",
           "title": "이리저리 찔러보다 결국 단체 뒷담화 당하는 관희, 규리 혜선 하정 화남 #관희#솔로지옥3  #혜선 #규리",
@@ -1502,6 +1682,36 @@
           "episode": "null",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/sRkRIH_f03o"
+        },
+        {
+          "video_id": "noXxwVEqVxE",
+          "channel_name": "몰입쩜",
+          "title": "'솔로지옥5' 최근 달라진 출연진들 관계 근황",
+          "published_at": "2026-03-24T03:01:01Z",
+          "view_count": 1255898,
+          "like_count": 11347,
+          "comment_count": 60,
+          "duration_sec": 30,
+          "thumbnail_url": "https://i.ytimg.com/vi/noXxwVEqVxE/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/noXxwVEqVxE"
+        },
+        {
+          "video_id": "n3asEUynKMU",
+          "channel_name": "Netflix K-Content",
+          "title": "Single’s Inferno - Best of Season 1 [ENG SUB]",
+          "published_at": "2022-12-10T04:00:12Z",
+          "view_count": 1241326,
+          "like_count": 12167,
+          "comment_count": 266,
+          "duration_sec": 2887,
+          "thumbnail_url": "https://i.ytimg.com/vi/n3asEUynKMU/hqdefault.jpg",
+          "season": "시즌1",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/n3asEUynKMU"
         },
         {
           "video_id": "NenkWxQ6H9E",
@@ -1609,6 +1819,21 @@
           "embed_url": "https://www.youtube.com/embed/5NbWLJlT5eA"
         },
         {
+          "video_id": "UA4QHbaMKd4",
+          "channel_name": "몰입쩜",
+          "title": "성훈이 밝힌 '솔로지옥5' 비하인드",
+          "published_at": "2026-02-19T09:00:44Z",
+          "view_count": 1187873,
+          "like_count": 10483,
+          "comment_count": 136,
+          "duration_sec": 32,
+          "thumbnail_url": "https://i.ytimg.com/vi/UA4QHbaMKd4/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "other",
+          "embed_url": "https://www.youtube.com/embed/UA4QHbaMKd4"
+        },
+        {
           "video_id": "r1myGdS1BGQ",
           "channel_name": "연프 과몰입러",
           "title": "불륜드라마 뺨쳤던 레전드 헬기씬",
@@ -1669,6 +1894,21 @@
           "embed_url": "https://www.youtube.com/embed/xlsNV80w3aA"
         },
         {
+          "video_id": "6dDPtGqeNvA",
+          "channel_name": "째깍째깍",
+          "title": "지옥도 게임에서 이룬 UDT출신 육준서가 이룬 업적 #솔로지옥4 #솔로지옥",
+          "published_at": "2025-01-31T02:57:36Z",
+          "view_count": 1143169,
+          "like_count": 13319,
+          "comment_count": 55,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/6dDPtGqeNvA/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/6dDPtGqeNvA"
+        },
+        {
           "video_id": "ZI_k0WWDB7Q",
           "channel_name": "마인드밍글",
           "title": "갑자기 짜게 식은 남자ㅣ솔로지옥4",
@@ -1714,6 +1954,21 @@
           "embed_url": "https://www.youtube.com/embed/yMJq9X6pPo4"
         },
         {
+          "video_id": "uRoI-B0hOUg",
+          "channel_name": "리뷰남자",
+          "title": "테토녀 김민지의 속깊고 귀여운 매력 ㄷㄷ 솔로지옥 5 리뷰",
+          "published_at": "2026-01-27T10:43:10Z",
+          "view_count": 1076462,
+          "like_count": 15701,
+          "comment_count": 169,
+          "duration_sec": 58,
+          "thumbnail_url": "https://i.ytimg.com/vi/uRoI-B0hOUg/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/uRoI-B0hOUg"
+        },
+        {
           "video_id": "mmFohV0mFkI",
           "channel_name": "돌돌하",
           "title": "솔로지옥3 비하인드 장면",
@@ -1727,6 +1982,36 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/mmFohV0mFkI"
+        },
+        {
+          "video_id": "nOqMdgw0AXc",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "슬기를 떠난 진영, 틈을 노리는 종우 | 솔로지옥2 | 넷플릭스",
+          "published_at": "2023-01-03T09:00:30Z",
+          "view_count": 1043850,
+          "like_count": 4513,
+          "comment_count": 2087,
+          "duration_sec": 330,
+          "thumbnail_url": "https://i.ytimg.com/vi/nOqMdgw0AXc/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/nOqMdgw0AXc"
+        },
+        {
+          "video_id": "JLsCXAkkI7s",
+          "channel_name": "마인드밍글",
+          "title": "압도적 기존쎄ㅣ솔로지옥4",
+          "published_at": "2025-01-21T14:48:54Z",
+          "view_count": 1043148,
+          "like_count": 6886,
+          "comment_count": 940,
+          "duration_sec": 166,
+          "thumbnail_url": "https://i.ytimg.com/vi/JLsCXAkkI7s/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/JLsCXAkkI7s"
         },
         {
           "video_id": "62D1OR69rnA",
@@ -1834,6 +2119,21 @@
           "embed_url": "https://www.youtube.com/embed/kqnEksBDDQI"
         },
         {
+          "video_id": "gHdVNSWF308",
+          "channel_name": "러브스코프",
+          "title": "거울치료 당하는 준서, 시안에게 진심을 말할까? #솔로지옥4 #육준서",
+          "published_at": "2025-02-02T22:45:02Z",
+          "view_count": 986544,
+          "like_count": 10577,
+          "comment_count": 45,
+          "duration_sec": 55,
+          "thumbnail_url": "https://i.ytimg.com/vi/gHdVNSWF308/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/gHdVNSWF308"
+        },
+        {
           "video_id": "NfqjvW1onps",
           "channel_name": "찰스엔터",
           "title": "[솔로지옥4/마지막화] 솔로지옥 보다가 개현타온 이유...(JP SUB)",
@@ -1862,6 +2162,21 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/yDTdMG5pwJ8"
+        },
+        {
+          "video_id": "rrb3MBH32Hc",
+          "channel_name": "윸팁",
+          "title": "뒤에서 욕해서 개빡친 덱스 [솔로지옥5]",
+          "published_at": "2026-01-28T02:08:03Z",
+          "view_count": 966293,
+          "like_count": 8070,
+          "comment_count": 674,
+          "duration_sec": 55,
+          "thumbnail_url": "https://i.ytimg.com/vi/rrb3MBH32Hc/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/rrb3MBH32Hc"
         },
         {
           "video_id": "kFWRXFaKFBU",
@@ -2059,6 +2374,21 @@
           "embed_url": "https://www.youtube.com/embed/Kgq9dX3zEcI"
         },
         {
+          "video_id": "F7gX3sEqHi4",
+          "channel_name": "리뷰남자",
+          "title": "승일바라기 김민지가 수빈을 택한 이유는? 솔로지옥 5 리뷰",
+          "published_at": "2026-02-04T02:47:59Z",
+          "view_count": 888463,
+          "like_count": 8383,
+          "comment_count": 215,
+          "duration_sec": 50,
+          "thumbnail_url": "https://i.ytimg.com/vi/F7gX3sEqHi4/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/F7gX3sEqHi4"
+        },
+        {
           "video_id": "yfJKHeVqUiY",
           "channel_name": "연예세계톡톡",
           "title": "솔로지옥5 시즌별 현커들의 연애기간",
@@ -2132,6 +2462,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/JE5Kg0PVl1A"
+        },
+        {
+          "video_id": "3IP2FkvkZSU",
+          "channel_name": "째깍째깍",
+          "title": "제 2의 덱스라고 평가받는 이 남자의 압도적인 괴력 #솔로지옥 #솔로지옥4",
+          "published_at": "2025-01-17T02:59:04Z",
+          "view_count": 852945,
+          "like_count": 16951,
+          "comment_count": 446,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/3IP2FkvkZSU/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/3IP2FkvkZSU"
         },
         {
           "video_id": "m3mVRTWjuMc",
@@ -2209,6 +2554,21 @@
           "embed_url": "https://www.youtube.com/embed/O20OuxifaRE"
         },
         {
+          "video_id": "LpbfKSLhTko",
+          "channel_name": "째깍째깍",
+          "title": "이번 시즌 신의 한수라고 불리는 이 게임 #솔로지옥4 #솔로지옥",
+          "published_at": "2025-01-25T07:28:46Z",
+          "view_count": 815537,
+          "like_count": 6245,
+          "comment_count": 307,
+          "duration_sec": 59,
+          "thumbnail_url": "https://i.ytimg.com/vi/LpbfKSLhTko/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/LpbfKSLhTko"
+        },
+        {
           "video_id": "XxeoMWsOK20",
           "channel_name": "그영화 그배우",
           "title": "솔로지옥5 9화 천국도 이거 맞아?? ㅋㅋㅋㅋㅋ 🔥 #솔로지옥5 #넷플릭스 #최미나수",
@@ -2284,6 +2644,51 @@
           "embed_url": "https://www.youtube.com/embed/3jmSPWJZEXQ"
         },
         {
+          "video_id": "pYrTCu0B7Bo",
+          "channel_name": "째깍째깍",
+          "title": "2번 연속 자신을 버리자 결국 폭발한 민설 #솔로지옥4 #솔로지옥",
+          "published_at": "2025-02-16T01:15:05Z",
+          "view_count": 785655,
+          "like_count": 5793,
+          "comment_count": 50,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/pYrTCu0B7Bo/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/pYrTCu0B7Bo"
+        },
+        {
+          "video_id": "WpZUNnWJHsQ",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "여성 출연자 공개 | 솔로지옥 시즌4",
+          "published_at": "2025-01-14T09:00:07Z",
+          "view_count": 777389,
+          "like_count": 10617,
+          "comment_count": 1298,
+          "duration_sec": 59,
+          "thumbnail_url": "https://i.ytimg.com/vi/WpZUNnWJHsQ/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "other",
+          "embed_url": "https://www.youtube.com/embed/WpZUNnWJHsQ"
+        },
+        {
+          "video_id": "6UxQi-9nnHs",
+          "channel_name": "묘잉",
+          "title": "솔로지옥 최고 인기녀 마음을 돌린 순간 #솔로지옥4 #연애프로 #이시안 #인기녀 #육준서",
+          "published_at": "2025-09-23T13:30:12Z",
+          "view_count": 775007,
+          "like_count": 5151,
+          "comment_count": 272,
+          "duration_sec": 54,
+          "thumbnail_url": "https://i.ytimg.com/vi/6UxQi-9nnHs/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/6UxQi-9nnHs"
+        },
+        {
           "video_id": "HknV3SMBWWk",
           "channel_name": "짜잔!",
           "title": "솔로지옥 민지 이건, 수영장씬 재연 결말 #솔로지옥 #솔로지옥5 #솔지 #솔지5 #김민지 #조이건",
@@ -2297,6 +2702,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/HknV3SMBWWk"
+        },
+        {
+          "video_id": "_Pj7CsuBqyQ",
+          "channel_name": "JTBC Voyage",
+          "title": "솔로지옥5 출연하는 '육상계 카리나' 김민지 운동신경ㄷㄷ | 아는 형님｜JTBC 250412 방송",
+          "published_at": "2026-01-20T12:26:09Z",
+          "view_count": 769600,
+          "like_count": 4484,
+          "comment_count": 305,
+          "duration_sec": 1240,
+          "thumbnail_url": "https://i.ytimg.com/vi/_Pj7CsuBqyQ/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "other",
+          "embed_url": "https://www.youtube.com/embed/_Pj7CsuBqyQ"
         },
         {
           "video_id": "38Ymswc6B3c",
@@ -2359,6 +2779,21 @@
           "embed_url": "https://www.youtube.com/embed/ZTId0tRNlOk"
         },
         {
+          "video_id": "8rgVIOEV_A8",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "[미공개 클립] 융재와 서은, 천국도에서 널 알아가고 싶어 | 솔로지옥2 | 넷플릭스",
+          "published_at": "2023-01-01T09:00:03Z",
+          "view_count": 742852,
+          "like_count": 5868,
+          "comment_count": 453,
+          "duration_sec": 190,
+          "thumbnail_url": "https://i.ytimg.com/vi/8rgVIOEV_A8/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/8rgVIOEV_A8"
+        },
+        {
           "video_id": "RGnAm1lT_WU",
           "channel_name": "연프 과몰입러",
           "title": "여자들의 숨 막히는 기싸움 [솔로지옥3]",
@@ -2417,6 +2852,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/QJ7NySnOZM0"
+        },
+        {
+          "video_id": "vjQGvmZCokE",
+          "channel_name": "리뷰남자",
+          "title": "썸타는 남녀 사이에 껴서 당황스러운 상황에 놓인 희선 솔로지옥 5 리뷰",
+          "published_at": "2026-01-22T04:52:41Z",
+          "view_count": 699239,
+          "like_count": 7274,
+          "comment_count": 177,
+          "duration_sec": 68,
+          "thumbnail_url": "https://i.ytimg.com/vi/vjQGvmZCokE/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/vjQGvmZCokE"
         },
         {
           "video_id": "q7DbYbCuwIw",
@@ -2569,6 +3019,21 @@
           "embed_url": "https://www.youtube.com/embed/TR1R4PqMne4"
         },
         {
+          "video_id": "T7nbD90cspg",
+          "channel_name": "마인드밍글",
+          "title": "주인공롤 각나온다ㅣ솔로지옥4",
+          "published_at": "2025-01-17T08:01:48Z",
+          "view_count": 642853,
+          "like_count": 3529,
+          "comment_count": 357,
+          "duration_sec": 173,
+          "thumbnail_url": "https://i.ytimg.com/vi/T7nbD90cspg/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/T7nbD90cspg"
+        },
+        {
           "video_id": "sm1Pc8x8AB8",
           "channel_name": "찰스엔터",
           "title": "[솔로지옥5, 11화~마지막화] 솔지에게 실망했습니다.",
@@ -2704,6 +3169,21 @@
           "embed_url": "https://www.youtube.com/embed/y57rVf9AKnU"
         },
         {
+          "video_id": "PJzNpbFmNlA",
+          "channel_name": "째깍째깍",
+          "title": "육준서가 시안에게 반해버린 포인트는 바로 이것 #솔로지옥4",
+          "published_at": "2025-02-27T03:27:02Z",
+          "view_count": 566523,
+          "like_count": 3215,
+          "comment_count": 22,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/PJzNpbFmNlA/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/PJzNpbFmNlA"
+        },
+        {
           "video_id": "QWucNYGapt4",
           "channel_name": "숏릴스",
           "title": "솔로지옥5 희선 수빈 최미나수｜최종 커플 스포? 최커",
@@ -2779,6 +3259,21 @@
           "embed_url": "https://www.youtube.com/embed/IMbrDVcQ2GE"
         },
         {
+          "video_id": "eyIZu3Uid6s",
+          "channel_name": "마인드밍글",
+          "title": "갑자기 육준서ㅣ솔로지옥4",
+          "published_at": "2025-01-23T12:25:43Z",
+          "view_count": 543555,
+          "like_count": 1814,
+          "comment_count": 312,
+          "duration_sec": 136,
+          "thumbnail_url": "https://i.ytimg.com/vi/eyIZu3Uid6s/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/eyIZu3Uid6s"
+        },
+        {
           "video_id": "shMiPca27Gs",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "솔로지옥5 3주차 에피소드 지금 공개🏝️ | 솔로지옥 시즌5",
@@ -2837,6 +3332,21 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/6-zJk1P1JRw"
+        },
+        {
+          "video_id": "q21cSbWEeAk",
+          "channel_name": "마인드밍글",
+          "title": "여주인공이 내린 결론 ㅣ솔로지옥4",
+          "published_at": "2025-02-11T14:35:56Z",
+          "view_count": 521409,
+          "like_count": 0,
+          "comment_count": 427,
+          "duration_sec": 162,
+          "thumbnail_url": "https://i.ytimg.com/vi/q21cSbWEeAk/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/q21cSbWEeAk"
         },
         {
           "video_id": "rP9ZcKz-Ykw",
@@ -3124,6 +3634,21 @@
           "embed_url": "https://www.youtube.com/embed/wF6yLZE1Re4"
         },
         {
+          "video_id": "gEUMqpYA7q8",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "남성 출연자 공개 | 솔로지옥 시즌4",
+          "published_at": "2025-01-14T09:10:20Z",
+          "view_count": 458966,
+          "like_count": 5816,
+          "comment_count": 880,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/gEUMqpYA7q8/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/gEUMqpYA7q8"
+        },
+        {
           "video_id": "8g_IyUsXq5M",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "수빈♥️희선, 손잡고 하는 진심 어린 대화 | 솔로지옥 리유니언",
@@ -3364,6 +3889,21 @@
           "embed_url": "https://www.youtube.com/embed/xslAOEG2flE"
         },
         {
+          "video_id": "3Hnwaw7aEts",
+          "channel_name": "라이프리슈",
+          "title": "솔로지옥5 고수와 초고수의 숨막히는 대화! 넘어갈까? VS 누나 승자는? 셀레임은 덤!",
+          "published_at": "2026-01-28T07:00:03Z",
+          "view_count": 385334,
+          "like_count": 1761,
+          "comment_count": 175,
+          "duration_sec": 41,
+          "thumbnail_url": "https://i.ytimg.com/vi/3Hnwaw7aEts/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/3Hnwaw7aEts"
+        },
+        {
           "video_id": "4L7OoXqHNS4",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "이과생의 천국도 후기 | 솔로지옥 시즌4",
@@ -3469,6 +4009,21 @@
           "embed_url": "https://www.youtube.com/embed/jQVY1KoYQm8"
         },
         {
+          "video_id": "wEpXKaYUtRE",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "천국도 경험을 시켜주고 싶은 사람 | 솔로지옥 시즌5",
+          "published_at": "2026-01-29T07:00:00Z",
+          "view_count": 372848,
+          "like_count": 4680,
+          "comment_count": 239,
+          "duration_sec": 88,
+          "thumbnail_url": "https://i.ytimg.com/vi/wEpXKaYUtRE/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/wEpXKaYUtRE"
+        },
+        {
           "video_id": "Hy94Cl9qA8M",
           "channel_name": "heyitsfeiii",
           "title": "being brutally honest about *SINGLES INFERNO* (THEY'RE SO FAKE I CANT!!)",
@@ -3499,6 +4054,21 @@
           "embed_url": "https://www.youtube.com/embed/EvdW6j9H1uU"
         },
         {
+          "video_id": "qvWWwckywbU",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "[미공개 클립] “오빠 애교 있어?” 알고 보면 귀여운 남자, 육준서?! | 솔로지옥 시즌4 | 넷플릭스",
+          "published_at": "2025-02-09T00:00:00Z",
+          "view_count": 364939,
+          "like_count": 2925,
+          "comment_count": 368,
+          "duration_sec": 86,
+          "thumbnail_url": "https://i.ytimg.com/vi/qvWWwckywbU/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/qvWWwckywbU"
+        },
+        {
           "video_id": "ffhwolP2BpY",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "강소연♥오진택 모델 커플의 직업 공개 | 솔로지옥 | 넷플릭스",
@@ -3512,6 +4082,21 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/ffhwolP2BpY"
+        },
+        {
+          "video_id": "pfP1hFOUMag",
+          "channel_name": "이슈체크인",
+          "title": "솔로지옥4 시안과 준서의 시작을 알리는 장면 #shorts",
+          "published_at": "2025-01-23T00:50:12Z",
+          "view_count": 356583,
+          "like_count": 4197,
+          "comment_count": 163,
+          "duration_sec": 41,
+          "thumbnail_url": "https://i.ytimg.com/vi/pfP1hFOUMag/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/pfP1hFOUMag"
         },
         {
           "video_id": "dysUap1YK9A",
@@ -3574,6 +4159,21 @@
           "embed_url": "https://www.youtube.com/embed/lPNSXO3mEYg"
         },
         {
+          "video_id": "K1_yr1OUioA",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "[미공개 클립] 지옥도에서 재미있게 노는 법.mov | 솔로지옥 시즌4 | 넷플릭스",
+          "published_at": "2025-02-12T03:00:00Z",
+          "view_count": 344235,
+          "like_count": 3306,
+          "comment_count": 243,
+          "duration_sec": 190,
+          "thumbnail_url": "https://i.ytimg.com/vi/K1_yr1OUioA/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/K1_yr1OUioA"
+        },
+        {
           "video_id": "wR1DnAXt4nA",
           "channel_name": "돌돌하",
           "title": "\"웃다가, 울다가 유난이다🤣\" 솔로지옥4 9-10화 리뷰💕",
@@ -3632,6 +4232,21 @@
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/myvv4DGaD3M"
+        },
+        {
+          "video_id": "JClK_A_1J14",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "귀여워 죽겠다는 표정 | 솔로지옥 시즌4",
+          "published_at": "2025-02-03T05:00:00Z",
+          "view_count": 329162,
+          "like_count": 10626,
+          "comment_count": 97,
+          "duration_sec": 56,
+          "thumbnail_url": "https://i.ytimg.com/vi/JClK_A_1J14/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/JClK_A_1J14"
         },
         {
           "video_id": "PeUZB7YhAvo",
@@ -3814,6 +4429,21 @@
           "embed_url": "https://www.youtube.com/embed/wxII_EMtg6s"
         },
         {
+          "video_id": "l7Eooau3Or4",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "두 사람의 뚝딱뚝딱 만찬 데이트 | 솔로지옥 시즌5 | 넷플릭스",
+          "published_at": "2026-02-10T12:00:00Z",
+          "view_count": 287479,
+          "like_count": 2233,
+          "comment_count": 942,
+          "duration_sec": 289,
+          "thumbnail_url": "https://i.ytimg.com/vi/l7Eooau3Or4/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/l7Eooau3Or4"
+        },
+        {
           "video_id": "_MXtXu03fM0",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "진실게임이 남긴 설렘과 불안 | 솔로지옥 시즌5 | 넷플릭스",
@@ -3829,6 +4459,21 @@
           "embed_url": "https://www.youtube.com/embed/_MXtXu03fM0"
         },
         {
+          "video_id": "Ww5V46NMK8U",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "송중기 닮은 수빈의 숨겨진 매력 | 솔로지옥 시즌5",
+          "published_at": "2026-01-22T12:00:00Z",
+          "view_count": 282963,
+          "like_count": 1995,
+          "comment_count": 177,
+          "duration_sec": 50,
+          "thumbnail_url": "https://i.ytimg.com/vi/Ww5V46NMK8U/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/Ww5V46NMK8U"
+        },
+        {
           "video_id": "i8P_feSpwB4",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "끝난 줄 알았지? 남자 추가 출연자 등장 | 솔로지옥 시즌5 | 넷플릭스",
@@ -3842,6 +4487,21 @@
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/i8P_feSpwB4"
+        },
+        {
+          "video_id": "s5FXoc61VVc",
+          "channel_name": "WWD KOREA",
+          "title": "'솔로지옥 4' 필수요소는 매력입니다🥰 #솔로지옥4",
+          "published_at": "2025-01-26T04:57:46Z",
+          "view_count": 279471,
+          "like_count": 8660,
+          "comment_count": 279,
+          "duration_sec": 43,
+          "thumbnail_url": "https://i.ytimg.com/vi/s5FXoc61VVc/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/s5FXoc61VVc"
         },
         {
           "video_id": "kHbmX9PL39Y",
@@ -3889,6 +4549,36 @@
           "embed_url": "https://www.youtube.com/embed/0V3gaXUC94s"
         },
         {
+          "video_id": "aBTN92NTJNw",
+          "channel_name": "하탄방",
+          "title": "다시보면 이해된다는 솔로지옥5 미나수 시점 3편 ㄷㄷㄷ",
+          "published_at": "2026-02-04T01:40:35Z",
+          "view_count": 263098,
+          "like_count": 1638,
+          "comment_count": 161,
+          "duration_sec": 48,
+          "thumbnail_url": "https://i.ytimg.com/vi/aBTN92NTJNw/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/aBTN92NTJNw"
+        },
+        {
+          "video_id": "0LxCHMAnCiQ",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "???: 그걸 왜 물어봐요? | 솔로지옥 시즌5",
+          "published_at": "2026-01-29T05:00:00Z",
+          "view_count": 258048,
+          "like_count": 2639,
+          "comment_count": 55,
+          "duration_sec": 49,
+          "thumbnail_url": "https://i.ytimg.com/vi/0LxCHMAnCiQ/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/0LxCHMAnCiQ"
+        },
+        {
           "video_id": "c1M-cbOLru4",
           "channel_name": "Netflix Korea 넷플릭스 코리아",
           "title": "솔로지옥 시즌5, 마지막 에피소드 공개 | 넷플릭스",
@@ -3902,6 +4592,21 @@
           "episode": "12",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/c1M-cbOLru4"
+        },
+        {
+          "video_id": "jVUM1j0pobg",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "플러팅이냐, 아니냐? 확실하게 정리해 드립니다 | 솔로지옥 3 | 넷플릭스",
+          "published_at": "2023-12-13T09:00:00Z",
+          "view_count": 256820,
+          "like_count": 3591,
+          "comment_count": 229,
+          "duration_sec": 186,
+          "thumbnail_url": "https://i.ytimg.com/vi/jVUM1j0pobg/hqdefault.jpg",
+          "season": "시즌3",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/jVUM1j0pobg"
         },
         {
           "video_id": "gs24HuPt2BE",
@@ -3979,6 +4684,21 @@
           "embed_url": "https://www.youtube.com/embed/N1ZyGsOnzvs"
         },
         {
+          "video_id": "K4Iz4bPW3H0",
+          "channel_name": "Sarang K",
+          "title": "Singles Inferno Cast Still Together? One Year Later...",
+          "published_at": "2023-01-20T13:45:00Z",
+          "view_count": 251076,
+          "like_count": 1731,
+          "comment_count": 104,
+          "duration_sec": 539,
+          "thumbnail_url": "https://i.ytimg.com/vi/K4Iz4bPW3H0/hqdefault.jpg",
+          "season": "시즌1",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/K4Iz4bPW3H0"
+        },
+        {
           "video_id": "5LE4P-j7wxg",
           "channel_name": "별일잇슈",
           "title": "솔로지옥5 현커 근황, 뉴욕 목격담, 럽스타 발각, 커플링 포착, 최커 결말",
@@ -4052,6 +4772,21 @@
           "episode": "5",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/UxJk4ayuecU"
+        },
+        {
+          "video_id": "fGmtKPaNcA8",
+          "channel_name": "신기방구",
+          "title": "임수빈은 이미 정리한 것 같은 이유 #솔로지옥5",
+          "published_at": "2026-01-26T10:04:00Z",
+          "view_count": 227086,
+          "like_count": 1672,
+          "comment_count": 83,
+          "duration_sec": 35,
+          "thumbnail_url": "https://i.ytimg.com/vi/fGmtKPaNcA8/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/fGmtKPaNcA8"
         },
         {
           "video_id": "m-K6SMqCXKI",
@@ -4219,6 +4954,21 @@
           "embed_url": "https://www.youtube.com/embed/NRYOvI-np7w"
         },
         {
+          "video_id": "9JTdBc1tLL0",
+          "channel_name": "무비만판다",
+          "title": "이번 솔로지옥5 최고의 테토녀",
+          "published_at": "2026-01-22T11:00:24Z",
+          "view_count": 189849,
+          "like_count": 1323,
+          "comment_count": 34,
+          "duration_sec": 36,
+          "thumbnail_url": "https://i.ytimg.com/vi/9JTdBc1tLL0/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/9JTdBc1tLL0"
+        },
+        {
           "video_id": "EASKKLfCwwQ",
           "channel_name": "심쿵모먼트",
           "title": "[솔로지옥3] 정 떨어지게 하는 관희형 \"쟤 얘 얘\"",
@@ -4232,6 +4982,21 @@
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/EASKKLfCwwQ"
+        },
+        {
+          "video_id": "M4cH2G4JDLE",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "간지럼 공격 지연 VS 소녀장사 유진, 천국도행 매치 승자는?! | 10화 클립 | 솔로지옥 시즌4 | 넷플릭스",
+          "published_at": "2025-02-06T03:00:00Z",
+          "view_count": 178525,
+          "like_count": 1006,
+          "comment_count": 218,
+          "duration_sec": 144,
+          "thumbnail_url": "https://i.ytimg.com/vi/M4cH2G4JDLE/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "10",
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/M4cH2G4JDLE"
         },
         {
           "video_id": "IEhoktg48OI",
@@ -4262,6 +5027,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/JFThBmGjf-M"
+        },
+        {
+          "video_id": "HBIV_XCnNY8",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "시안X준서 투닥투닥 케미 | 솔로지옥 시즌4",
+          "published_at": "2025-02-02T00:00:00Z",
+          "view_count": 176236,
+          "like_count": 2685,
+          "comment_count": 170,
+          "duration_sec": 59,
+          "thumbnail_url": "https://i.ytimg.com/vi/HBIV_XCnNY8/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/HBIV_XCnNY8"
         },
         {
           "video_id": "MHdrTDvrOLA",
@@ -4324,6 +5104,36 @@
           "embed_url": "https://www.youtube.com/embed/imwEXZ2hZ_k"
         },
         {
+          "video_id": "Kva7mymoQQY",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "시안이 가장 좋아하는 사람은? | 솔로지옥 시즌4",
+          "published_at": "2025-02-02T05:00:24Z",
+          "view_count": 160258,
+          "like_count": 1538,
+          "comment_count": 42,
+          "duration_sec": 54,
+          "thumbnail_url": "https://i.ytimg.com/vi/Kva7mymoQQY/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/Kva7mymoQQY"
+        },
+        {
+          "video_id": "RyOIdzFG51k",
+          "channel_name": "MISS-K-DRAMA",
+          "title": "Where Are The Single's Inferno Season 4 Couples NOW 8 Months After Filming?!",
+          "published_at": "2025-03-06T14:00:36Z",
+          "view_count": 154448,
+          "like_count": 1038,
+          "comment_count": 96,
+          "duration_sec": 516,
+          "thumbnail_url": "https://i.ytimg.com/vi/RyOIdzFG51k/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/RyOIdzFG51k"
+        },
+        {
           "video_id": "MT8ZyvfLntA",
           "channel_name": "이슈체크인",
           "title": "솔로지옥5 최미나수 역대급 눈물의 마지막 소감",
@@ -4352,6 +5162,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/03dJ1AbVbPg"
+        },
+        {
+          "video_id": "nm2TODErE_c",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "4명의 남자에게 선택받은 시안, 누구와 천국도에 가게 될까? | 6화 클립 | 솔로지옥 시즌4 | 넷플릭스",
+          "published_at": "2025-01-26T03:00:00Z",
+          "view_count": 152954,
+          "like_count": 649,
+          "comment_count": 145,
+          "duration_sec": 147,
+          "thumbnail_url": "https://i.ytimg.com/vi/nm2TODErE_c/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "6",
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/nm2TODErE_c"
         },
         {
           "video_id": "zxtJEtgW6QM",
@@ -4549,6 +5374,21 @@
           "embed_url": "https://www.youtube.com/embed/OjF8WzA5I8Y"
         },
         {
+          "video_id": "hxkHJBdsOPY",
+          "channel_name": "트렌드림",
+          "title": "역대급 남자 출연진 가상캐스팅 솔로지옥5 솔로지옥4",
+          "published_at": "2025-01-24T23:00:39Z",
+          "view_count": 132575,
+          "like_count": 686,
+          "comment_count": 35,
+          "duration_sec": 40,
+          "thumbnail_url": "https://i.ytimg.com/vi/hxkHJBdsOPY/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/hxkHJBdsOPY"
+        },
+        {
           "video_id": "7t_GuimWoKA",
           "channel_name": "라이프리슈",
           "title": "솔로지옥5 수빈♥희선 현커 오피셜 잠수, 현재관계, 만남횟수!",
@@ -4652,6 +5492,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/z-ud7SSmt4o"
+        },
+        {
+          "video_id": "Cw-pPBBc0ZI",
+          "channel_name": "K라마",
+          "title": "육준서 진짜 귀여운 포인트가 있어~ #솔로지옥 #솔로지옥4 #육준서 #이시안",
+          "published_at": "2025-01-27T12:00:16Z",
+          "view_count": 124562,
+          "like_count": 2036,
+          "comment_count": 56,
+          "duration_sec": 59,
+          "thumbnail_url": "https://i.ytimg.com/vi/Cw-pPBBc0ZI/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/Cw-pPBBc0ZI"
         },
         {
           "video_id": "-LJKgurAr6w",
@@ -4759,6 +5614,21 @@
           "embed_url": "https://www.youtube.com/embed/Z4Tg8x1Yvh0"
         },
         {
+          "video_id": "L4V-rJMmLto",
+          "channel_name": "러브스코프",
+          "title": "예쁜데 요리도 잘해? 이미 식장까지 잡은 동호 #솔로지옥4 #국동호 #김아린",
+          "published_at": "2025-02-06T12:00:34Z",
+          "view_count": 116276,
+          "like_count": 3044,
+          "comment_count": 11,
+          "duration_sec": 60,
+          "thumbnail_url": "https://i.ytimg.com/vi/L4V-rJMmLto/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/L4V-rJMmLto"
+        },
+        {
           "video_id": "5WFvZ-HCeWo",
           "channel_name": "Sound Sound 다니엘",
           "title": "사람의 매력을 결정하는 아주 사소한 차이들 | 솔로지옥4 인물 분석",
@@ -4817,6 +5687,36 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/_HmKMlkcK6E"
+        },
+        {
+          "video_id": "umFOMqaPSDw",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "어떤 여자랑 나를 착각한 거야? | 솔로지옥 시즌4",
+          "published_at": "2025-01-24T06:00:18Z",
+          "view_count": 110685,
+          "like_count": 1245,
+          "comment_count": 24,
+          "duration_sec": 57,
+          "thumbnail_url": "https://i.ytimg.com/vi/umFOMqaPSDw/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/umFOMqaPSDw"
+        },
+        {
+          "video_id": "9njy5UKE1ro",
+          "channel_name": "Netflix Korea 넷플릭스 코리아",
+          "title": "시안의 마음 속 세 사람 | 솔로지옥 시즌4",
+          "published_at": "2025-01-30T06:00:00Z",
+          "view_count": 106688,
+          "like_count": 1110,
+          "comment_count": 35,
+          "duration_sec": 35,
+          "thumbnail_url": "https://i.ytimg.com/vi/9njy5UKE1ro/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/9njy5UKE1ro"
         },
         {
           "video_id": "Ds_cnZ1oJ3Q",
@@ -4982,6 +5882,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/qSwiNjfsiTo"
+        },
+        {
+          "video_id": "0wRwdUGPPG0",
+          "channel_name": "트렌드림",
+          "title": "이시안이 육준서에게 넘어간 진짜 이유 솔로지옥4",
+          "published_at": "2025-01-29T23:00:00Z",
+          "view_count": 95986,
+          "like_count": 872,
+          "comment_count": 60,
+          "duration_sec": 44,
+          "thumbnail_url": "https://i.ytimg.com/vi/0wRwdUGPPG0/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/0wRwdUGPPG0"
         },
         {
           "video_id": "mfmOtxa-gL0",
@@ -5222,6 +6137,21 @@
           "episode": "11",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/QI7Q-ySNkmw"
+        },
+        {
+          "video_id": "AmsOMmTAmLk",
+          "channel_name": "Netflix Art 넷플릭스 아트",
+          "title": "[통합편] 솔로지옥4 2분요약(Single's Inferno 4 2minute summary-Full)",
+          "published_at": "2025-02-28T13:56:22Z",
+          "view_count": 75391,
+          "like_count": 1183,
+          "comment_count": 56,
+          "duration_sec": 131,
+          "thumbnail_url": "https://i.ytimg.com/vi/AmsOMmTAmLk/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "null",
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/AmsOMmTAmLk"
         },
         {
           "video_id": "lE1pAKJ79eU",
@@ -5494,6 +6424,21 @@
           "embed_url": "https://www.youtube.com/embed/LQvjlLC9dY0"
         },
         {
+          "video_id": "8sgkSFe0kjw",
+          "channel_name": "트렌드림",
+          "title": "갈수록 반응 안좋은 육준서 왜그래? 솔로지옥4",
+          "published_at": "2025-02-02T23:00:06Z",
+          "view_count": 58555,
+          "like_count": 510,
+          "comment_count": 219,
+          "duration_sec": 41,
+          "thumbnail_url": "https://i.ytimg.com/vi/8sgkSFe0kjw/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/8sgkSFe0kjw"
+        },
+        {
           "video_id": "sd0ePcYAVjc",
           "channel_name": "라커룸-Locker Room tv",
           "title": "최종선택의 비밀...?! [솔로지옥5 최종화]",
@@ -5552,6 +6497,21 @@
           "episode": "5",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/3Puta1nrCaM"
+        },
+        {
+          "video_id": "qkhqwmFJn4Q",
+          "channel_name": "심리본 psymribbon",
+          "title": "희선수빈 사랑은 쟁취하는 것🔥 | 솔로지옥5 심리본 리뷰",
+          "published_at": "2026-02-12T14:49:34Z",
+          "view_count": 56620,
+          "like_count": 706,
+          "comment_count": 54,
+          "duration_sec": 494,
+          "thumbnail_url": "https://i.ytimg.com/vi/qkhqwmFJn4Q/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/qkhqwmFJn4Q"
         },
         {
           "video_id": "rZgnEF-x05I",
@@ -6214,6 +7174,21 @@
           "embed_url": "https://www.youtube.com/embed/oKgTLhrcIII"
         },
         {
+          "video_id": "2LRGUlEqaNQ",
+          "channel_name": "Esther",
+          "title": "Single’s inferno season 5! Let’s talk about it",
+          "published_at": "2026-01-28T21:17:39Z",
+          "view_count": 32919,
+          "like_count": 917,
+          "comment_count": 31,
+          "duration_sec": 51,
+          "thumbnail_url": "https://i.ytimg.com/vi/2LRGUlEqaNQ/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/2LRGUlEqaNQ"
+        },
+        {
           "video_id": "1S2F0e6JEDQ",
           "channel_name": "체리 드라마 ",
           "title": "솔로지옥5 최종선택결과 역대최다 5커플! 현커목격담스포 미나수 성훈 수빈 희선 11-12화 클립 선공개 하이라이트Single's Inferno Season 5 #솔로지옥5",
@@ -6439,6 +7414,21 @@
           "embed_url": "https://www.youtube.com/embed/zYqNSRIB4FE"
         },
         {
+          "video_id": "3dCdut4qocU",
+          "channel_name": "High Integrity Skills",
+          "title": "Chipmunk vs. Fox: Game Theory In Action On Korean Dating Show (Single's Inferno Season 4)",
+          "published_at": "2025-02-06T16:00:03Z",
+          "view_count": 26488,
+          "like_count": 871,
+          "comment_count": 93,
+          "duration_sec": 1139,
+          "thumbnail_url": "https://i.ytimg.com/vi/3dCdut4qocU/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/3dCdut4qocU"
+        },
+        {
           "video_id": "Kc9noOpe2zs",
           "channel_name": "비정규방송 JUNGKYU",
           "title": "미나수 하고 싶은 대로 절대 하지마 | 솔로지옥5 8화 리액션",
@@ -6497,6 +7487,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/rluRnv83unk"
+        },
+        {
+          "video_id": "yf9bsBUVl8k",
+          "channel_name": "여돌뉴스",
+          "title": "솔로지옥4 여자 출연자 모음",
+          "published_at": "2025-01-16T08:20:59Z",
+          "view_count": 25080,
+          "like_count": 134,
+          "comment_count": 12,
+          "duration_sec": 46,
+          "thumbnail_url": "https://i.ytimg.com/vi/yf9bsBUVl8k/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "null",
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/yf9bsBUVl8k"
         },
         {
           "video_id": "Yb1tRDyS-zg",
@@ -6694,6 +7699,36 @@
           "embed_url": "https://www.youtube.com/embed/cf6nG3E9Xx4"
         },
         {
+          "video_id": "4fStday7ewQ",
+          "channel_name": "Scherezade Shroff",
+          "title": "The Singles Inferno plot twist I never expected! 🤯🥻 #singlesinferno5 #singlesinferno",
+          "published_at": "2026-02-02T16:11:49Z",
+          "view_count": 20374,
+          "like_count": 227,
+          "comment_count": 4,
+          "duration_sec": 55,
+          "thumbnail_url": "https://i.ytimg.com/vi/4fStday7ewQ/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/4fStday7ewQ"
+        },
+        {
+          "video_id": "kh_QLJw0-E4",
+          "channel_name": "Dr Cherie Types",
+          "title": "Breakdown of a Player: Single's Inferno S3",
+          "published_at": "2024-01-20T22:26:41Z",
+          "view_count": 20264,
+          "like_count": 788,
+          "comment_count": 115,
+          "duration_sec": 1512,
+          "thumbnail_url": "https://i.ytimg.com/vi/kh_QLJw0-E4/hqdefault.jpg",
+          "season": "시즌3",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/kh_QLJw0-E4"
+        },
+        {
           "video_id": "6TACIqwT7Ok",
           "channel_name": "이슈컬렉터",
           "title": "솔로지옥5 PD가 전한 현커와 공개연애 커플",
@@ -6827,6 +7862,21 @@
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/-i5Yg28W2-Q"
+        },
+        {
+          "video_id": "o-5prvoWVig",
+          "channel_name": "별동네소식",
+          "title": "솔로지옥4 출연진 나이 직업",
+          "published_at": "2025-01-30T07:53:03Z",
+          "view_count": 16678,
+          "like_count": 70,
+          "comment_count": 4,
+          "duration_sec": 38,
+          "thumbnail_url": "https://i.ytimg.com/vi/o-5prvoWVig/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "null",
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/o-5prvoWVig"
         },
         {
           "video_id": "mdw1lZF10_0",
@@ -7189,6 +8239,21 @@
           "embed_url": "https://www.youtube.com/embed/5vsKdNiccQo"
         },
         {
+          "video_id": "YwdpC7idgzc",
+          "channel_name": "SoSo Channel",
+          "title": "Single's Inferno S2 Plastic Surgery Analyst 🔥🔥 #kpop #singlesinferno #korean #shorts #kdramaedit",
+          "published_at": "2023-01-10T08:50:33Z",
+          "view_count": 9680,
+          "like_count": 83,
+          "comment_count": 4,
+          "duration_sec": 55,
+          "thumbnail_url": "https://i.ytimg.com/vi/YwdpC7idgzc/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/YwdpC7idgzc"
+        },
+        {
           "video_id": "MENtKt0LA84",
           "channel_name": "짠순뽀짝",
           "title": "[솔로지옥5] 1 2 3 4 화 리뷰 최마리수 최미나리수 최미네랄수 미쳤어?!?!",
@@ -7397,6 +8462,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/UYxrsZAeRXM"
+        },
+        {
+          "video_id": "ifbVCSmZcsI",
+          "channel_name": "Jaé Kayla",
+          "title": "Production is MESSY! | Single's Inferno 5 Episode 8 Recap/Commentary",
+          "published_at": "2026-02-08T23:00:48Z",
+          "view_count": 7485,
+          "like_count": 288,
+          "comment_count": 40,
+          "duration_sec": 1856,
+          "thumbnail_url": "https://i.ytimg.com/vi/ifbVCSmZcsI/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": "8",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/ifbVCSmZcsI"
         },
         {
           "video_id": "xtecKfozx-U",
@@ -8089,6 +9169,21 @@
           "embed_url": "https://www.youtube.com/embed/do3eYSlum9o"
         },
         {
+          "video_id": "3tYdIgZVXU8",
+          "channel_name": "유니씨",
+          "title": "솔로지옥4 몰아보기 뒷북리뷰 음량조절 필수",
+          "published_at": "2025-02-21T10:24:28Z",
+          "view_count": 2659,
+          "like_count": 41,
+          "comment_count": 6,
+          "duration_sec": 1018,
+          "thumbnail_url": "https://i.ytimg.com/vi/3tYdIgZVXU8/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/3tYdIgZVXU8"
+        },
+        {
           "video_id": "iLyIYRjQAoY",
           "channel_name": "행동분석매니아",
           "title": "(솔로지옥5) 패자부활이 사라진 섬 : 연애가 아니라 ‘랭킹 게임’이 되는 순간",
@@ -8134,6 +9229,21 @@
           "embed_url": "https://www.youtube.com/embed/IYGOXp5z4FY"
         },
         {
+          "video_id": "5M3nfAJPeKo",
+          "channel_name": "예진아C",
+          "title": "[솔로지옥4 리뷰]1~8화 몰아보기 .. 밤새웠어요 🔥 잠은 다 잤다 .. ㅋ 😳 (태오의 문단속..🌸)",
+          "published_at": "2025-01-31T10:45:28Z",
+          "view_count": 2425,
+          "like_count": 50,
+          "comment_count": 19,
+          "duration_sec": 1283,
+          "thumbnail_url": "https://i.ytimg.com/vi/5M3nfAJPeKo/hqdefault.jpg",
+          "season": "시즌4",
+          "episode": "8",
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/5M3nfAJPeKo"
+        },
+        {
           "video_id": "q9Xyctt4Q8Y",
           "channel_name": "나른한 윤진",
           "title": "감정이 요동치는 솔로지옥ㅣ솔로지옥5 8~10화 리뷰",
@@ -8177,6 +9287,21 @@
           "episode": "11",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/PrhNBtIRe10"
+        },
+        {
+          "video_id": "JZvZgi9UaQ4",
+          "channel_name": "티미(TMI)",
+          "title": "[솔로지옥 시즌5 총정리] 무슨 생각해? 구독자 너가 올까, 말까",
+          "published_at": "2026-02-16T09:03:00Z",
+          "view_count": 2088,
+          "like_count": 29,
+          "comment_count": 3,
+          "duration_sec": 2618,
+          "thumbnail_url": "https://i.ytimg.com/vi/JZvZgi9UaQ4/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/JZvZgi9UaQ4"
         },
         {
           "video_id": "LPFfK6d-Gp0",
@@ -8387,6 +9512,21 @@
           "episode": "3",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/r4UC19vdWWc"
+        },
+        {
+          "video_id": "NsnvgQZxSiM",
+          "channel_name": "The Reality Rants",
+          "title": "Singles Inferno S5 recap : Episode 1 and 2 ##singlesinferno",
+          "published_at": "2026-01-25T21:07:42Z",
+          "view_count": 1269,
+          "like_count": 13,
+          "comment_count": 4,
+          "duration_sec": 406,
+          "thumbnail_url": "https://i.ytimg.com/vi/NsnvgQZxSiM/hqdefault.jpg",
+          "season": "시즌5",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/NsnvgQZxSiM"
         },
         {
           "video_id": "7yotQ9nC52E",
@@ -23289,7 +24429,7 @@
       "icon": "🔄",
       "color": "#8E44AD",
       "en": "EXchange",
-      "total": 475,
+      "total": 479,
       "seasons": [
         {
           "season": "시즌4",
@@ -23298,18 +24438,18 @@
         },
         {
           "season": "시즌3",
-          "cnt": 46,
-          "views": 51030642
+          "cnt": 47,
+          "views": 54662483
         },
         {
           "season": "시즌2",
-          "cnt": 31,
-          "views": 32770442
+          "cnt": 32,
+          "views": 32816854
         },
         {
           "season": "시즌1",
-          "cnt": 12,
-          "views": 10989083
+          "cnt": 14,
+          "views": 11571513
         }
       ],
       "videos": [
@@ -23402,6 +24542,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/k1rSuQQYL_4"
+        },
+        {
+          "video_id": "CJRrqz-rycE",
+          "channel_name": "띱 Deep",
+          "title": "연애 몰아보기3",
+          "published_at": "2025-01-23T09:00:18Z",
+          "view_count": 3631841,
+          "like_count": 19926,
+          "comment_count": 736,
+          "duration_sec": 4418,
+          "thumbnail_url": "https://i.ytimg.com/vi/CJRrqz-rycE/hqdefault.jpg",
+          "season": "시즌3",
+          "episode": null,
+          "content_type": "summary",
+          "embed_url": "https://www.youtube.com/embed/CJRrqz-rycE"
         },
         {
           "video_id": "qfT5rePwMd8",
@@ -25457,6 +26612,21 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/twLWhlazNQo"
+        },
+        {
+          "video_id": "tkUhnrlCnUQ",
+          "channel_name": "드덕녀",
+          "title": "[환승연애] 드라마 커플ver. | 만약 드라마 커플들이 환승연애에 출연 한다면? #환승연애 #패러디  #드라마 #눈물의여왕 #선재업고튀어 #엄마친구아들 #조립식가족",
+          "published_at": "2025-01-28T15:21:07Z",
+          "view_count": 453875,
+          "like_count": 11725,
+          "comment_count": 281,
+          "duration_sec": 340,
+          "thumbnail_url": "https://i.ytimg.com/vi/tkUhnrlCnUQ/hqdefault.jpg",
+          "season": "시즌1",
+          "episode": null,
+          "content_type": "other",
+          "embed_url": "https://www.youtube.com/embed/tkUhnrlCnUQ"
         },
         {
           "video_id": "hMvJO16BPso",
@@ -28264,6 +29434,21 @@
           "embed_url": "https://www.youtube.com/embed/tYepFo-rGzg"
         },
         {
+          "video_id": "6cGh5jdq2Ys",
+          "channel_name": "TVING",
+          "title": "[환승연애, 또 다른 시작] 환연 재재출연? 이거 완전 도파민 도는데ㅋㅋㅋㅣ#shortsㅣTVING",
+          "published_at": "2025-02-13T07:30:02Z",
+          "view_count": 128555,
+          "like_count": 852,
+          "comment_count": 0,
+          "duration_sec": 34,
+          "thumbnail_url": "https://i.ytimg.com/vi/6cGh5jdq2Ys/hqdefault.jpg",
+          "season": "시즌1",
+          "episode": null,
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/6cGh5jdq2Ys"
+        },
+        {
           "video_id": "_vItiT0OHn0",
           "channel_name": "TVING",
           "title": "잘생기고 키 큰 사람(?)ㅣTVINGㅣ#환승연애",
@@ -29024,8 +30209,8 @@
           "duration_sec": 52,
           "thumbnail_url": "https://i.ytimg.com/vi/bskyH98HRWU/hqdefault.jpg",
           "season": "시즌1",
-          "episode": null,
-          "content_type": null,
+          "episode": "null",
+          "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/bskyH98HRWU"
         },
         {
@@ -29117,6 +30302,21 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/DSb_ecUBrDQ"
+        },
+        {
+          "video_id": "gSfy_wJ9Fog",
+          "channel_name": "CJ ENM Global",
+          "title": "Watching My EX Flirt with My Rival | EXchange 2 | CJ ENM",
+          "published_at": "2025-01-24T19:30:07Z",
+          "view_count": 46412,
+          "like_count": 817,
+          "comment_count": 10,
+          "duration_sec": 54,
+          "thumbnail_url": "https://i.ytimg.com/vi/gSfy_wJ9Fog/hqdefault.jpg",
+          "season": "시즌2",
+          "episode": "null",
+          "content_type": "review",
+          "embed_url": "https://www.youtube.com/embed/gSfy_wJ9Fog"
         },
         {
           "video_id": "QZmfm4y2cXQ",
