@@ -109,8 +109,7 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
     <div class="ep-grid" id="ep-grid"></div>
   </div>
   <div class="type-tabs" id="type-tabs">
-    <button class="type-tab active" onclick="setType(this,'all')">전체</button>
-    <button class="type-tab" onclick="setType(this,'summary')">📝 요약<span class="cnt" id="cnt-summary"></span></button>
+    <button class="type-tab active" onclick="setType(this,'summary')">📝 요약<span class="cnt" id="cnt-summary"></span></button>
     <button class="type-tab" onclick="setType(this,'review')">💬 리뷰<span class="cnt" id="cnt-review"></span></button>
   </div>
   <div class="info-bar">
@@ -138,7 +137,7 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 </div>
 
 <script>
-let feed={shows:{}}, curShow='솔로지옥', curSeason=null, curEp=null, curType='all', hideWatched=false, filtered=[], curVid=null;
+let feed={shows:{}}, curShow='솔로지옥', curSeason=null, curEp=null, curType='summary', hideWatched=false, filtered=[], curVid=null;
 const COLORS={솔로지옥:'#FF6B35',하트시그널:'#FF2D55',나는솔로:'#C0392B',환승연애:'#8E44AD'};
 
 function fmt(n){if(n>=100000000)return(n/100000000).toFixed(1)+'억';if(n>=10000)return Math.round(n/10000)+'만';if(n>=1000)return Math.round(n/1000)+'천';return n+'';}
@@ -165,7 +164,7 @@ async function load(){
 function setShow(name){
   document.querySelectorAll('.show-tab').forEach(t=>t.classList.remove('active'));
   document.querySelector(`.show-tab[data-s="${name}"]`).classList.add('active');
-  curShow=name; curSeason=null; curEp=null; curType='all';
+  curShow=name; curSeason=null; curEp=null; curType='summary';
   document.querySelectorAll('.type-tab').forEach((t,i)=>t.classList.toggle('active',i===0));
   renderShow();
 }
@@ -177,11 +176,13 @@ function renderShow(){
 
   // 시즌 목록
   const seasons = (show.seasons||[]).map(s=>s.season);
-  curSeason = null; // 기본: 전체
+  if(!curSeason && seasons.length) curSeason=seasons[0]; // 최신 시즌 기본
 
   const el=document.getElementById('season-row');
-  el.innerHTML = `<div class="chip active" style="background:${color}" onclick="setSeason(null)">전체</div>` +
-    seasons.map(s => `<div class="chip" onclick="setSeason('${s}')">${s}</div>`).join('');
+  el.innerHTML = seasons.map((s,i) => {
+    const act = s===curSeason;
+    return `<div class="chip${act?' active':''}" style="${act?'background:'+color:''}" onclick="setSeason('${s}')">${s}</div>`;
+  }).join('');
 
   renderEpisodes();
 }
@@ -190,10 +191,9 @@ function setSeason(s){
   curSeason=s; curEp=null;
   const color=COLORS[curShow];
   document.querySelectorAll('#season-row .chip').forEach(c=>{
-    const isAll = !s && c.textContent.startsWith('전체');
     const isMatch = s && c.textContent.startsWith(s);
-    c.classList.toggle('active', isAll || isMatch);
-    c.style.background = (isAll || isMatch) ? color : '';
+    c.classList.toggle('active', isMatch);
+    c.style.background = isMatch ? color : '';
   });
   renderEpisodes();
 }
@@ -212,8 +212,7 @@ function renderEpisodes(){
 
   if(eps.length > 0){
     section.style.display='';
-    grid.innerHTML = `<div class="ep-btn${curEp===null?' active':''}" style="${curEp===null?'background:'+color:''}" onclick="setEp(null)">전체</div>` +
-      eps.map(e=>{
+    grid.innerHTML = eps.map(e=>{
         const act=curEp===e;
         return `<div class="ep-btn has-content${act?' active':''}" style="${act?'background:'+color:''}" onclick="setEp('${e}')">${e}</div>`;
       }).join('');
