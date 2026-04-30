@@ -4,7 +4,7 @@
       "icon": "🏝️",
       "color": "#FF6B35",
       "en": "Singles Inferno",
-      "total": 560,
+      "total": 558,
       "seasons": [
         {
           "season": "시즌5",
@@ -30,11 +30,6 @@
           "season": "시즌1",
           "cnt": 21,
           "views": 30144368
-        },
-        {
-          "season": "null",
-          "cnt": 2,
-          "views": 7864814
         }
       ],
       "videos": [
@@ -262,21 +257,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/P5B7aRn68EA"
-        },
-        {
-          "video_id": "0IKtHXwrnT8",
-          "channel_name": "픽잇 :Pick it",
-          "title": "옷만 50벌 가져가야 하는 솔로지옥 여출들 [픽잇] #라스 #이시안",
-          "published_at": "2025-04-12T06:00:00Z",
-          "view_count": 5172217,
-          "like_count": 48964,
-          "comment_count": 243,
-          "duration_sec": 60,
-          "thumbnail_url": "https://i.ytimg.com/vi/0IKtHXwrnT8/hqdefault.jpg",
-          "season": "null",
-          "episode": "null",
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/0IKtHXwrnT8"
         },
         {
           "video_id": "JpetW22ZRQk",
@@ -652,21 +632,6 @@
           "episode": "null",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/8eVp2JVdz88"
-        },
-        {
-          "video_id": "MbIeA8aRIqQ",
-          "channel_name": "Stephanie Soo",
-          "title": "Chinese “Single’s Inferno” Has All “Dominant CEO” Type Men - It’s The Best Thing I’ve Ever Seen",
-          "published_at": "2025-03-03T21:44:58Z",
-          "view_count": 2692597,
-          "like_count": 95981,
-          "comment_count": 6280,
-          "duration_sec": 4179,
-          "thumbnail_url": "https://i.ytimg.com/vi/MbIeA8aRIqQ/hqdefault.jpg",
-          "season": "null",
-          "episode": "null",
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/MbIeA8aRIqQ"
         },
         {
           "video_id": "AfAeiwWsvWI",
@@ -8444,7 +8409,7 @@
       "icon": "💓",
       "color": "#FF2D55",
       "en": "Heart Signal",
-      "total": 487,
+      "total": 468,
       "seasons": [
         {
           "season": "시즌5",
@@ -8463,18 +8428,8 @@
         },
         {
           "season": "시즌2",
-          "cnt": 54,
-          "views": 36412236
-        },
-        {
-          "season": "하트시그널2",
-          "cnt": 1,
-          "views": 432215
-        },
-        {
-          "season": "하트시그널",
-          "cnt": 19,
-          "views": 8875149
+          "cnt": 55,
+          "views": 36844451
         }
       ],
       "videos": [
@@ -8642,21 +8597,6 @@
           "episode": "1",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/80qjoefWowk"
-        },
-        {
-          "video_id": "KIJ5zzS_o6E",
-          "channel_name": "하트시그널 라비티비",
-          "title": "여자가 조수석에서 이렇게 하는 거 봤음?",
-          "published_at": "2025-06-08T03:00:18Z",
-          "view_count": 1954034,
-          "like_count": 33173,
-          "comment_count": 458,
-          "duration_sec": 44,
-          "thumbnail_url": "https://i.ytimg.com/vi/KIJ5zzS_o6E/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/KIJ5zzS_o6E"
         },
         {
           "video_id": "0jPa0ySZp-g",
@@ -9139,21 +9079,6 @@
           "embed_url": "https://www.youtube.com/embed/WtVit85TmDc"
         },
         {
-          "video_id": "EPfV0nCNDCk",
-          "channel_name": "하트시그널 라비티비",
-          "title": "여친 쌩얼 처음 봤을 때 남친 반응 정석",
-          "published_at": "2025-06-21T03:00:22Z",
-          "view_count": 1106269,
-          "like_count": 17006,
-          "comment_count": 269,
-          "duration_sec": 38,
-          "thumbnail_url": "https://i.ytimg.com/vi/EPfV0nCNDCk/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/EPfV0nCNDCk"
-        },
-        {
           "video_id": "yNE7jTXiT_0",
           "channel_name": "하트시그널 라비티비",
           "title": "이수의 확신",
@@ -9227,21 +9152,6 @@
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/qZ1Kh2-ac94"
-        },
-        {
-          "video_id": "QD6J5Kwwp48",
-          "channel_name": "모두의 명작",
-          "title": "에렌의 턱이 벗겨졌던 이유",
-          "published_at": "2025-06-25T05:19:19Z",
-          "view_count": 1011820,
-          "like_count": 14031,
-          "comment_count": 117,
-          "duration_sec": 58,
-          "thumbnail_url": "https://i.ytimg.com/vi/QD6J5Kwwp48/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/QD6J5Kwwp48"
         },
         {
           "video_id": "gVYYTH37J9A",
@@ -9484,21 +9394,6 @@
           "embed_url": "https://www.youtube.com/embed/x2H4UzqrjY0"
         },
         {
-          "video_id": "097h_8vwyTM",
-          "channel_name": "하트시그널 라비티비",
-          "title": "처음부터 그랬잖아… 지민X제연, 감정선 완성형 서사 모음💞",
-          "published_at": "2025-06-28T22:00:01Z",
-          "view_count": 747565,
-          "like_count": 10899,
-          "comment_count": 630,
-          "duration_sec": 13872,
-          "thumbnail_url": "https://i.ytimg.com/vi/097h_8vwyTM/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/097h_8vwyTM"
-        },
-        {
           "video_id": "Ir7IQ9KtF-w",
           "channel_name": "채티",
           "title": "하트시그널2 김현우가 여자들에게 인기있는 이유 #하트시그널 #shorts",
@@ -9619,21 +9514,6 @@
           "embed_url": "https://www.youtube.com/embed/7V30CKgQVOM"
         },
         {
-          "video_id": "Lj_jaDzQzq0",
-          "channel_name": "하트시그널 라비티비",
-          "title": "헛똑똑이 채은😂 #하트페어링 #shorts",
-          "published_at": "2025-05-09T16:00:35Z",
-          "view_count": 641077,
-          "like_count": 10161,
-          "comment_count": 194,
-          "duration_sec": 179,
-          "thumbnail_url": "https://i.ytimg.com/vi/Lj_jaDzQzq0/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/Lj_jaDzQzq0"
-        },
-        {
           "video_id": "DMGw4YbV4bI",
           "channel_name": "하트시그널 라비티비",
           "title": "[#하트시그널2] Ep.4 설레는 크리스마스 데이트! 전설의 임현주 \"좋아해요\"🤭",
@@ -9664,21 +9544,6 @@
           "embed_url": "https://www.youtube.com/embed/IjLhDxap9DQ"
         },
         {
-          "video_id": "gwXPZFkNpBw",
-          "channel_name": "채널에이드: 채널A Drama & Enjoy",
-          "title": "질투하는 제연 💕어쩔 줄 모르는 지민 #하트페어링",
-          "published_at": "2025-06-21T03:01:00Z",
-          "view_count": 627901,
-          "like_count": 10032,
-          "comment_count": 63,
-          "duration_sec": 59,
-          "thumbnail_url": "https://i.ytimg.com/vi/gwXPZFkNpBw/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/gwXPZFkNpBw"
-        },
-        {
           "video_id": "defIXtHZ1Hs",
           "channel_name": "하트시그널 라비티비",
           "title": "국민 썸녀 영주의 만렙 밀당 스킬",
@@ -9707,21 +9572,6 @@
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/F2OgWjlUSmM"
-        },
-        {
-          "video_id": "asUB8gwdJso",
-          "channel_name": "하트시그널 라비티비",
-          "title": "[#하트페어링 후공개] 사랑은 없지만(?) 흥은 많은 삼전 사우 지민x지원의 미공개 술자리💌🔥",
-          "published_at": "2025-06-06T12:30:10Z",
-          "view_count": 591348,
-          "like_count": 5250,
-          "comment_count": 487,
-          "duration_sec": 516,
-          "thumbnail_url": "https://i.ytimg.com/vi/asUB8gwdJso/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/asUB8gwdJso"
         },
         {
           "video_id": "6dkbSSe7Hkw",
@@ -10063,7 +9913,7 @@
           "comment_count": 155,
           "duration_sec": 36,
           "thumbnail_url": "https://i.ytimg.com/vi/--Cet4QWXgI/hqdefault.jpg",
-          "season": "하트시그널2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/--Cet4QWXgI"
@@ -10204,21 +10054,6 @@
           "embed_url": "https://www.youtube.com/embed/ALiuhndTQwc"
         },
         {
-          "video_id": "wIt519eayoI",
-          "channel_name": "하트시그널 라비티비",
-          "title": "역대급 데이트 비용 지불한 하트페어링 출연자",
-          "published_at": "2025-06-30T13:01:48Z",
-          "view_count": 400580,
-          "like_count": 2054,
-          "comment_count": 72,
-          "duration_sec": 46,
-          "thumbnail_url": "https://i.ytimg.com/vi/wIt519eayoI/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/wIt519eayoI"
-        },
-        {
           "video_id": "9A97TqLoZ5A",
           "channel_name": "하트시그널 라비티비",
           "title": "오킹 영주 케미 터진 핱친ver. 진실게임",
@@ -10307,21 +10142,6 @@
           "episode": "2",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/q2U46r0ZfI0"
-        },
-        {
-          "video_id": "_KdJ_8YHR1w",
-          "channel_name": "하트시그널 라비티비",
-          "title": "결국 남자가 선택하는 마지막 여자",
-          "published_at": "2025-05-13T13:01:03Z",
-          "view_count": 382121,
-          "like_count": 1981,
-          "comment_count": 69,
-          "duration_sec": 88,
-          "thumbnail_url": "https://i.ytimg.com/vi/_KdJ_8YHR1w/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/_KdJ_8YHR1w"
         },
         {
           "video_id": "KAwowE1Xy-c",
@@ -10549,21 +10369,6 @@
           "embed_url": "https://www.youtube.com/embed/v05GG-LKXMw"
         },
         {
-          "video_id": "ptDW1-gwt8g",
-          "channel_name": "쇼츠공장",
-          "title": "하트시그널이 끝나고 실체가 드러나버린 임현주 #노빠꾸탁재훈 #임현주 #shorts",
-          "published_at": "2025-06-24T01:50:39Z",
-          "view_count": 287360,
-          "like_count": 2366,
-          "comment_count": 88,
-          "duration_sec": 60,
-          "thumbnail_url": "https://i.ytimg.com/vi/ptDW1-gwt8g/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/ptDW1-gwt8g"
-        },
-        {
           "video_id": "bohKRnbII20",
           "channel_name": "하트시그널 라비티비",
           "title": "[#하트시그널 커플서사] 현커 완료😍 중꺾마의 교과서📚 겨레x지영 서사 모음 #김지영 #한겨레",
@@ -10637,36 +10442,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/q1JxqiSr7NI"
-        },
-        {
-          "video_id": "XeZPp8WEv7w",
-          "channel_name": "하트시그널 라비티비",
-          "title": "우재X지원, 조용히 깊어지는 사랑… 서사 맛집 정주행 모음.zip 💌",
-          "published_at": "2025-06-28T22:00:30Z",
-          "view_count": 260308,
-          "like_count": 3598,
-          "comment_count": 317,
-          "duration_sec": 5679,
-          "thumbnail_url": "https://i.ytimg.com/vi/XeZPp8WEv7w/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/XeZPp8WEv7w"
-        },
-        {
-          "video_id": "4SolMF5cTMc",
-          "channel_name": "하트시그널 라비티비",
-          "title": "하트페어링 지민으로 보는 ESFJ 특징",
-          "published_at": "2025-05-14T02:00:03Z",
-          "view_count": 258596,
-          "like_count": 2798,
-          "comment_count": 91,
-          "duration_sec": 85,
-          "thumbnail_url": "https://i.ytimg.com/vi/4SolMF5cTMc/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/4SolMF5cTMc"
         },
         {
           "video_id": "WcTltNmEzFA",
@@ -10804,21 +10579,6 @@
           "embed_url": "https://www.youtube.com/embed/gzRclQFAQZk"
         },
         {
-          "video_id": "hiJrINa9kMM",
-          "channel_name": "하트시그널 라비티비",
-          "title": "은근 플러팅 고수인 찬형의 묵직한 한 마디...♥ #하트페어링",
-          "published_at": "2025-05-28T00:31:38Z",
-          "view_count": 199084,
-          "like_count": 2045,
-          "comment_count": 70,
-          "duration_sec": 34,
-          "thumbnail_url": "https://i.ytimg.com/vi/hiJrINa9kMM/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/hiJrINa9kMM"
-        },
-        {
           "video_id": "s_9c5OgJ5XE",
           "channel_name": "하트시그널 라비티비",
           "title": "영주가 분석한 INFP 민규 심리 상태",
@@ -10832,21 +10592,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/s_9c5OgJ5XE"
-        },
-        {
-          "video_id": "i0_DsAiXek4",
-          "channel_name": "하트시그널 라비티비",
-          "title": "＂난 늘 너였어..＂ 긴 여정의 끝, 최종 페어링으로 이어진 세 커플의 다시 시작하는 이야기 | 하트페어링 16 회",
-          "published_at": "2025-06-28T00:41:19Z",
-          "view_count": 184803,
-          "like_count": 1713,
-          "comment_count": 244,
-          "duration_sec": 398,
-          "thumbnail_url": "https://i.ytimg.com/vi/i0_DsAiXek4/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": "16",
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/i0_DsAiXek4"
         },
         {
           "video_id": "L37gFDUCyN0",
@@ -11237,21 +10982,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/6jDQ2a1Mltc"
-        },
-        {
-          "video_id": "ipsmorkMiv4",
-          "channel_name": "셀럽픽",
-          "title": "그시절 우리가 사랑했던 하트시그널 레전드여신들 TOP5 #하트시그널 #배윤경 #오영주 #김지영 #임현주 #박지현",
-          "published_at": "2025-06-02T15:44:13Z",
-          "view_count": 105845,
-          "like_count": 588,
-          "comment_count": 55,
-          "duration_sec": 60,
-          "thumbnail_url": "https://i.ytimg.com/vi/ipsmorkMiv4/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/ipsmorkMiv4"
         },
         {
           "video_id": "eEL-DH2g-PU",
@@ -12019,21 +11749,6 @@
           "embed_url": "https://www.youtube.com/embed/QrkA9pWx3vY"
         },
         {
-          "video_id": "YVkj6Y94TZc",
-          "channel_name": "이슈컬렉터",
-          "title": "하트페어링 우재 지원 지민 제연 현커 인증 커플사진 공개! 최종커플 결말은 결혼?  #하트페어링 #연애예능",
-          "published_at": "2025-06-29T03:19:34Z",
-          "view_count": 45071,
-          "like_count": 424,
-          "comment_count": 17,
-          "duration_sec": 60,
-          "thumbnail_url": "https://i.ytimg.com/vi/YVkj6Y94TZc/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/YVkj6Y94TZc"
-        },
-        {
           "video_id": "Y-07-CGBsIY",
           "channel_name": "블튜브",
           "title": "김현우가 97.7% 여자들을 안달나게 만든 4가지 공식 (하트시그널2)",
@@ -12197,21 +11912,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/hqmbJTnt18U"
-        },
-        {
-          "video_id": "HfqOJuIEqwc",
-          "channel_name": "Who is hot??",
-          "title": "하트페어링 종료후 현커는 누구? 진짜 사귀는 커플 정리했어요",
-          "published_at": "2025-06-29T15:28:05Z",
-          "view_count": 36724,
-          "like_count": 302,
-          "comment_count": 22,
-          "duration_sec": 55,
-          "thumbnail_url": "https://i.ytimg.com/vi/HfqOJuIEqwc/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/HfqOJuIEqwc"
         },
         {
           "video_id": "aU_YVnchH6s",
@@ -12797,21 +12497,6 @@
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/rrQ-ttoQJOM"
-        },
-        {
-          "video_id": "yJOVbqH3FAM",
-          "channel_name": "하트시그널 라비티비",
-          "title": "특별했던 겨울의 끝, 남자 입주자들의 최종선택 | 하트페어링 16 회",
-          "published_at": "2025-06-28T00:34:38Z",
-          "view_count": 22125,
-          "like_count": 138,
-          "comment_count": 23,
-          "duration_sec": 451,
-          "thumbnail_url": "https://i.ytimg.com/vi/yJOVbqH3FAM/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": "16",
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/yJOVbqH3FAM"
         },
         {
           "video_id": "W1m72EgVZak",
@@ -13607,21 +13292,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/OV71rdDQYSY"
-        },
-        {
-          "video_id": "oXk4_Z9ndhQ",
-          "channel_name": "이야기꽃정원TV",
-          "title": "메기남상윤,제연 계약연애결말?#하트페어링 #하트시그널 #shorts",
-          "published_at": "2025-05-27T11:53:08Z",
-          "view_count": 12518,
-          "like_count": 58,
-          "comment_count": 21,
-          "duration_sec": 40,
-          "thumbnail_url": "https://i.ytimg.com/vi/oXk4_Z9ndhQ/hqdefault.jpg",
-          "season": "하트시그널",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/oXk4_Z9ndhQ"
         },
         {
           "video_id": "FqgCm6KkqFo",
@@ -15789,7 +15459,7 @@
       "icon": "🌹",
       "color": "#C0392B",
       "en": "I Am Solo",
-      "total": 525,
+      "total": 513,
       "seasons": [
         {
           "season": "31기",
@@ -15915,16 +15585,6 @@
           "season": "4기",
           "cnt": 4,
           "views": 1324316
-        },
-        {
-          "season": "나는솔로",
-          "cnt": 2,
-          "views": 62636
-        },
-        {
-          "season": "사계",
-          "cnt": 10,
-          "views": 542018
         }
       ],
       "videos": [
@@ -18674,21 +18334,6 @@
           "embed_url": "https://www.youtube.com/embed/GiEnTgeujUg"
         },
         {
-          "video_id": "JItmCIwXb4s",
-          "channel_name": "이슈체크인",
-          "title": "나는솔로 사계 25기 영자 20기 영식 현커 데이트 사진 유출",
-          "published_at": "2026-04-15T04:41:08Z",
-          "view_count": 141731,
-          "like_count": 308,
-          "comment_count": 21,
-          "duration_sec": 40,
-          "thumbnail_url": "https://i.ytimg.com/vi/JItmCIwXb4s/hqdefault.jpg",
-          "season": "사계",
-          "episode": null,
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/JItmCIwXb4s"
-        },
-        {
           "video_id": "L1pwE_vfqhU",
           "channel_name": "팟톡",
           "title": "나는솔로 31기 정희 영식 현커! 골프 데이트 목격담 #현커 #31기정희 #31기영식 #나는솔로31기 #목격담",
@@ -19137,21 +18782,6 @@
           "episode": "11",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/9t7KcP7mZUs"
-        },
-        {
-          "video_id": "z5ifcVeEZYA",
-          "channel_name": "알고보니",
-          "title": "나는솔로 사계 최근 근황 라방 총정리. 현커유무, 이별커플, 싸대기 언급, 각종 해명",
-          "published_at": "2025-12-11T17:39:44Z",
-          "view_count": 111731,
-          "like_count": 298,
-          "comment_count": 155,
-          "duration_sec": 191,
-          "thumbnail_url": "https://i.ytimg.com/vi/z5ifcVeEZYA/hqdefault.jpg",
-          "season": "사계",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/z5ifcVeEZYA"
         },
         {
           "video_id": "UlnNLD4jsXc",
@@ -20144,21 +19774,6 @@
           "embed_url": "https://www.youtube.com/embed/4zsqhW99rm0"
         },
         {
-          "video_id": "PsaeH_3jEao",
-          "channel_name": "SBS Plus 스플스",
-          "title": "순수남 특집🫧 최종 선택의 날🩵 ㅣEP.143ㅣSBSPlusㅣ#나솔사계ㅣ매주 목요일 밤 10시 30분 방송",
-          "published_at": "2025-12-11T14:54:00Z",
-          "view_count": 70827,
-          "like_count": 368,
-          "comment_count": 143,
-          "duration_sec": 948,
-          "thumbnail_url": "https://i.ytimg.com/vi/PsaeH_3jEao/hqdefault.jpg",
-          "season": "사계",
-          "episode": "143",
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/PsaeH_3jEao"
-        },
-        {
           "video_id": "LwnwJ3Kli8s",
           "channel_name": "ENA 이엔에이",
           "title": "[29기 8회 순삭 정리] 상철 너 이 자슥아!!!♨️♨️ 영자 마음에 대못 박은 상철, 옥순을 차지하다!? #나는솔로 EP.235",
@@ -20669,21 +20284,6 @@
           "embed_url": "https://www.youtube.com/embed/nn-MuxSmWlo"
         },
         {
-          "video_id": "DahcAzCMLZM",
-          "channel_name": "자쟁이",
-          "title": "[사계리뷰] 아무리 잘생겨도 여자들이 절대 안받아주는 고백은",
-          "published_at": "2026-04-09T20:29:04Z",
-          "view_count": 44258,
-          "like_count": 1013,
-          "comment_count": 145,
-          "duration_sec": 507,
-          "thumbnail_url": "https://i.ytimg.com/vi/DahcAzCMLZM/hqdefault.jpg",
-          "season": "사계",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/DahcAzCMLZM"
-        },
-        {
           "video_id": "jj1sFCiA0Es",
           "channel_name": "티자이너",
           "title": "타인에 대한 배려따윈 없는 나쁜인성 2인조 (( 나는솔로 243회 ))",
@@ -20862,21 +20462,6 @@
           "episode": "2",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/yitY_ZfRel8"
-        },
-        {
-          "video_id": "PExepW3L7l8",
-          "channel_name": "강기자TV",
-          "title": "나솔사계 라방요약 현커여부 논란해명 결별커플 기싸움",
-          "published_at": "2025-12-11T16:18:52Z",
-          "view_count": 39342,
-          "like_count": 82,
-          "comment_count": 48,
-          "duration_sec": 149,
-          "thumbnail_url": "https://i.ytimg.com/vi/PExepW3L7l8/hqdefault.jpg",
-          "season": "사계",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/PExepW3L7l8"
         },
         {
           "video_id": "5bsN40ACuO4",
@@ -21059,21 +20644,6 @@
           "embed_url": "https://www.youtube.com/embed/cX-8TcpWqV0"
         },
         {
-          "video_id": "8nY5nUffZeU",
-          "channel_name": "짤토리",
-          "title": "[나솔사계] 22상철을 손절치기 위해 발악을 하는 백합. 며칠이나 봤다고?  ",
-          "published_at": "2026-02-21T02:06:21Z",
-          "view_count": 36922,
-          "like_count": 634,
-          "comment_count": 353,
-          "duration_sec": 1008,
-          "thumbnail_url": "https://i.ytimg.com/vi/8nY5nUffZeU/hqdefault.jpg",
-          "season": "나는솔로",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/8nY5nUffZeU"
-        },
-        {
           "video_id": "Z5frHjxz4zg",
           "channel_name": "SBS Plus 스플스",
           "title": "\"아..떨려..😳\" 시선 바닥 에겐 영수의 플러팅ㅣ나는솔로 SOLO EP.240ㅣSBS PLUSㅣ(수) 밤 10시 30분",
@@ -21087,21 +20657,6 @@
           "episode": "240",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/Z5frHjxz4zg"
-        },
-        {
-          "video_id": "PKxpC7Tk7L4",
-          "channel_name": "엘군의시선",
-          "title": "나솔사계 라방 요약 총정리. 현커여부 및 각종해명. 용담, 24영수 태도 해명.",
-          "published_at": "2025-12-11T16:50:21Z",
-          "view_count": 36486,
-          "like_count": 503,
-          "comment_count": 60,
-          "duration_sec": 548,
-          "thumbnail_url": "https://i.ytimg.com/vi/PKxpC7Tk7L4/hqdefault.jpg",
-          "season": "사계",
-          "episode": null,
-          "content_type": "summary",
-          "embed_url": "https://www.youtube.com/embed/PKxpC7Tk7L4"
         },
         {
           "video_id": "kigqaEWYFOU",
@@ -21312,21 +20867,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/BslndyZlAjY"
-        },
-        {
-          "video_id": "YBY-7lCF1_4",
-          "channel_name": "심리대화",
-          "title": "17순자는 왜 또 어려운 길을 선택했을까? 25영자가 20영식의 마음을 얻을까? - 나솔사계 160화 분석리뷰 | 심리대화 LBC",
-          "published_at": "2026-04-13T04:42:06Z",
-          "view_count": 31483,
-          "like_count": 287,
-          "comment_count": 26,
-          "duration_sec": 6824,
-          "thumbnail_url": "https://i.ytimg.com/vi/YBY-7lCF1_4/hqdefault.jpg",
-          "season": "사계",
-          "episode": "160",
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/YBY-7lCF1_4"
         },
         {
           "video_id": "z9gDobLrLaU",
@@ -21584,21 +21124,6 @@
           "embed_url": "https://www.youtube.com/embed/ckpQcy7svSE"
         },
         {
-          "video_id": "xK4NyvO3bXo",
-          "channel_name": "티자이너",
-          "title": "나한테 돈 내라는 말만 들어도 바들바들 떨린다 (( 나솔사계 161회 리뷰 ))",
-          "published_at": "2026-04-16T16:08:04Z",
-          "view_count": 28089,
-          "like_count": 614,
-          "comment_count": 228,
-          "duration_sec": 728,
-          "thumbnail_url": "https://i.ytimg.com/vi/xK4NyvO3bXo/hqdefault.jpg",
-          "season": "사계",
-          "episode": "161",
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/xK4NyvO3bXo"
-        },
-        {
           "video_id": "RQmqz5wjk84",
           "channel_name": "ENA 이엔에이",
           "title": "[29기 3회 순삭 정리] 두부상 연하남 영수의 누나들 마음 공략하는 방법😉 #나는솔로 EP.230",
@@ -21612,21 +21137,6 @@
           "episode": "230",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/RQmqz5wjk84"
-        },
-        {
-          "video_id": "ECqmqu5qwwA",
-          "channel_name": "엘군의시선",
-          "title": "[나솔사계 골싱특집] 선마태아, 28영수, 미스터킴, 용담의 활약을 기대합니다",
-          "published_at": "2025-12-18T16:20:03Z",
-          "view_count": 27333,
-          "like_count": 433,
-          "comment_count": 48,
-          "duration_sec": 810,
-          "thumbnail_url": "https://i.ytimg.com/vi/ECqmqu5qwwA/hqdefault.jpg",
-          "season": "사계",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/ECqmqu5qwwA"
         },
         {
           "video_id": "NqRpUZ-ewwg",
@@ -21747,21 +21257,6 @@
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/rikFNm3I9C8"
-        },
-        {
-          "video_id": "8oxQLKIJoDM",
-          "channel_name": "엘군의시선",
-          "title": "[나솔사계] 무례하고 선넘는 미스터킴 그런 미스터킴을 보고 깔깔거리는 국화",
-          "published_at": "2026-01-29T16:00:24Z",
-          "view_count": 25714,
-          "like_count": 401,
-          "comment_count": 57,
-          "duration_sec": 560,
-          "thumbnail_url": "https://i.ytimg.com/vi/8oxQLKIJoDM/hqdefault.jpg",
-          "season": "나는솔로",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/8oxQLKIJoDM"
         },
         {
           "video_id": "diyZWimPQ_0",
@@ -22844,21 +22339,6 @@
           "embed_url": "https://www.youtube.com/embed/OjcYm-iioEY"
         },
         {
-          "video_id": "Kxn_LL3QvYA",
-          "channel_name": "티자이너",
-          "title": "늘 킹카들이 좋아하는, 하지만 지팔지꼰인..(( 나솔사계 17기순자 ))",
-          "published_at": "2026-04-11T00:35:56Z",
-          "view_count": 10738,
-          "like_count": 290,
-          "comment_count": 105,
-          "duration_sec": 428,
-          "thumbnail_url": "https://i.ytimg.com/vi/Kxn_LL3QvYA/hqdefault.jpg",
-          "season": "사계",
-          "episode": "17",
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/Kxn_LL3QvYA"
-        },
-        {
           "video_id": "RoAnhyD4SVs",
           "channel_name": "정신분석매니아",
           "title": "(나는솔로31) \"가족 같은 남사친\" 순자는 왜 경수를 떠봤을까? 미방분 총정리 : 좋아할수록 직진보다 방어를 택하는 사람들",
@@ -23809,52 +23289,27 @@
       "icon": "🔄",
       "color": "#8E44AD",
       "en": "EXchange",
-      "total": 482,
+      "total": 475,
       "seasons": [
         {
           "season": "시즌4",
-          "cnt": 184,
-          "views": 69845913
-        },
-        {
-          "season": "환승연애4",
-          "cnt": 202,
-          "views": 64038962
+          "cnt": 386,
+          "views": 133884875
         },
         {
           "season": "시즌3",
-          "cnt": 35,
-          "views": 46768152
-        },
-        {
-          "season": "환승연애3",
-          "cnt": 11,
-          "views": 4262490
+          "cnt": 46,
+          "views": 51030642
         },
         {
           "season": "시즌2",
-          "cnt": 24,
-          "views": 24627276
-        },
-        {
-          "season": "환승연애2",
-          "cnt": 7,
-          "views": 8143166
+          "cnt": 31,
+          "views": 32770442
         },
         {
           "season": "시즌1",
-          "cnt": 3,
-          "views": 4885539
-        },
-        {
-          "season": "환승연애1",
-          "cnt": 9,
-          "views": 6103544
-        },
-        {
-          "season": "환승연애",
-          "cnt": 7,
-          "views": 2186864
+          "cnt": 12,
+          "views": 10989083
         }
       ],
       "videos": [
@@ -23988,7 +23443,7 @@
           "comment_count": 0,
           "duration_sec": 1605,
           "thumbnail_url": "https://i.ytimg.com/vi/dwFY9RY5JaU/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/dwFY9RY5JaU"
@@ -24033,7 +23488,7 @@
           "comment_count": 0,
           "duration_sec": 5162,
           "thumbnail_url": "https://i.ytimg.com/vi/VdUcrMIL6K4/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/VdUcrMIL6K4"
@@ -24093,7 +23548,7 @@
           "comment_count": 367,
           "duration_sec": 30,
           "thumbnail_url": "https://i.ytimg.com/vi/bIInw5NYgQw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/bIInw5NYgQw"
@@ -24108,7 +23563,7 @@
           "comment_count": 2778,
           "duration_sec": 714,
           "thumbnail_url": "https://i.ytimg.com/vi/vAjLQT9HCEM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/vAjLQT9HCEM"
@@ -24168,7 +23623,7 @@
           "comment_count": 0,
           "duration_sec": 2608,
           "thumbnail_url": "https://i.ytimg.com/vi/7IOUS3POFDI/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/7IOUS3POFDI"
@@ -24198,7 +23653,7 @@
           "comment_count": 3337,
           "duration_sec": 357,
           "thumbnail_url": "https://i.ytimg.com/vi/2vuFsbVyoYw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "7",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/2vuFsbVyoYw"
@@ -24243,7 +23698,7 @@
           "comment_count": 111,
           "duration_sec": 38,
           "thumbnail_url": "https://i.ytimg.com/vi/eI6v7pF5Kq0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/eI6v7pF5Kq0"
@@ -24288,7 +23743,7 @@
           "comment_count": 2338,
           "duration_sec": 1138,
           "thumbnail_url": "https://i.ytimg.com/vi/WcPooPgiv6I/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/WcPooPgiv6I"
@@ -24303,7 +23758,7 @@
           "comment_count": 0,
           "duration_sec": 2023,
           "thumbnail_url": "https://i.ytimg.com/vi/0E_NuZCmbpU/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/0E_NuZCmbpU"
@@ -24333,7 +23788,7 @@
           "comment_count": 135,
           "duration_sec": 59,
           "thumbnail_url": "https://i.ytimg.com/vi/ZNfSCWVHunE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ZNfSCWVHunE"
@@ -24348,7 +23803,7 @@
           "comment_count": 3237,
           "duration_sec": 608,
           "thumbnail_url": "https://i.ytimg.com/vi/m1KTlMlr7UE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/m1KTlMlr7UE"
@@ -24363,7 +23818,7 @@
           "comment_count": 2060,
           "duration_sec": 901,
           "thumbnail_url": "https://i.ytimg.com/vi/RafjSNuzjC0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/RafjSNuzjC0"
@@ -24408,7 +23863,7 @@
           "comment_count": 0,
           "duration_sec": 574,
           "thumbnail_url": "https://i.ytimg.com/vi/gouN-p8ANdU/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/gouN-p8ANdU"
@@ -24438,7 +23893,7 @@
           "comment_count": 98,
           "duration_sec": 66,
           "thumbnail_url": "https://i.ytimg.com/vi/-ezerlOhAMU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/-ezerlOhAMU"
@@ -24498,7 +23953,7 @@
           "comment_count": 1373,
           "duration_sec": 772,
           "thumbnail_url": "https://i.ytimg.com/vi/i2_weRHffjg/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/i2_weRHffjg"
@@ -24513,7 +23968,7 @@
           "comment_count": 2037,
           "duration_sec": 605,
           "thumbnail_url": "https://i.ytimg.com/vi/ZFPZclyY8Qg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ZFPZclyY8Qg"
@@ -24588,7 +24043,7 @@
           "comment_count": 915,
           "duration_sec": 1334,
           "thumbnail_url": "https://i.ytimg.com/vi/bLM5IzyYC7o/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/bLM5IzyYC7o"
@@ -24618,7 +24073,7 @@
           "comment_count": 50,
           "duration_sec": 30,
           "thumbnail_url": "https://i.ytimg.com/vi/7cEnllNh3t8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/7cEnllNh3t8"
@@ -24633,7 +24088,7 @@
           "comment_count": 1555,
           "duration_sec": 1253,
           "thumbnail_url": "https://i.ytimg.com/vi/Q3bdAZc8YPk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "18",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Q3bdAZc8YPk"
@@ -24648,7 +24103,7 @@
           "comment_count": 1924,
           "duration_sec": 425,
           "thumbnail_url": "https://i.ytimg.com/vi/Emjoo5m9Uh8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/Emjoo5m9Uh8"
@@ -24678,7 +24133,7 @@
           "comment_count": 351,
           "duration_sec": 106,
           "thumbnail_url": "https://i.ytimg.com/vi/VWiAu9oksvo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/VWiAu9oksvo"
@@ -24708,7 +24163,7 @@
           "comment_count": 1258,
           "duration_sec": 680,
           "thumbnail_url": "https://i.ytimg.com/vi/zleNZJhHi6Q/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/zleNZJhHi6Q"
@@ -24753,7 +24208,7 @@
           "comment_count": 581,
           "duration_sec": 309,
           "thumbnail_url": "https://i.ytimg.com/vi/u-K8xUoWyl8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "7",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/u-K8xUoWyl8"
@@ -24768,7 +24223,7 @@
           "comment_count": 0,
           "duration_sec": 660,
           "thumbnail_url": "https://i.ytimg.com/vi/67OS4-1Sxqc/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/67OS4-1Sxqc"
@@ -24873,7 +24328,7 @@
           "comment_count": 435,
           "duration_sec": 143,
           "thumbnail_url": "https://i.ytimg.com/vi/B86ke-rOXrg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/B86ke-rOXrg"
@@ -24888,7 +24343,7 @@
           "comment_count": 3412,
           "duration_sec": 560,
           "thumbnail_url": "https://i.ytimg.com/vi/f_9K33ASvLU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/f_9K33ASvLU"
@@ -24978,25 +24433,10 @@
           "comment_count": 298,
           "duration_sec": 397,
           "thumbnail_url": "https://i.ytimg.com/vi/Y14CCtSmbCs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Y14CCtSmbCs"
-        },
-        {
-          "video_id": "wWVcvr2sMC4",
-          "channel_name": "민와와",
-          "title": "[SUB] 환승연애를 차마 못 봤던 이유… 드디어 Q&A",
-          "published_at": "2026-03-10T10:01:31Z",
-          "view_count": 732319,
-          "like_count": 12743,
-          "comment_count": 977,
-          "duration_sec": 1307,
-          "thumbnail_url": "https://i.ytimg.com/vi/wWVcvr2sMC4/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": null,
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/wWVcvr2sMC4"
         },
         {
           "video_id": "xQLWLfeFOC0",
@@ -25008,7 +24448,7 @@
           "comment_count": 992,
           "duration_sec": 1101,
           "thumbnail_url": "https://i.ytimg.com/vi/xQLWLfeFOC0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/xQLWLfeFOC0"
@@ -25023,7 +24463,7 @@
           "comment_count": 27,
           "duration_sec": 51,
           "thumbnail_url": "https://i.ytimg.com/vi/_KPYUoxzmPw/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "1",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/_KPYUoxzmPw"
@@ -25059,21 +24499,6 @@
           "embed_url": "https://www.youtube.com/embed/WMr2axxrIjE"
         },
         {
-          "video_id": "A-hkFmmn8Ew",
-          "channel_name": "JTBC Entertainment",
-          "title": "[하이라이트] ※주의※ 환승연애 아님💦 달달하다가도 바로 싸우는 현실 커플 '희두X나연'의 극한연애 | 극한투어 | JTBC 240929 방송",
-          "published_at": "2024-09-29T15:21:18Z",
-          "view_count": 703794,
-          "like_count": 3262,
-          "comment_count": 798,
-          "duration_sec": 1822,
-          "thumbnail_url": "https://i.ytimg.com/vi/A-hkFmmn8Ew/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": null,
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/A-hkFmmn8Ew"
-        },
-        {
           "video_id": "2W3ND0qBme4",
           "channel_name": "ᄐᄇᄐᄇ TVTV",
           "title": "[#환승연애4] 드디어 공개된 환연4 출연자들의 직업💥상상도 못한 직업까지 등장했다고❓",
@@ -25083,7 +24508,7 @@
           "comment_count": 0,
           "duration_sec": 598,
           "thumbnail_url": "https://i.ytimg.com/vi/2W3ND0qBme4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/2W3ND0qBme4"
@@ -25158,7 +24583,7 @@
           "comment_count": 938,
           "duration_sec": 275,
           "thumbnail_url": "https://i.ytimg.com/vi/j9mJWifKm98/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/j9mJWifKm98"
@@ -25278,7 +24703,7 @@
           "comment_count": 53,
           "duration_sec": 30,
           "thumbnail_url": "https://i.ytimg.com/vi/S0Bhdd4ljeA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/S0Bhdd4ljeA"
@@ -25308,7 +24733,7 @@
           "comment_count": 0,
           "duration_sec": 414,
           "thumbnail_url": "https://i.ytimg.com/vi/QnV93ROgwEk/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "19",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/QnV93ROgwEk"
@@ -25323,7 +24748,7 @@
           "comment_count": 147,
           "duration_sec": 58,
           "thumbnail_url": "https://i.ytimg.com/vi/_tOrgrxrZcg/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/_tOrgrxrZcg"
@@ -25383,7 +24808,7 @@
           "comment_count": 2049,
           "duration_sec": 414,
           "thumbnail_url": "https://i.ytimg.com/vi/DnZ0tXh4xOI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/DnZ0tXh4xOI"
@@ -25428,7 +24853,7 @@
           "comment_count": 2063,
           "duration_sec": 1755,
           "thumbnail_url": "https://i.ytimg.com/vi/P6ruF42J8gc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/P6ruF42J8gc"
@@ -25443,7 +24868,7 @@
           "comment_count": 1328,
           "duration_sec": 365,
           "thumbnail_url": "https://i.ytimg.com/vi/V9gDLRrmIvI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/V9gDLRrmIvI"
@@ -25458,7 +24883,7 @@
           "comment_count": 2288,
           "duration_sec": 349,
           "thumbnail_url": "https://i.ytimg.com/vi/hBmeBODOBRE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/hBmeBODOBRE"
@@ -25533,7 +24958,7 @@
           "comment_count": 760,
           "duration_sec": 1424,
           "thumbnail_url": "https://i.ytimg.com/vi/z3pDTonHQ3c/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/z3pDTonHQ3c"
@@ -25548,7 +24973,7 @@
           "comment_count": 891,
           "duration_sec": 254,
           "thumbnail_url": "https://i.ytimg.com/vi/giESbgSMz3k/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "14",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/giESbgSMz3k"
@@ -25563,7 +24988,7 @@
           "comment_count": 1017,
           "duration_sec": 1289,
           "thumbnail_url": "https://i.ytimg.com/vi/XbeUkBUYHbA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "8",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/XbeUkBUYHbA"
@@ -25593,7 +25018,7 @@
           "comment_count": 1162,
           "duration_sec": 1105,
           "thumbnail_url": "https://i.ytimg.com/vi/OkNdshWnMWI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/OkNdshWnMWI"
@@ -25608,7 +25033,7 @@
           "comment_count": 201,
           "duration_sec": 177,
           "thumbnail_url": "https://i.ytimg.com/vi/YAaWNxFXIf8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/YAaWNxFXIf8"
@@ -25623,7 +25048,7 @@
           "comment_count": 995,
           "duration_sec": 75,
           "thumbnail_url": "https://i.ytimg.com/vi/kyKStGYfo8k/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/kyKStGYfo8k"
@@ -25638,7 +25063,7 @@
           "comment_count": 609,
           "duration_sec": 2056,
           "thumbnail_url": "https://i.ytimg.com/vi/yjAQ399yPO8/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": "6",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/yjAQ399yPO8"
@@ -25668,7 +25093,7 @@
           "comment_count": 915,
           "duration_sec": 1474,
           "thumbnail_url": "https://i.ytimg.com/vi/Ll5HleQI3Ys/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Ll5HleQI3Ys"
@@ -25728,7 +25153,7 @@
           "comment_count": 844,
           "duration_sec": 1169,
           "thumbnail_url": "https://i.ytimg.com/vi/0gsuMVsHFKg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/0gsuMVsHFKg"
@@ -25758,7 +25183,7 @@
           "comment_count": 820,
           "duration_sec": 1379,
           "thumbnail_url": "https://i.ytimg.com/vi/k3NW8BthP-A/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/k3NW8BthP-A"
@@ -25773,7 +25198,7 @@
           "comment_count": 891,
           "duration_sec": 91,
           "thumbnail_url": "https://i.ytimg.com/vi/dLjd9Q3GV9g/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/dLjd9Q3GV9g"
@@ -25833,7 +25258,7 @@
           "comment_count": 969,
           "duration_sec": 67,
           "thumbnail_url": "https://i.ytimg.com/vi/a3xZYkq5Eac/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "9",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/a3xZYkq5Eac"
@@ -25848,7 +25273,7 @@
           "comment_count": 262,
           "duration_sec": 97,
           "thumbnail_url": "https://i.ytimg.com/vi/ks8dXSL-sjc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/ks8dXSL-sjc"
@@ -25863,7 +25288,7 @@
           "comment_count": 469,
           "duration_sec": 230,
           "thumbnail_url": "https://i.ytimg.com/vi/PYe0lJW5W_w/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "8",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/PYe0lJW5W_w"
@@ -25923,7 +25348,7 @@
           "comment_count": 14,
           "duration_sec": 42,
           "thumbnail_url": "https://i.ytimg.com/vi/r1gfqzaeJuU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/r1gfqzaeJuU"
@@ -25968,7 +25393,7 @@
           "comment_count": 353,
           "duration_sec": 35,
           "thumbnail_url": "https://i.ytimg.com/vi/ArDi8Opjogc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ArDi8Opjogc"
@@ -25998,7 +25423,7 @@
           "comment_count": 354,
           "duration_sec": 1140,
           "thumbnail_url": "https://i.ytimg.com/vi/lZh7bD_auZg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/lZh7bD_auZg"
@@ -26013,7 +25438,7 @@
           "comment_count": 879,
           "duration_sec": 1230,
           "thumbnail_url": "https://i.ytimg.com/vi/FGTuKMOyJRY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/FGTuKMOyJRY"
@@ -26028,7 +25453,7 @@
           "comment_count": 24,
           "duration_sec": 59,
           "thumbnail_url": "https://i.ytimg.com/vi/twLWhlazNQo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/twLWhlazNQo"
@@ -26058,7 +25483,7 @@
           "comment_count": 599,
           "duration_sec": 56,
           "thumbnail_url": "https://i.ytimg.com/vi/mB4mDc-CWUI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "17",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/mB4mDc-CWUI"
@@ -26088,7 +25513,7 @@
           "comment_count": 273,
           "duration_sec": 93,
           "thumbnail_url": "https://i.ytimg.com/vi/auwFBySShXY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/auwFBySShXY"
@@ -26103,7 +25528,7 @@
           "comment_count": 749,
           "duration_sec": 56,
           "thumbnail_url": "https://i.ytimg.com/vi/XWQRfWcP4zg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/XWQRfWcP4zg"
@@ -26118,7 +25543,7 @@
           "comment_count": 293,
           "duration_sec": 108,
           "thumbnail_url": "https://i.ytimg.com/vi/SGnnkO7S8uE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/SGnnkO7S8uE"
@@ -26133,7 +25558,7 @@
           "comment_count": 0,
           "duration_sec": 1690,
           "thumbnail_url": "https://i.ytimg.com/vi/UFynhIPk9zY/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/UFynhIPk9zY"
@@ -26148,7 +25573,7 @@
           "comment_count": 323,
           "duration_sec": 1124,
           "thumbnail_url": "https://i.ytimg.com/vi/EUcpFhjmcdk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/EUcpFhjmcdk"
@@ -26253,7 +25678,7 @@
           "comment_count": 164,
           "duration_sec": 101,
           "thumbnail_url": "https://i.ytimg.com/vi/vzPzRfjcNk0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/vzPzRfjcNk0"
@@ -26328,7 +25753,7 @@
           "comment_count": 0,
           "duration_sec": 584,
           "thumbnail_url": "https://i.ytimg.com/vi/XOcBBm2FWN4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/XOcBBm2FWN4"
@@ -26373,7 +25798,7 @@
           "comment_count": 297,
           "duration_sec": 344,
           "thumbnail_url": "https://i.ytimg.com/vi/NC_40XRVOAQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "14",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/NC_40XRVOAQ"
@@ -26418,7 +25843,7 @@
           "comment_count": 218,
           "duration_sec": 142,
           "thumbnail_url": "https://i.ytimg.com/vi/J5mfDzA8_88/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/J5mfDzA8_88"
@@ -26433,7 +25858,7 @@
           "comment_count": 349,
           "duration_sec": 1746,
           "thumbnail_url": "https://i.ytimg.com/vi/0lp1nSaDuyw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/0lp1nSaDuyw"
@@ -26448,7 +25873,7 @@
           "comment_count": 302,
           "duration_sec": 1339,
           "thumbnail_url": "https://i.ytimg.com/vi/w_rZwnHUyM8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/w_rZwnHUyM8"
@@ -26463,7 +25888,7 @@
           "comment_count": 841,
           "duration_sec": 55,
           "thumbnail_url": "https://i.ytimg.com/vi/Oiw3QX052U4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "11",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/Oiw3QX052U4"
@@ -26538,25 +25963,10 @@
           "comment_count": 1189,
           "duration_sec": 270,
           "thumbnail_url": "https://i.ytimg.com/vi/WpJCTxpo3Uw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/WpJCTxpo3Uw"
-        },
-        {
-          "video_id": "rEtOlyl9qjQ",
-          "channel_name": "입만열면",
-          "title": "[EN] 민와와, 가든규 그리고 MC용진 재결합(?) | EP.12 환승연애 곽민경 정원규 | 트루만쇼",
-          "published_at": "2026-04-23T09:30:33Z",
-          "view_count": 355868,
-          "like_count": 4830,
-          "comment_count": 455,
-          "duration_sec": 2592,
-          "thumbnail_url": "https://i.ytimg.com/vi/rEtOlyl9qjQ/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": "12",
-          "content_type": "review",
-          "embed_url": "https://www.youtube.com/embed/rEtOlyl9qjQ"
         },
         {
           "video_id": "IAxhyEetnRA",
@@ -26568,7 +25978,7 @@
           "comment_count": 461,
           "duration_sec": 659,
           "thumbnail_url": "https://i.ytimg.com/vi/IAxhyEetnRA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/IAxhyEetnRA"
@@ -26583,7 +25993,7 @@
           "comment_count": 351,
           "duration_sec": 1460,
           "thumbnail_url": "https://i.ytimg.com/vi/37rRI7bt28g/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/37rRI7bt28g"
@@ -26613,7 +26023,7 @@
           "comment_count": 336,
           "duration_sec": 1026,
           "thumbnail_url": "https://i.ytimg.com/vi/wsAo4PM7L20/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "18",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/wsAo4PM7L20"
@@ -26643,7 +26053,7 @@
           "comment_count": 348,
           "duration_sec": 486,
           "thumbnail_url": "https://i.ytimg.com/vi/Bu3egYgCF8o/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Bu3egYgCF8o"
@@ -26658,7 +26068,7 @@
           "comment_count": 640,
           "duration_sec": 711,
           "thumbnail_url": "https://i.ytimg.com/vi/YVHWlbjzvZs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/YVHWlbjzvZs"
@@ -26688,7 +26098,7 @@
           "comment_count": 332,
           "duration_sec": 1549,
           "thumbnail_url": "https://i.ytimg.com/vi/t5U604-D-p8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/t5U604-D-p8"
@@ -26703,7 +26113,7 @@
           "comment_count": 73,
           "duration_sec": 43,
           "thumbnail_url": "https://i.ytimg.com/vi/eqiS0jl-gKg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/eqiS0jl-gKg"
@@ -26718,7 +26128,7 @@
           "comment_count": 42,
           "duration_sec": 40,
           "thumbnail_url": "https://i.ytimg.com/vi/_TTXn7VhgCA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/_TTXn7VhgCA"
@@ -26763,7 +26173,7 @@
           "comment_count": 0,
           "duration_sec": 1643,
           "thumbnail_url": "https://i.ytimg.com/vi/FEC11bKVMZs/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/FEC11bKVMZs"
@@ -26778,7 +26188,7 @@
           "comment_count": 561,
           "duration_sec": 198,
           "thumbnail_url": "https://i.ytimg.com/vi/OGzzBjN2tw4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/OGzzBjN2tw4"
@@ -26808,7 +26218,7 @@
           "comment_count": 125,
           "duration_sec": 156,
           "thumbnail_url": "https://i.ytimg.com/vi/HdcUzIyCf70/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/HdcUzIyCf70"
@@ -26838,7 +26248,7 @@
           "comment_count": 396,
           "duration_sec": 2135,
           "thumbnail_url": "https://i.ytimg.com/vi/VAtQSKugD8Q/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/VAtQSKugD8Q"
@@ -26853,7 +26263,7 @@
           "comment_count": 405,
           "duration_sec": 1816,
           "thumbnail_url": "https://i.ytimg.com/vi/RHzzOhNh-0s/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "8",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/RHzzOhNh-0s"
@@ -26868,7 +26278,7 @@
           "comment_count": 179,
           "duration_sec": 175,
           "thumbnail_url": "https://i.ytimg.com/vi/W3xnuuknNfg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/W3xnuuknNfg"
@@ -26883,7 +26293,7 @@
           "comment_count": 231,
           "duration_sec": 1033,
           "thumbnail_url": "https://i.ytimg.com/vi/BAlg2PJCgcE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/BAlg2PJCgcE"
@@ -26898,7 +26308,7 @@
           "comment_count": 30,
           "duration_sec": 36,
           "thumbnail_url": "https://i.ytimg.com/vi/H4yUg7_PYyM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/H4yUg7_PYyM"
@@ -26913,7 +26323,7 @@
           "comment_count": 0,
           "duration_sec": 595,
           "thumbnail_url": "https://i.ytimg.com/vi/cYi2wJfZzco/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/cYi2wJfZzco"
@@ -27003,7 +26413,7 @@
           "comment_count": 0,
           "duration_sec": 2144,
           "thumbnail_url": "https://i.ytimg.com/vi/x_5zYx0xlms/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/x_5zYx0xlms"
@@ -27018,7 +26428,7 @@
           "comment_count": 0,
           "duration_sec": 599,
           "thumbnail_url": "https://i.ytimg.com/vi/lO8VA1jNsUk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/lO8VA1jNsUk"
@@ -27063,7 +26473,7 @@
           "comment_count": 414,
           "duration_sec": 609,
           "thumbnail_url": "https://i.ytimg.com/vi/S35J1u5kqzg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/S35J1u5kqzg"
@@ -27108,7 +26518,7 @@
           "comment_count": 39,
           "duration_sec": 32,
           "thumbnail_url": "https://i.ytimg.com/vi/qk9B85lXeOo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/qk9B85lXeOo"
@@ -27138,7 +26548,7 @@
           "comment_count": 113,
           "duration_sec": 128,
           "thumbnail_url": "https://i.ytimg.com/vi/0eH8IaTuNMQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/0eH8IaTuNMQ"
@@ -27153,7 +26563,7 @@
           "comment_count": 271,
           "duration_sec": 463,
           "thumbnail_url": "https://i.ytimg.com/vi/kNvKqZy9yHU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/kNvKqZy9yHU"
@@ -27183,7 +26593,7 @@
           "comment_count": 19,
           "duration_sec": 31,
           "thumbnail_url": "https://i.ytimg.com/vi/zmRfGchXbl8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "17",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/zmRfGchXbl8"
@@ -27228,7 +26638,7 @@
           "comment_count": 366,
           "duration_sec": 1421,
           "thumbnail_url": "https://i.ytimg.com/vi/xSJNtiUqCmo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/xSJNtiUqCmo"
@@ -27243,7 +26653,7 @@
           "comment_count": 183,
           "duration_sec": 176,
           "thumbnail_url": "https://i.ytimg.com/vi/O79MeLwmxIw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/O79MeLwmxIw"
@@ -27258,7 +26668,7 @@
           "comment_count": 36,
           "duration_sec": 173,
           "thumbnail_url": "https://i.ytimg.com/vi/xv-5x9Y_pp8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/xv-5x9Y_pp8"
@@ -27303,7 +26713,7 @@
           "comment_count": 410,
           "duration_sec": 1399,
           "thumbnail_url": "https://i.ytimg.com/vi/YMR5-QY1r6A/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/YMR5-QY1r6A"
@@ -27333,7 +26743,7 @@
           "comment_count": 42,
           "duration_sec": 85,
           "thumbnail_url": "https://i.ytimg.com/vi/6AuiXs0LNSY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/6AuiXs0LNSY"
@@ -27393,7 +26803,7 @@
           "comment_count": 31,
           "duration_sec": 49,
           "thumbnail_url": "https://i.ytimg.com/vi/N_MA6hcxXUY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/N_MA6hcxXUY"
@@ -27408,7 +26818,7 @@
           "comment_count": 611,
           "duration_sec": 1977,
           "thumbnail_url": "https://i.ytimg.com/vi/SrJo9qhk0xw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/SrJo9qhk0xw"
@@ -27468,7 +26878,7 @@
           "comment_count": 0,
           "duration_sec": 2158,
           "thumbnail_url": "https://i.ytimg.com/vi/ZHUGG3shNbs/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/ZHUGG3shNbs"
@@ -27588,7 +26998,7 @@
           "comment_count": 176,
           "duration_sec": 1595,
           "thumbnail_url": "https://i.ytimg.com/vi/97kn7T6tJgw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/97kn7T6tJgw"
@@ -27609,21 +27019,6 @@
           "embed_url": "https://www.youtube.com/embed/A0fzcqtrpMM"
         },
         {
-          "video_id": "78zdI9bWU8g",
-          "channel_name": "TVING",
-          "title": "세대 차이 뛰어넘는 케미ㅣTVINGㅣ#환승연애",
-          "published_at": "2026-01-28T13:08:00Z",
-          "view_count": 242372,
-          "like_count": 4931,
-          "comment_count": 61,
-          "duration_sec": 119,
-          "thumbnail_url": "https://i.ytimg.com/vi/78zdI9bWU8g/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": null,
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/78zdI9bWU8g"
-        },
-        {
           "video_id": "kSPY_weNcMc",
           "channel_name": "샾잉 #ing",
           "title": "[#환승연애/9-10화] 주휘X민영X정권을 둘러싼 거대한 N각관계⚡️ 대망의 X 공개 순간의 리액션까지 | #샾잉",
@@ -27633,7 +27028,7 @@
           "comment_count": 0,
           "duration_sec": 2076,
           "thumbnail_url": "https://i.ytimg.com/vi/kSPY_weNcMc/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/kSPY_weNcMc"
@@ -27648,7 +27043,7 @@
           "comment_count": 273,
           "duration_sec": 1112,
           "thumbnail_url": "https://i.ytimg.com/vi/9kQdWGqe1wk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/9kQdWGqe1wk"
@@ -27663,7 +27058,7 @@
           "comment_count": 86,
           "duration_sec": 175,
           "thumbnail_url": "https://i.ytimg.com/vi/jkz_oxHX9jQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/jkz_oxHX9jQ"
@@ -27678,7 +27073,7 @@
           "comment_count": 448,
           "duration_sec": 1480,
           "thumbnail_url": "https://i.ytimg.com/vi/0C2p7Ke0z5w/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/0C2p7Ke0z5w"
@@ -27693,7 +27088,7 @@
           "comment_count": 0,
           "duration_sec": 601,
           "thumbnail_url": "https://i.ytimg.com/vi/ANfCDD8jw1M/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ANfCDD8jw1M"
@@ -27708,7 +27103,7 @@
           "comment_count": 246,
           "duration_sec": 178,
           "thumbnail_url": "https://i.ytimg.com/vi/oA7qC0Oxe8U/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/oA7qC0Oxe8U"
@@ -27753,7 +27148,7 @@
           "comment_count": 422,
           "duration_sec": 1031,
           "thumbnail_url": "https://i.ytimg.com/vi/fUJN7N1sm74/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/fUJN7N1sm74"
@@ -27783,7 +27178,7 @@
           "comment_count": 52,
           "duration_sec": 156,
           "thumbnail_url": "https://i.ytimg.com/vi/Imc6anBkoTI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/Imc6anBkoTI"
@@ -27798,7 +27193,7 @@
           "comment_count": 415,
           "duration_sec": 1883,
           "thumbnail_url": "https://i.ytimg.com/vi/4t_e_zE0I1A/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/4t_e_zE0I1A"
@@ -27813,7 +27208,7 @@
           "comment_count": 136,
           "duration_sec": 1063,
           "thumbnail_url": "https://i.ytimg.com/vi/PF9nb7WZLyk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/PF9nb7WZLyk"
@@ -27858,7 +27253,7 @@
           "comment_count": 379,
           "duration_sec": 1394,
           "thumbnail_url": "https://i.ytimg.com/vi/4jIed4gtsTQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/4jIed4gtsTQ"
@@ -27873,7 +27268,7 @@
           "comment_count": 388,
           "duration_sec": 1277,
           "thumbnail_url": "https://i.ytimg.com/vi/2qgmLQRrndQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/2qgmLQRrndQ"
@@ -27888,7 +27283,7 @@
           "comment_count": 202,
           "duration_sec": 1851,
           "thumbnail_url": "https://i.ytimg.com/vi/EdFp_NaardU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/EdFp_NaardU"
@@ -27918,7 +27313,7 @@
           "comment_count": 502,
           "duration_sec": 1250,
           "thumbnail_url": "https://i.ytimg.com/vi/gBpBfQyfOxg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/gBpBfQyfOxg"
@@ -27933,7 +27328,7 @@
           "comment_count": 111,
           "duration_sec": 42,
           "thumbnail_url": "https://i.ytimg.com/vi/4wjFwg3uKEs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "8",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/4wjFwg3uKEs"
@@ -27993,7 +27388,7 @@
           "comment_count": 510,
           "duration_sec": 1338,
           "thumbnail_url": "https://i.ytimg.com/vi/eJyYU9v8DmM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/eJyYU9v8DmM"
@@ -28023,7 +27418,7 @@
           "comment_count": 292,
           "duration_sec": 984,
           "thumbnail_url": "https://i.ytimg.com/vi/KRDSaiuENxw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/KRDSaiuENxw"
@@ -28038,7 +27433,7 @@
           "comment_count": 121,
           "duration_sec": 181,
           "thumbnail_url": "https://i.ytimg.com/vi/5BMry4VnnSs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/5BMry4VnnSs"
@@ -28053,7 +27448,7 @@
           "comment_count": 507,
           "duration_sec": 539,
           "thumbnail_url": "https://i.ytimg.com/vi/wCWvys7g4VM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "18",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/wCWvys7g4VM"
@@ -28083,7 +27478,7 @@
           "comment_count": 0,
           "duration_sec": 597,
           "thumbnail_url": "https://i.ytimg.com/vi/H1RZiO7USZI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/H1RZiO7USZI"
@@ -28098,7 +27493,7 @@
           "comment_count": 224,
           "duration_sec": 546,
           "thumbnail_url": "https://i.ytimg.com/vi/1E6yXSNkpGg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/1E6yXSNkpGg"
@@ -28113,7 +27508,7 @@
           "comment_count": 141,
           "duration_sec": 556,
           "thumbnail_url": "https://i.ytimg.com/vi/4jMDBlF9bJc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/4jMDBlF9bJc"
@@ -28173,7 +27568,7 @@
           "comment_count": 266,
           "duration_sec": 2147,
           "thumbnail_url": "https://i.ytimg.com/vi/D480j9K40tA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/D480j9K40tA"
@@ -28188,7 +27583,7 @@
           "comment_count": 150,
           "duration_sec": 122,
           "thumbnail_url": "https://i.ytimg.com/vi/9CBAmbwIvQ0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/9CBAmbwIvQ0"
@@ -28203,7 +27598,7 @@
           "comment_count": 182,
           "duration_sec": 177,
           "thumbnail_url": "https://i.ytimg.com/vi/wAQHIq2TOgs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/wAQHIq2TOgs"
@@ -28218,7 +27613,7 @@
           "comment_count": 170,
           "duration_sec": 159,
           "thumbnail_url": "https://i.ytimg.com/vi/flFo2EgPZdk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/flFo2EgPZdk"
@@ -28248,7 +27643,7 @@
           "comment_count": 0,
           "duration_sec": 594,
           "thumbnail_url": "https://i.ytimg.com/vi/zzXCUxZKBgI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/zzXCUxZKBgI"
@@ -28263,7 +27658,7 @@
           "comment_count": 315,
           "duration_sec": 1420,
           "thumbnail_url": "https://i.ytimg.com/vi/7fy1BoJ-Kf4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/7fy1BoJ-Kf4"
@@ -28293,7 +27688,7 @@
           "comment_count": 0,
           "duration_sec": 2707,
           "thumbnail_url": "https://i.ytimg.com/vi/51D13HMNVFk/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "18-19",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/51D13HMNVFk"
@@ -28308,7 +27703,7 @@
           "comment_count": 159,
           "duration_sec": 909,
           "thumbnail_url": "https://i.ytimg.com/vi/q7cQeuP7dQc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/q7cQeuP7dQc"
@@ -28338,7 +27733,7 @@
           "comment_count": 732,
           "duration_sec": 990,
           "thumbnail_url": "https://i.ytimg.com/vi/ZUepe-6VSec/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ZUepe-6VSec"
@@ -28353,7 +27748,7 @@
           "comment_count": 145,
           "duration_sec": 114,
           "thumbnail_url": "https://i.ytimg.com/vi/QACKNHxJg7U/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/QACKNHxJg7U"
@@ -28368,7 +27763,7 @@
           "comment_count": 88,
           "duration_sec": 322,
           "thumbnail_url": "https://i.ytimg.com/vi/DzLqYjzS1ks/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/DzLqYjzS1ks"
@@ -28413,7 +27808,7 @@
           "comment_count": 292,
           "duration_sec": 1367,
           "thumbnail_url": "https://i.ytimg.com/vi/fe0jDniXruI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "10",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/fe0jDniXruI"
@@ -28428,7 +27823,7 @@
           "comment_count": 314,
           "duration_sec": 1340,
           "thumbnail_url": "https://i.ytimg.com/vi/6fk9ibWe73Q/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/6fk9ibWe73Q"
@@ -28458,7 +27853,7 @@
           "comment_count": 0,
           "duration_sec": 599,
           "thumbnail_url": "https://i.ytimg.com/vi/AXEkKt3oKbs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/AXEkKt3oKbs"
@@ -28488,7 +27883,7 @@
           "comment_count": 272,
           "duration_sec": 922,
           "thumbnail_url": "https://i.ytimg.com/vi/U0FAG6OieCc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/U0FAG6OieCc"
@@ -28518,7 +27913,7 @@
           "comment_count": 201,
           "duration_sec": 1167,
           "thumbnail_url": "https://i.ytimg.com/vi/T8pos66NaMI/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/T8pos66NaMI"
@@ -28563,7 +27958,7 @@
           "comment_count": 0,
           "duration_sec": 566,
           "thumbnail_url": "https://i.ytimg.com/vi/8Fnp8x8lQkU/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "20",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/8Fnp8x8lQkU"
@@ -28578,7 +27973,7 @@
           "comment_count": 55,
           "duration_sec": 150,
           "thumbnail_url": "https://i.ytimg.com/vi/UaxPHs8aBCo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/UaxPHs8aBCo"
@@ -28593,7 +27988,7 @@
           "comment_count": 0,
           "duration_sec": 2721,
           "thumbnail_url": "https://i.ytimg.com/vi/aKPCxaclPJw/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/aKPCxaclPJw"
@@ -28608,7 +28003,7 @@
           "comment_count": 199,
           "duration_sec": 701,
           "thumbnail_url": "https://i.ytimg.com/vi/w4WdVg3Wxm0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/w4WdVg3Wxm0"
@@ -28623,7 +28018,7 @@
           "comment_count": 226,
           "duration_sec": 856,
           "thumbnail_url": "https://i.ytimg.com/vi/X5zfuogsIwI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "18",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/X5zfuogsIwI"
@@ -28638,7 +28033,7 @@
           "comment_count": 99,
           "duration_sec": 905,
           "thumbnail_url": "https://i.ytimg.com/vi/8pWYFdgBQyw/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "18",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/8pWYFdgBQyw"
@@ -28653,7 +28048,7 @@
           "comment_count": 269,
           "duration_sec": 374,
           "thumbnail_url": "https://i.ytimg.com/vi/mtLSXB96SBQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/mtLSXB96SBQ"
@@ -28668,7 +28063,7 @@
           "comment_count": 241,
           "duration_sec": 985,
           "thumbnail_url": "https://i.ytimg.com/vi/KINSsJu8Qi4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/KINSsJu8Qi4"
@@ -28683,7 +28078,7 @@
           "comment_count": 84,
           "duration_sec": 104,
           "thumbnail_url": "https://i.ytimg.com/vi/souXC88YVAU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/souXC88YVAU"
@@ -28698,7 +28093,7 @@
           "comment_count": 138,
           "duration_sec": 1434,
           "thumbnail_url": "https://i.ytimg.com/vi/ReAIYsXBAHE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ReAIYsXBAHE"
@@ -28743,7 +28138,7 @@
           "comment_count": 190,
           "duration_sec": 1870,
           "thumbnail_url": "https://i.ytimg.com/vi/ewSCxGGhgpM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/ewSCxGGhgpM"
@@ -28758,7 +28153,7 @@
           "comment_count": 118,
           "duration_sec": 31,
           "thumbnail_url": "https://i.ytimg.com/vi/Z9F6JoZstmg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/Z9F6JoZstmg"
@@ -28773,7 +28168,7 @@
           "comment_count": 189,
           "duration_sec": 1341,
           "thumbnail_url": "https://i.ytimg.com/vi/BZpCUfkpd80/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/BZpCUfkpd80"
@@ -28788,7 +28183,7 @@
           "comment_count": 79,
           "duration_sec": 1677,
           "thumbnail_url": "https://i.ytimg.com/vi/DRcU-XSxrSU/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/DRcU-XSxrSU"
@@ -28803,7 +28198,7 @@
           "comment_count": 97,
           "duration_sec": 185,
           "thumbnail_url": "https://i.ytimg.com/vi/nCSgen_MfqI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/nCSgen_MfqI"
@@ -28848,7 +28243,7 @@
           "comment_count": 0,
           "duration_sec": 561,
           "thumbnail_url": "https://i.ytimg.com/vi/YUtmJQ_dic0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/YUtmJQ_dic0"
@@ -28863,7 +28258,7 @@
           "comment_count": 47,
           "duration_sec": 161,
           "thumbnail_url": "https://i.ytimg.com/vi/tYepFo-rGzg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/tYepFo-rGzg"
@@ -28908,7 +28303,7 @@
           "comment_count": 100,
           "duration_sec": 1423,
           "thumbnail_url": "https://i.ytimg.com/vi/Mwpj3TqwvhY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Mwpj3TqwvhY"
@@ -28923,7 +28318,7 @@
           "comment_count": 193,
           "duration_sec": 1005,
           "thumbnail_url": "https://i.ytimg.com/vi/5RDLNrawh5w/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/5RDLNrawh5w"
@@ -28953,7 +28348,7 @@
           "comment_count": 195,
           "duration_sec": 1001,
           "thumbnail_url": "https://i.ytimg.com/vi/sSzc-KZbsVc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/sSzc-KZbsVc"
@@ -28983,7 +28378,7 @@
           "comment_count": 85,
           "duration_sec": 1190,
           "thumbnail_url": "https://i.ytimg.com/vi/6Xg00WPRQBY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/6Xg00WPRQBY"
@@ -29013,7 +28408,7 @@
           "comment_count": 275,
           "duration_sec": 1612,
           "thumbnail_url": "https://i.ytimg.com/vi/KZSjm6M3xwI/hqdefault.jpg",
-          "season": "환승연애2",
+          "season": "시즌2",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/KZSjm6M3xwI"
@@ -29028,7 +28423,7 @@
           "comment_count": 116,
           "duration_sec": 421,
           "thumbnail_url": "https://i.ytimg.com/vi/Y8fg8vPv9Gg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Y8fg8vPv9Gg"
@@ -29073,7 +28468,7 @@
           "comment_count": 47,
           "duration_sec": 189,
           "thumbnail_url": "https://i.ytimg.com/vi/n0KlMaQXwwU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/n0KlMaQXwwU"
@@ -29118,7 +28513,7 @@
           "comment_count": 96,
           "duration_sec": 967,
           "thumbnail_url": "https://i.ytimg.com/vi/uiT38gdk8h4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/uiT38gdk8h4"
@@ -29133,7 +28528,7 @@
           "comment_count": 331,
           "duration_sec": 862,
           "thumbnail_url": "https://i.ytimg.com/vi/8SyrNvmRWWY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/8SyrNvmRWWY"
@@ -29193,7 +28588,7 @@
           "comment_count": 35,
           "duration_sec": 41,
           "thumbnail_url": "https://i.ytimg.com/vi/0wGm44iBik8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/0wGm44iBik8"
@@ -29298,7 +28693,7 @@
           "comment_count": 26,
           "duration_sec": 165,
           "thumbnail_url": "https://i.ytimg.com/vi/c2KXL2aSW7c/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/c2KXL2aSW7c"
@@ -29334,21 +28729,6 @@
           "embed_url": "https://www.youtube.com/embed/FWCrc_dBG9k"
         },
         {
-          "video_id": "V1jY5OV_91k",
-          "channel_name": "TVING",
-          "title": "입주자들의 첫인상ㅣTVINGㅣ#환승연애",
-          "published_at": "2026-01-28T13:05:01Z",
-          "view_count": 85587,
-          "like_count": 936,
-          "comment_count": 15,
-          "duration_sec": 152,
-          "thumbnail_url": "https://i.ytimg.com/vi/V1jY5OV_91k/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": null,
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/V1jY5OV_91k"
-        },
-        {
           "video_id": "D0zebPEPl5w",
           "channel_name": "샾잉 #ing",
           "title": "[#환승연애4] 결혼까지 생각했는데 현실 앞에서 무너진 사랑..💔 원규X지현 서사",
@@ -29358,7 +28738,7 @@
           "comment_count": 0,
           "duration_sec": 592,
           "thumbnail_url": "https://i.ytimg.com/vi/D0zebPEPl5w/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/D0zebPEPl5w"
@@ -29388,7 +28768,7 @@
           "comment_count": 0,
           "duration_sec": 127,
           "thumbnail_url": "https://i.ytimg.com/vi/PDKL-0lSAyw/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "20",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/PDKL-0lSAyw"
@@ -29403,7 +28783,7 @@
           "comment_count": 97,
           "duration_sec": 969,
           "thumbnail_url": "https://i.ytimg.com/vi/sGphzJQQS8M/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/sGphzJQQS8M"
@@ -29418,7 +28798,7 @@
           "comment_count": 37,
           "duration_sec": 110,
           "thumbnail_url": "https://i.ytimg.com/vi/RUzvMrK3drI/hqdefault.jpg",
-          "season": "환승연애1",
+          "season": "시즌1",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/RUzvMrK3drI"
@@ -29433,7 +28813,7 @@
           "comment_count": 40,
           "duration_sec": 143,
           "thumbnail_url": "https://i.ytimg.com/vi/SAsTKH2q3Sc/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/SAsTKH2q3Sc"
@@ -29448,7 +28828,7 @@
           "comment_count": 484,
           "duration_sec": 1230,
           "thumbnail_url": "https://i.ytimg.com/vi/9nBZt12npDI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/9nBZt12npDI"
@@ -29568,7 +28948,7 @@
           "comment_count": 22,
           "duration_sec": 139,
           "thumbnail_url": "https://i.ytimg.com/vi/G0x9xW_wYps/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/G0x9xW_wYps"
@@ -29583,7 +28963,7 @@
           "comment_count": 188,
           "duration_sec": 1298,
           "thumbnail_url": "https://i.ytimg.com/vi/XrMr72NVIHA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/XrMr72NVIHA"
@@ -29598,7 +28978,7 @@
           "comment_count": 35,
           "duration_sec": 169,
           "thumbnail_url": "https://i.ytimg.com/vi/FKEWnAKcn50/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/FKEWnAKcn50"
@@ -29613,7 +28993,7 @@
           "comment_count": 229,
           "duration_sec": 1475,
           "thumbnail_url": "https://i.ytimg.com/vi/7hxlI9JD6u8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/7hxlI9JD6u8"
@@ -29658,7 +29038,7 @@
           "comment_count": 28,
           "duration_sec": 199,
           "thumbnail_url": "https://i.ytimg.com/vi/9wFf0YjSNEo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/9wFf0YjSNEo"
@@ -29673,7 +29053,7 @@
           "comment_count": 130,
           "duration_sec": 1300,
           "thumbnail_url": "https://i.ytimg.com/vi/NGWMj1XrIas/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/NGWMj1XrIas"
@@ -29692,21 +29072,6 @@
           "episode": "14",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ewJWoWl4Yu0"
-        },
-        {
-          "video_id": "GrlF60M-BEc",
-          "channel_name": "TVING",
-          "title": "커플은 낫 옛 입니다~ㅣTVINGㅣ#환승연애",
-          "published_at": "2026-01-28T13:07:00Z",
-          "view_count": 52569,
-          "like_count": 832,
-          "comment_count": 24,
-          "duration_sec": 177,
-          "thumbnail_url": "https://i.ytimg.com/vi/GrlF60M-BEc/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": null,
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/GrlF60M-BEc"
         },
         {
           "video_id": "3GPx9FS2tHQ",
@@ -29748,7 +29113,7 @@
           "comment_count": 7,
           "duration_sec": 133,
           "thumbnail_url": "https://i.ytimg.com/vi/DSb_ecUBrDQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/DSb_ecUBrDQ"
@@ -29778,7 +29143,7 @@
           "comment_count": 46,
           "duration_sec": 996,
           "thumbnail_url": "https://i.ytimg.com/vi/EjQZ4JPLg7A/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/EjQZ4JPLg7A"
@@ -29793,7 +29158,7 @@
           "comment_count": 10,
           "duration_sec": 214,
           "thumbnail_url": "https://i.ytimg.com/vi/bdloffwpXq0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/bdloffwpXq0"
@@ -29853,7 +29218,7 @@
           "comment_count": 102,
           "duration_sec": 3199,
           "thumbnail_url": "https://i.ytimg.com/vi/1dH-MEWdfjE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/1dH-MEWdfjE"
@@ -29883,7 +29248,7 @@
           "comment_count": 17,
           "duration_sec": 542,
           "thumbnail_url": "https://i.ytimg.com/vi/prLYiv7npsg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/prLYiv7npsg"
@@ -29913,7 +29278,7 @@
           "comment_count": 12,
           "duration_sec": 192,
           "thumbnail_url": "https://i.ytimg.com/vi/MFPrkgn65Tg/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/MFPrkgn65Tg"
@@ -29928,7 +29293,7 @@
           "comment_count": 163,
           "duration_sec": 851,
           "thumbnail_url": "https://i.ytimg.com/vi/JVZQzVPqCJI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/JVZQzVPqCJI"
@@ -30003,7 +29368,7 @@
           "comment_count": 25,
           "duration_sec": 206,
           "thumbnail_url": "https://i.ytimg.com/vi/HaXtTK8MTI8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/HaXtTK8MTI8"
@@ -30048,7 +29413,7 @@
           "comment_count": 29,
           "duration_sec": 564,
           "thumbnail_url": "https://i.ytimg.com/vi/_LdXb_o-sBU/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/_LdXb_o-sBU"
@@ -30063,7 +29428,7 @@
           "comment_count": 72,
           "duration_sec": 1211,
           "thumbnail_url": "https://i.ytimg.com/vi/e-I-f-DMBGY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/e-I-f-DMBGY"
@@ -30078,7 +29443,7 @@
           "comment_count": 47,
           "duration_sec": 1114,
           "thumbnail_url": "https://i.ytimg.com/vi/zQacHtx9ngA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/zQacHtx9ngA"
@@ -30093,7 +29458,7 @@
           "comment_count": 74,
           "duration_sec": 820,
           "thumbnail_url": "https://i.ytimg.com/vi/8jVdCKre6UM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/8jVdCKre6UM"
@@ -30138,7 +29503,7 @@
           "comment_count": 33,
           "duration_sec": 218,
           "thumbnail_url": "https://i.ytimg.com/vi/bmgK6zB8w7I/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/bmgK6zB8w7I"
@@ -30168,7 +29533,7 @@
           "comment_count": 103,
           "duration_sec": 996,
           "thumbnail_url": "https://i.ytimg.com/vi/PNsQcj4wplw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "5",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/PNsQcj4wplw"
@@ -30213,7 +29578,7 @@
           "comment_count": 102,
           "duration_sec": 1609,
           "thumbnail_url": "https://i.ytimg.com/vi/odo1iyg4oiM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/odo1iyg4oiM"
@@ -30228,7 +29593,7 @@
           "comment_count": 8,
           "duration_sec": 126,
           "thumbnail_url": "https://i.ytimg.com/vi/uX31z7_9viE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/uX31z7_9viE"
@@ -30258,7 +29623,7 @@
           "comment_count": 108,
           "duration_sec": 863,
           "thumbnail_url": "https://i.ytimg.com/vi/Op9GO8NOCtY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Op9GO8NOCtY"
@@ -30273,7 +29638,7 @@
           "comment_count": 4,
           "duration_sec": 185,
           "thumbnail_url": "https://i.ytimg.com/vi/YGgppZVfoG0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/YGgppZVfoG0"
@@ -30288,7 +29653,7 @@
           "comment_count": 2,
           "duration_sec": 115,
           "thumbnail_url": "https://i.ytimg.com/vi/9FpO0KKuCr8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/9FpO0KKuCr8"
@@ -30303,7 +29668,7 @@
           "comment_count": 79,
           "duration_sec": 735,
           "thumbnail_url": "https://i.ytimg.com/vi/WVGUp2Db1JM/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/WVGUp2Db1JM"
@@ -30348,7 +29713,7 @@
           "comment_count": 103,
           "duration_sec": 894,
           "thumbnail_url": "https://i.ytimg.com/vi/Zdb7k52sVkY/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Zdb7k52sVkY"
@@ -30363,7 +29728,7 @@
           "comment_count": 1,
           "duration_sec": 128,
           "thumbnail_url": "https://i.ytimg.com/vi/Yc_Jej2yxa4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Yc_Jej2yxa4"
@@ -30378,7 +29743,7 @@
           "comment_count": 95,
           "duration_sec": 1239,
           "thumbnail_url": "https://i.ytimg.com/vi/lRDDejm976U/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "12",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/lRDDejm976U"
@@ -30393,7 +29758,7 @@
           "comment_count": 1,
           "duration_sec": 35,
           "thumbnail_url": "https://i.ytimg.com/vi/K6ivu7vLLfE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/K6ivu7vLLfE"
@@ -30408,7 +29773,7 @@
           "comment_count": 4,
           "duration_sec": 147,
           "thumbnail_url": "https://i.ytimg.com/vi/F8xLXT7jocA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/F8xLXT7jocA"
@@ -30423,7 +29788,7 @@
           "comment_count": 11,
           "duration_sec": 459,
           "thumbnail_url": "https://i.ytimg.com/vi/aihUjCd8fn8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/aihUjCd8fn8"
@@ -30438,7 +29803,7 @@
           "comment_count": 16,
           "duration_sec": 493,
           "thumbnail_url": "https://i.ytimg.com/vi/Zk0kRAoq6PI/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/Zk0kRAoq6PI"
@@ -30453,7 +29818,7 @@
           "comment_count": 5,
           "duration_sec": 484,
           "thumbnail_url": "https://i.ytimg.com/vi/sckYmqj8XNk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/sckYmqj8XNk"
@@ -30483,7 +29848,7 @@
           "comment_count": 0,
           "duration_sec": 60,
           "thumbnail_url": "https://i.ytimg.com/vi/NnFN4DoBHQc/hqdefault.jpg",
-          "season": "환승연애3",
+          "season": "시즌3",
           "episode": "20",
           "content_type": "summary",
           "embed_url": "https://www.youtube.com/embed/NnFN4DoBHQc"
@@ -30498,7 +29863,7 @@
           "comment_count": 39,
           "duration_sec": 624,
           "thumbnail_url": "https://i.ytimg.com/vi/I6O4qrCEfJQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "15",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/I6O4qrCEfJQ"
@@ -30513,25 +29878,10 @@
           "comment_count": 21,
           "duration_sec": 368,
           "thumbnail_url": "https://i.ytimg.com/vi/ndRNI0wI4KE/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "16",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ndRNI0wI4KE"
-        },
-        {
-          "video_id": "UlJcmi9Qz6E",
-          "channel_name": "kt M모바일",
-          "title": "환승연프 출연자 비하인드ㅣkt M모바일 #shorts",
-          "published_at": "2026-04-27T08:00:35Z",
-          "view_count": 14355,
-          "like_count": 153,
-          "comment_count": 2,
-          "duration_sec": 89,
-          "thumbnail_url": "https://i.ytimg.com/vi/UlJcmi9Qz6E/hqdefault.jpg",
-          "season": "환승연애",
-          "episode": null,
-          "content_type": "other",
-          "embed_url": "https://www.youtube.com/embed/UlJcmi9Qz6E"
         },
         {
           "video_id": "6aKYDZZEPEE",
@@ -30558,7 +29908,7 @@
           "comment_count": 125,
           "duration_sec": 1839,
           "thumbnail_url": "https://i.ytimg.com/vi/YcSmjpnqXDs/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "13",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/YcSmjpnqXDs"
@@ -30588,7 +29938,7 @@
           "comment_count": 25,
           "duration_sec": 1100,
           "thumbnail_url": "https://i.ytimg.com/vi/6cqC_lN_fU0/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "5",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/6cqC_lN_fU0"
@@ -30663,7 +30013,7 @@
           "comment_count": 0,
           "duration_sec": 135,
           "thumbnail_url": "https://i.ytimg.com/vi/S7WnVFXvuSQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "other",
           "embed_url": "https://www.youtube.com/embed/S7WnVFXvuSQ"
@@ -30693,7 +30043,7 @@
           "comment_count": 23,
           "duration_sec": 907,
           "thumbnail_url": "https://i.ytimg.com/vi/uR8IST9KeoA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/uR8IST9KeoA"
@@ -30723,7 +30073,7 @@
           "comment_count": 10,
           "duration_sec": 303,
           "thumbnail_url": "https://i.ytimg.com/vi/YA9HoFa611o/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/YA9HoFa611o"
@@ -30783,7 +30133,7 @@
           "comment_count": 5,
           "duration_sec": 279,
           "thumbnail_url": "https://i.ytimg.com/vi/n4_vIuaEn2w/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/n4_vIuaEn2w"
@@ -30813,7 +30163,7 @@
           "comment_count": 7,
           "duration_sec": 402,
           "thumbnail_url": "https://i.ytimg.com/vi/y3_qGjkhKnA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/y3_qGjkhKnA"
@@ -30828,7 +30178,7 @@
           "comment_count": 24,
           "duration_sec": 1189,
           "thumbnail_url": "https://i.ytimg.com/vi/k2ytO6Hc5nA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/k2ytO6Hc5nA"
@@ -30858,7 +30208,7 @@
           "comment_count": 14,
           "duration_sec": 353,
           "thumbnail_url": "https://i.ytimg.com/vi/-GBpQLLDMjw/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/-GBpQLLDMjw"
@@ -30888,7 +30238,7 @@
           "comment_count": 12,
           "duration_sec": 995,
           "thumbnail_url": "https://i.ytimg.com/vi/In4hywhkWp8/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/In4hywhkWp8"
@@ -30933,7 +30283,7 @@
           "comment_count": 7,
           "duration_sec": 916,
           "thumbnail_url": "https://i.ytimg.com/vi/ufn6TgfgcuA/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "21",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ufn6TgfgcuA"
@@ -30978,7 +30328,7 @@
           "comment_count": 20,
           "duration_sec": 634,
           "thumbnail_url": "https://i.ytimg.com/vi/lupzvaXJXOQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/lupzvaXJXOQ"
@@ -31023,7 +30373,7 @@
           "comment_count": 21,
           "duration_sec": 438,
           "thumbnail_url": "https://i.ytimg.com/vi/ytM5qQikFSQ/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "19",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/ytM5qQikFSQ"
@@ -31053,7 +30403,7 @@
           "comment_count": 17,
           "duration_sec": 1762,
           "thumbnail_url": "https://i.ytimg.com/vi/4f2xgvu3UH4/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": "20",
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/4f2xgvu3UH4"
@@ -31068,7 +30418,7 @@
           "comment_count": 10,
           "duration_sec": 510,
           "thumbnail_url": "https://i.ytimg.com/vi/nshQgrnQmNo/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/nshQgrnQmNo"
@@ -31083,7 +30433,7 @@
           "comment_count": 6,
           "duration_sec": 913,
           "thumbnail_url": "https://i.ytimg.com/vi/VXwTJqMb4Pk/hqdefault.jpg",
-          "season": "환승연애4",
+          "season": "시즌4",
           "episode": null,
           "content_type": "review",
           "embed_url": "https://www.youtube.com/embed/VXwTJqMb4Pk"
