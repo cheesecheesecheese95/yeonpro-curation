@@ -180,11 +180,8 @@ function renderShow(){
   curSeason = null; // 기본: 전체
 
   const el=document.getElementById('season-row');
-  el.innerHTML = `<div class="chip active" style="background:${color}" onclick="setSeason(null)">전체 ${show.total}</div>` +
-    seasons.map(s => {
-      const cnt = (show.seasons||[]).find(x=>x.season===s);
-      return `<div class="chip" onclick="setSeason('${s}')">${s} ${cnt?cnt.cnt:''}</div>`;
-    }).join('');
+  el.innerHTML = `<div class="chip active" style="background:${color}" onclick="setSeason(null)">전체</div>` +
+    seasons.map(s => `<div class="chip" onclick="setSeason('${s}')">${s}</div>`).join('');
 
   renderEpisodes();
 }
