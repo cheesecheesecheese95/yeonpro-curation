@@ -1,5 +1,5 @@
 """연프로 피드 JSON 생성"""
-import json, sqlite3, os
+import json, sqlite3, os, re
 
 DB_PATH = os.path.join(os.path.dirname(__file__), "data", "yeonpro.db")
 FEED_PATH = os.path.join(os.path.dirname(__file__), "data", "feed.json")
@@ -10,6 +10,10 @@ SHOWS_META = {
     "나는솔로": {"icon": "🌹", "color": "#C0392B", "en": "I Am Solo"},
     "환승연애": {"icon": "🔄", "color": "#8E44AD", "en": "EXchange"},
 }
+
+def season_sort_key(s):
+    num = re.search(r'(\d+)', s.get("season","") or "")
+    return int(num.group(1)) if num else 0
 
 def export():
     conn = sqlite3.connect(DB_PATH)
@@ -23,8 +27,7 @@ def export():
                    view_count, like_count, comment_count, duration_sec,
                    thumbnail_url, season, episode, content_type
             FROM videos WHERE show_name = ? AND view_count >= 1000
-                AND (published_at > datetime('now','-1 day') OR view_count >= 1000)
-            ORDER BY view_count DESC LIMIT 500
+            ORDER BY view_count DESC LIMIT 800
         """, (show_name,)).fetchall()]
 
         for v in videos:
@@ -33,9 +36,10 @@ def export():
         # 시즌 목록
         seasons = [dict(r) for r in conn.execute("""
             SELECT season, COUNT(*) as cnt, SUM(view_count) as views
-            FROM videos WHERE show_name = ? AND season IS NOT NULL
-            GROUP BY season ORDER BY season DESC
+            FROM videos WHERE show_name = ? AND season IS NOT NULL AND view_count >= 1000
+            GROUP BY season
         """, (show_name,)).fetchall()]
+        seasons.sort(key=season_sort_key, reverse=True)
 
         feed["shows"][show_name] = {
             **meta,

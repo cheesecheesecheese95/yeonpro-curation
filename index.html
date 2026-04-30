@@ -175,15 +175,16 @@ function renderShow(){
   if(!show) return;
   const color=COLORS[curShow];
 
-  // 시즌 목록 (정렬)
-  const seasons = (show.seasons||[]).map(s=>s.season).sort(seasonSort);
-  if(!curSeason && seasons.length) curSeason=seasons[0]; // 최신 시즌 기본 선택
+  // 시즌 목록
+  const seasons = (show.seasons||[]).map(s=>s.season);
+  curSeason = null; // 기본: 전체
 
   const el=document.getElementById('season-row');
-  el.innerHTML = seasons.map(s=>{
-    const active = s===curSeason;
-    return `<div class="chip${active?' active':''}" style="${active?'background:'+color:''}" onclick="setSeason('${s}')">${s}</div>`;
-  }).join('');
+  el.innerHTML = `<div class="chip active" style="background:${color}" onclick="setSeason(null)">전체 ${show.total}</div>` +
+    seasons.map(s => {
+      const cnt = (show.seasons||[]).find(x=>x.season===s);
+      return `<div class="chip" onclick="setSeason('${s}')">${s} ${cnt?cnt.cnt:''}</div>`;
+    }).join('');
 
   renderEpisodes();
 }
@@ -192,9 +193,10 @@ function setSeason(s){
   curSeason=s; curEp=null;
   const color=COLORS[curShow];
   document.querySelectorAll('#season-row .chip').forEach(c=>{
-    const act=c.textContent===s;
-    c.classList.toggle('active',act);
-    c.style.background=act?color:'';
+    const isAll = !s && c.textContent.startsWith('전체');
+    const isMatch = s && c.textContent.startsWith(s);
+    c.classList.toggle('active', isAll || isMatch);
+    c.style.background = (isAll || isMatch) ? color : '';
   });
   renderEpisodes();
 }
@@ -205,7 +207,7 @@ function renderEpisodes(){
   const color=COLORS[curShow];
 
   // 현재 시즌의 회차 목록
-  const seasonVideos = show.videos.filter(v=>v.season===curSeason);
+  const seasonVideos = curSeason ? show.videos.filter(v=>v.season===curSeason) : [];
   const eps = [...new Set(seasonVideos.filter(v=>v.episode).map(v=>v.episode))].sort((a,b)=>parseInt(a)-parseInt(b));
 
   const section=document.getElementById('ep-section');
@@ -247,7 +249,7 @@ function apply(){
   const show=feed.shows[curShow];
   if(!show) return;
 
-  let items=show.videos.filter(v=>v.season===curSeason);
+  let items = curSeason ? show.videos.filter(v=>v.season===curSeason) : [...show.videos];
   if(curEp) items=items.filter(v=>v.episode===curEp);
   if(curType!=='all') items=items.filter(v=>v.content_type===curType);
   if(hideWatched) items=items.filter(v=>!isW(v.video_id));
@@ -257,7 +259,7 @@ function apply(){
   filtered=items;
 
   // 타입별 카운트
-  const allForCount=show.videos.filter(v=>v.season===curSeason&&(!curEp||v.episode===curEp));
+  const allForCount = curSeason ? show.videos.filter(v=>v.season===curSeason&&(!curEp||v.episode===curEp)) : show.videos.filter(v=>!curEp||v.episode===curEp);
   document.getElementById('cnt-summary').textContent=allForCount.filter(v=>v.content_type==='summary').length||'';
   document.getElementById('cnt-review').textContent=allForCount.filter(v=>v.content_type==='review').length||'';
 
