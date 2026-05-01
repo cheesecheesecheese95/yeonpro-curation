@@ -14,11 +14,8 @@
 }
 html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
 .app{max-width:var(--max-w);margin:0 auto;min-height:100vh;}
-
 .header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,0.92);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);padding:14px 16px 0;border-bottom:1px solid var(--surface2);}
 .brand{font-size:16px;font-weight:900;margin-bottom:12px;display:flex;align-items:center;gap:6px;color:var(--text);}
-
-/* Show Tabs */
 .show-tabs{display:flex;border-bottom:2px solid var(--surface2);}
 .show-tab{flex:1;padding:10px 0;text-align:center;font-size:11px;font-weight:700;color:var(--text3);cursor:pointer;border:none;background:none;font-family:inherit;position:relative;transition:color 0.2s;display:flex;flex-direction:column;align-items:center;gap:2px;}
 .show-tab .icon{font-size:18px;}
@@ -28,59 +25,60 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 .show-tab[data-s="하트시그널"].active::after{background:var(--heart);}
 .show-tab[data-s="나는솔로"].active::after{background:var(--nasol);}
 .show-tab[data-s="환승연애"].active::after{background:var(--hwan);}
-
 /* Show intro */
 .show-intro{padding:12px 16px;background:var(--surface);margin:10px 16px 0;border-radius:12px;display:flex;gap:10px;align-items:center;box-shadow:0 1px 4px rgba(0,0,0,0.06);}
 .show-intro .intro-icon{font-size:28px;}
 .show-intro .intro-text{flex:1;}
 .show-intro .intro-name{font-size:14px;font-weight:800;margin-bottom:2px;color:var(--text);}
 .show-intro .intro-desc{font-size:11px;color:var(--text2);line-height:1.5;}
-
-/* Search */
-.search-bar{padding:10px 16px 0;}
-.search-input{width:100%;padding:10px 14px;border-radius:12px;border:1.5px solid var(--surface2);background:var(--surface);color:var(--text);font-size:13px;font-family:inherit;outline:none;box-shadow:0 1px 3px rgba(0,0,0,0.04);}
-.search-input:focus{border-color:var(--heart);box-shadow:0 0 0 3px rgba(255,45,85,0.1);}
-.search-input::placeholder{color:var(--text3);}
-
-/* Season/Episode chips */
+.show-intro .intro-airing{display:inline-block;font-size:9px;font-weight:700;padding:2px 8px;border-radius:10px;background:#FF2D55;color:#fff;margin-left:6px;animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.6;}}
+/* Progress tracker */
+.progress-section{margin:10px 16px 0;background:var(--surface);border-radius:12px;padding:12px 14px;box-shadow:0 1px 4px rgba(0,0,0,0.06);}
+.progress-label{font-size:11px;font-weight:700;color:var(--text3);margin-bottom:6px;}
+.progress-bar-bg{height:8px;background:var(--surface2);border-radius:4px;overflow:hidden;margin-bottom:4px;}
+.progress-bar-fill{height:100%;border-radius:4px;transition:width 0.3s;}
+.progress-text{font-size:10px;color:var(--text3);text-align:right;}
+/* Season/Episode */
 .row{display:flex;gap:6px;overflow-x:auto;padding:10px 16px 6px;-webkit-overflow-scrolling:touch;}
 .row::-webkit-scrollbar{display:none;}
 .chip{padding:7px 14px;border-radius:20px;font-size:12px;font-weight:600;white-space:nowrap;cursor:pointer;border:1px solid var(--surface2);background:var(--surface);color:var(--text2);transition:all 0.15s;flex-shrink:0;box-shadow:0 1px 2px rgba(0,0,0,0.04);}
 .chip.active{color:#fff;border-color:transparent;box-shadow:0 2px 6px rgba(0,0,0,0.12);}
-
 .ep-section{padding:6px 16px 0;}
 .ep-label{font-size:12px;font-weight:700;color:var(--text3);margin-bottom:8px;}
 .ep-grid{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;}
 .ep-btn{width:42px;height:36px;border-radius:10px;font-size:13px;font-weight:700;cursor:pointer;border:1px solid var(--surface2);background:var(--surface);color:var(--text2);font-family:inherit;transition:all 0.15s;display:flex;align-items:center;justify-content:center;box-shadow:0 1px 2px rgba(0,0,0,0.04);}
 .ep-btn.active{color:#fff;border-color:transparent;box-shadow:0 2px 6px rgba(0,0,0,0.12);}
-
+/* Season summary */
+.season-summary{margin:0 16px 8px;padding:10px 14px;background:var(--surface);border-radius:10px;font-size:11px;color:var(--text2);line-height:1.6;box-shadow:0 1px 3px rgba(0,0,0,0.04);}
 /* Type tabs */
 .type-tabs{display:flex;gap:0;margin:6px 16px 8px;border-radius:10px;overflow:hidden;border:1px solid var(--surface2);}
 .type-tab{flex:1;padding:9px;text-align:center;font-size:12px;font-weight:700;color:var(--text3);cursor:pointer;border:none;background:var(--surface);font-family:inherit;transition:all 0.15s;}
 .type-tab.active{background:var(--text);color:#fff;}
 .type-tab .cnt{font-size:10px;opacity:0.6;margin-left:3px;}
-
 /* Info bar */
 .info-bar{padding:4px 16px 6px;display:flex;align-items:center;justify-content:space-between;}
 .info-bar .cnt{font-size:12px;color:var(--text3);}
 .filter-btn{font-size:11px;color:var(--text2);background:var(--surface);border:1px solid var(--surface2);border-radius:8px;padding:4px 10px;cursor:pointer;font-family:inherit;box-shadow:0 1px 2px rgba(0,0,0,0.04);}
 .filter-btn.active{color:#fff;background:#30D158;border-color:#30D158;}
-
 /* Video list */
 .vlist{padding:0 16px 100px;}
-.vcard{display:flex;gap:12px;background:var(--surface);border-radius:12px;padding:10px;margin-bottom:8px;cursor:pointer;transition:transform 0.12s;box-shadow:0 1px 4px rgba(0,0,0,0.06);border:1px solid var(--surface2);}
+.vcard{display:flex;gap:12px;background:var(--surface);border-radius:12px;padding:10px;margin-bottom:8px;cursor:pointer;transition:transform 0.12s;box-shadow:0 1px 4px rgba(0,0,0,0.06);border:1px solid var(--surface2);position:relative;}
 .vcard:active{transform:scale(0.98);}
 .vcard.watched{opacity:0.4;}
-.vcard-thumb{position:relative;width:150px;height:84px;border-radius:8px;overflow:hidden;flex-shrink:0;background:#111;}
+.vcard.spoiler-blur .vcard-thumb img{filter:blur(8px);}
+.vcard-new{position:absolute;top:-4px;right:-4px;background:#FF2D55;color:#fff;font-size:8px;font-weight:800;padding:2px 6px;border-radius:8px;z-index:1;}
+.vcard-thumb{position:relative;width:150px;height:84px;border-radius:8px;overflow:hidden;flex-shrink:0;background:#eee;}
 .vcard-thumb img{width:100%;height:100%;object-fit:cover;}
 .vcard-dur{position:absolute;bottom:3px;right:3px;background:rgba(0,0,0,0.8);color:#fff;font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px;}
 .vcard-rank{position:absolute;top:3px;left:3px;background:rgba(0,0,0,0.7);color:#fff;font-size:10px;font-weight:900;padding:1px 6px;border-radius:4px;}
 .vcard-ep{position:absolute;top:3px;right:3px;font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;color:#fff;}
+.vcard-official{position:absolute;bottom:3px;left:3px;background:rgba(0,0,0,0.7);color:#FFD700;font-size:8px;font-weight:700;padding:1px 5px;border-radius:3px;}
+.vcard-spoiler-warn{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.6);color:#fff;font-size:10px;font-weight:700;padding:4px 10px;border-radius:6px;z-index:1;}
 .vcard-body{flex:1;min-width:0;display:flex;flex-direction:column;}
 .vcard-title{font-size:12px;font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:auto;}
 .vcard-meta{display:flex;flex-wrap:wrap;gap:6px;font-size:10px;color:var(--text3);margin-top:6px;}
 .vcard-watched-badge{color:#30D158;font-weight:700;}
-
 /* Player */
 .player{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,0.98);z-index:500;display:none;flex-direction:column;}
 .player.active{display:flex;}
@@ -99,7 +97,6 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 .pn-item img{width:100px;height:56px;object-fit:cover;border-radius:5px;flex-shrink:0;}
 .pn-item .t{font-size:11px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
 .pn-item .m{font-size:10px;color:var(--text3);margin-top:2px;}
-
 .empty{text-align:center;padding:40px 0;color:var(--text3);font-size:13px;}
 </style>
 </head>
@@ -114,17 +111,16 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
       <button class="show-tab" data-s="환승연애" onclick="setShow('환승연애')"><span class="icon">🔄</span>환승연애</button>
     </div>
   </div>
-
-  <div class="show-intro" id="show-intro"></div>
-
   <input type="hidden" id="searchInput" value="">
-
+  <div class="show-intro" id="show-intro"></div>
+  <div class="progress-section" id="progress-section" style="display:none;"></div>
   <div class="row" id="season-row"></div>
+  <div id="season-summary"></div>
   <div class="ep-section" id="ep-section" style="display:none;">
     <div class="ep-label">회차 선택</div>
     <div class="ep-grid" id="ep-grid"></div>
   </div>
-  <div class="type-tabs" id="type-tabs">
+  <div class="type-tabs">
     <button class="type-tab active" onclick="setType(this,'summary')">📝 요약<span class="cnt" id="cnt-summary"></span></button>
     <button class="type-tab" onclick="setType(this,'review')">💬 리뷰<span class="cnt" id="cnt-review"></span></button>
     <button class="type-tab" onclick="setType(this,'other')">📌 기타<span class="cnt" id="cnt-other"></span></button>
@@ -155,13 +151,24 @@ html,body{font-family:-apple-system,'Noto Sans KR',sans-serif;background:var(--b
 
 <script>
 let feed={shows:{}}, curShow='솔로지옥', curSeason=null, curEp=null, curType='summary', hideWatched=false, filtered=[], curVid=null;
-const COLORS={솔로지옥:'#FF6B35',하트시그널:'#FF2D55',나는솔로:'#C0392B',환승연애:'#8E44AD'};
+const COLORS={솔로지옥:'#FF6B35',하트시그널:'#FF2D55',나는솔로:'#E74C3C',환승연애:'#8E44AD'};
 const INTROS={
   솔로지옥:{desc:'지옥 같은 무인도에서 천국 같은 파라다이스행 티켓을 얻기 위한 솔로들의 연애 서바이벌 (넷플릭스)',seasons:'시즌1~5'},
-  하트시그널:{desc:'시그널 하우스에 모인 남녀의 연애를 패널들이 추리하는 관찰 예능 (채널A)',seasons:'시즌1~5'},
-  나는솔로:{desc:'결혼을 꿈꾸는 솔로 남녀의 진짜 결혼 리얼리티 (ENA)',seasons:'1기~31기+'},
+  하트시그널:{desc:'시그널 하우스에 모인 남녀의 연애를 패널들이 추리하는 관찰 예능 (채널A)',seasons:'시즌1~5',airing:true},
+  나는솔로:{desc:'결혼을 꿈꾸는 솔로 남녀의 진짜 결혼 리얼리티 (ENA)',seasons:'1기~31기+',airing:true},
   환승연애:{desc:'헤어진 연인과 새로운 사람 사이에서 선택하는 연애 리얼리티 (TVING)',seasons:'시즌1~4'},
 };
+const SEASON_SUMMARIES={
+  '솔로지옥_시즌5':'2026년 1월 방영. 역대 가장 뜨거웠던 시즌! 임수빈, 이희선 등 출연',
+  '솔로지옥_시즌4':'2024년 방영. 김서연, 박장현 등 출연',
+  '솔로지옥_시즌3':'2023년 방영. 최혜선, 안민영 등 출연',
+  '하트시그널_시즌5':'2026년 4월 방영 중! 현재 진행형',
+  '하트시그널_시즌4':'2024년 방영. 역대 최고 화제성',
+  '나는솔로_31기':'2026년 방영. 영숙·영철의 운명은?',
+  '환승연애_시즌4':'2025년 방영. 역대급 반전의 연속',
+};
+// 공식 채널 목록
+const OFFICIAL_CHANNELS=['Netflix Korea','TVING','Channel A','ENA','채널A','나는솔로','JTBC','tvN'];
 
 function fmt(n){if(n>=100000000)return(n/100000000).toFixed(1)+'억';if(n>=10000)return Math.round(n/10000)+'만';if(n>=1000)return Math.round(n/1000)+'천';return n+'';}
 function fmtDur(s){if(!s)return'';const m=Math.floor(s/60);return m>60?Math.floor(m/60)+'시간 '+(m%60)+'분':m+'분';}
@@ -170,66 +177,94 @@ function isW(id){return!!getW()[id];}
 function markW(id){const w=getW();w[id]=Date.now();localStorage.setItem('yp_w',JSON.stringify(w));}
 function unmarkW(id){const w=getW();delete w[id];localStorage.setItem('yp_w',JSON.stringify(w));}
 
+function isNew(publishedAt){
+  if(!publishedAt)return false;
+  return(Date.now()-new Date(publishedAt).getTime())<3*24*60*60*1000;
+}
+function isOfficial(channelName){
+  return OFFICIAL_CHANNELS.some(c=>channelName.includes(c));
+}
+function isSpoiler(title){
+  return/결말|최종선택|결과|현커|엔딩|스포/.test(title);
+}
+
 function seasonSortKey(s){return parseInt(s.replace(/[^0-9]/g,''))||0;}
 
 async function load(){
-  try{
-    const r=await fetch('data/feed.json?t='+Date.now());
-    feed=await r.json();
-    renderShow();
-  }catch{document.getElementById('vlist').innerHTML='<div class="empty">데이터를 불러올 수 없습니다.</div>';}
+  try{const r=await fetch('data/feed.json?t='+Date.now());feed=await r.json();renderShow();}
+  catch{document.getElementById('vlist').innerHTML='<div class="empty">데이터를 불러올 수 없습니다.</div>';}
 }
 
 function setShow(name){
   document.querySelectorAll('.show-tab').forEach(t=>t.classList.remove('active'));
   document.querySelector(`.show-tab[data-s="${name}"]`).classList.add('active');
-  curShow=name; curSeason=null; curEp=null; curType='summary';
+  curShow=name;curSeason=null;curEp=null;curType='summary';
   document.querySelectorAll('.type-tab').forEach((t,i)=>t.classList.toggle('active',i===0));
-  document.getElementById('searchInput').value='';
   renderShow();
 }
 
 function renderShow(){
   const show=feed.shows[curShow];
-  if(!show) return;
+  if(!show)return;
   const color=COLORS[curShow];
   const intro=INTROS[curShow];
-
-  // 프로그램 소개
+  // Intro
   document.getElementById('show-intro').innerHTML=`
     <div class="intro-icon">${show.icon}</div>
     <div class="intro-text">
-      <div class="intro-name">${curShow} <span style="font-size:11px;color:var(--text3);font-weight:500;">${intro.seasons}</span></div>
+      <div class="intro-name">${curShow} <span style="font-size:11px;color:var(--text3);font-weight:500;">${intro.seasons}</span>
+        ${intro.airing?'<span class="intro-airing">🔴 방영 중</span>':''}
+      </div>
       <div class="intro-desc">${intro.desc}</div>
     </div>`;
   document.getElementById('show-intro').style.borderLeft=`3px solid ${color}`;
 
-  // 시즌 목록
+  // Seasons
   const seasons=(show.seasons||[]).map(s=>s.season);
-  if(!curSeason && seasons.length) curSeason=seasons[0];
-  const el=document.getElementById('season-row');
-  el.innerHTML=seasons.map(s=>{
+  if(!curSeason&&seasons.length)curSeason=seasons[0];
+  document.getElementById('season-row').innerHTML=seasons.map(s=>{
     const act=s===curSeason;
     return `<div class="chip${act?' active':''}" style="${act?'background:'+color:''}" onclick="setSeason('${s}')">${s}</div>`;
   }).join('');
 
+  // Progress tracker
+  renderProgress();
   renderEpisodes();
 }
 
+function renderProgress(){
+  const show=feed.shows[curShow];
+  if(!show||!curSeason)return;
+  const seasonVids=show.videos.filter(v=>v.season===curSeason);
+  const eps=[...new Set(seasonVids.filter(v=>v.episode&&v.episode!=='null').map(v=>v.episode))];
+  const watchedEps=new Set();
+  seasonVids.forEach(v=>{if(v.episode&&isW(v.video_id))watchedEps.add(v.episode);});
+  const total=eps.length;
+  const done=watchedEps.size;
+  const pct=total?Math.round(done/total*100):0;
+  const color=COLORS[curShow];
+  const el=document.getElementById('progress-section');
+  if(total>0){
+    el.style.display='';
+    el.innerHTML=`<div class="progress-label">📊 ${curSeason} 시청 진행도</div>
+      <div class="progress-bar-bg"><div class="progress-bar-fill" style="width:${pct}%;background:${color};"></div></div>
+      <div class="progress-text">${done}/${total}화 시청 (${pct}%)</div>`;
+  }else{el.style.display='none';}
+}
+
 function setSeason(s){
-  curSeason=s; curEp=null;
+  curSeason=s;curEp=null;
   const color=COLORS[curShow];
   document.querySelectorAll('#season-row .chip').forEach(c=>{
-    const isMatch=c.textContent===s;
-    c.classList.toggle('active',isMatch);
-    c.style.background=isMatch?color:'';
+    const m=c.textContent===s;c.classList.toggle('active',m);c.style.background=m?color:'';
   });
+  renderProgress();
   renderEpisodes();
 }
 
 function renderEpisodes(){
   const show=feed.shows[curShow];
-  if(!show) return;
+  if(!show)return;
   const color=COLORS[curShow];
   const seasonVids=curSeason?show.videos.filter(v=>v.season===curSeason):[];
   const eps=[...new Set(seasonVids.filter(v=>v.episode&&v.episode!=='null'&&v.episode!=='None').map(v=>v.episode))].sort((a,b)=>parseInt(a)-parseInt(b));
@@ -241,59 +276,36 @@ function renderEpisodes(){
       const act=curEp===e;
       return `<div class="ep-btn${act?' active':''}" style="${act?'background:'+color:''}" onclick="setEp('${e}')">${e}</div>`;
     }).join('');
-  } else {
-    section.style.display='none';
-  }
+  }else{section.style.display='none';}
+  // Season summary
+  const sumKey=`${curShow}_${curSeason}`;
+  const sumEl=document.getElementById('season-summary');
+  if(SEASON_SUMMARIES[sumKey]){
+    sumEl.innerHTML=`<div class="season-summary">💡 ${SEASON_SUMMARIES[sumKey]}</div>`;
+  }else{sumEl.innerHTML='';}
   apply();
 }
 
 function setEp(ep){curEp=ep;renderEpisodes();}
-
-function setType(el,type){
-  document.querySelectorAll('.type-tab').forEach(t=>t.classList.remove('active'));
-  el.classList.add('active');
-  curType=type;
-  apply();
-}
-
-function toggleHideWatched(){
-  hideWatched=!hideWatched;
-  document.getElementById('hide-watched').classList.toggle('active',hideWatched);
-  apply();
-}
+function setType(el,type){document.querySelectorAll('.type-tab').forEach(t=>t.classList.remove('active'));el.classList.add('active');curType=type;apply();}
+function toggleHideWatched(){hideWatched=!hideWatched;document.getElementById('hide-watched').classList.toggle('active',hideWatched);apply();}
 
 function apply(){
   const show=feed.shows[curShow];
-  if(!show) return;
-
+  if(!show)return;
   let items=curSeason?show.videos.filter(v=>v.season===curSeason):[...show.videos];
-  if(curEp) items=items.filter(v=>v.episode===curEp);
-
-  // 검색
+  if(curEp)items=items.filter(v=>v.episode===curEp);
   const q=(document.getElementById('searchInput').value||'').trim().toLowerCase();
-  if(q) items=items.filter(v=>v.title.toLowerCase().includes(q)||v.channel_name.toLowerCase().includes(q));
-
-  // 타입별 카운트
+  if(q)items=items.filter(v=>v.title.toLowerCase().includes(q)||v.channel_name.toLowerCase().includes(q));
   const base=[...items];
   document.getElementById('cnt-summary').textContent=base.filter(v=>v.content_type==='summary').length||'';
   document.getElementById('cnt-review').textContent=base.filter(v=>v.content_type==='review').length||'';
   document.getElementById('cnt-other').textContent=base.filter(v=>v.content_type==='other'||!v.content_type).length||'';
-
-  // 타입 필터
-  if(curType==='other') items=items.filter(v=>v.content_type==='other'||!v.content_type);
+  if(curType==='other')items=items.filter(v=>v.content_type==='other'||!v.content_type);
   else items=items.filter(v=>v.content_type===curType);
-
-  if(hideWatched) items=items.filter(v=>!isW(v.video_id));
-
-  // 정렬: 회차순 → 같은 회차 내 조회수순
-  items.sort((a,b)=>{
-    const ea=parseInt(a.episode)||9999;
-    const eb=parseInt(b.episode)||9999;
-    if(ea!==eb) return ea-eb;
-    return b.view_count-a.view_count;
-  });
+  if(hideWatched)items=items.filter(v=>!isW(v.video_id));
+  items.sort((a,b)=>{const ea=parseInt(a.episode)||9999,eb=parseInt(b.episode)||9999;if(ea!==eb)return ea-eb;return b.view_count-a.view_count;});
   filtered=items;
-
   const label=curEp?`${curSeason} ${curEp}화`:curSeason||'';
   document.getElementById('count-info').textContent=`${label} · ${items.length}개 영상`;
   render(items);
@@ -305,12 +317,18 @@ function render(items){
   const color=COLORS[curShow];
   el.innerHTML=items.slice(0,80).map((v,i)=>{
     const w=isW(v.video_id);
-    return `<div class="vcard${w?' watched':''}" onclick="play(${i})">
+    const official=isOfficial(v.channel_name);
+    const spoiler=isSpoiler(v.title);
+    const newVid=isNew(v.published_at);
+    return `<div class="vcard${w?' watched':''}${spoiler&&!w?' spoiler-blur':''}" onclick="play(${i})">
+      ${newVid?'<div class="vcard-new">🆕 NEW</div>':''}
       <div class="vcard-thumb">
         <img src="${v.thumbnail_url||'https://img.youtube.com/vi/'+v.video_id+'/mqdefault.jpg'}" loading="lazy">
         <span class="vcard-dur">${fmtDur(v.duration_sec)}</span>
         <span class="vcard-rank">${i+1}</span>
         ${v.episode?`<span class="vcard-ep" style="background:${color}">${v.episode}화</span>`:''}
+        ${official?'<span class="vcard-official">공식</span>':''}
+        ${spoiler&&!w?'<span class="vcard-spoiler-warn">⚠️ 스포 주의</span>':''}
       </div>
       <div class="vcard-body">
         <div class="vcard-title">${v.title}</div>
@@ -326,8 +344,7 @@ function render(items){
 }
 
 function play(i){
-  const v=filtered[i]; if(!v) return;
-  curVid=v.video_id;
+  const v=filtered[i];if(!v)return;curVid=v.video_id;
   document.getElementById('p-iframe').src=v.embed_url+'?autoplay=1';
   document.getElementById('p-title').textContent=v.title;
   document.getElementById('p-ch').textContent=v.channel_name;
@@ -352,16 +369,15 @@ function toggleWatched(){
   const wb=document.getElementById('p-btn');
   if(isW(curVid)){unmarkW(curVid);wb.textContent='👁 시청 완료';wb.classList.remove('done');}
   else{markW(curVid);wb.textContent='✓ 시청 완료';wb.classList.add('done');}
+  renderProgress();
 }
 
 function closePlayer(){
   document.getElementById('player').classList.remove('active');
   document.getElementById('p-iframe').src='';
-  document.body.style.overflow='';
-  curVid=null; apply();
+  document.body.style.overflow='';curVid=null;apply();renderProgress();
 }
 
-document.getElementById('searchInput').addEventListener('input',()=>apply());
 load();
 </script>
 </body>
